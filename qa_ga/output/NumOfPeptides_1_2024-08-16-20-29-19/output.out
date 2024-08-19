@@ -1,0 +1,16 @@
+start
+Target sequence: DFTAWKELVWPELDQLLRDE
+qa:[-95.91943499] >= ga:[-96.27985112]
+qa:15.929046869277954 >= ga:0.4978938102722168
+qa:0_GAC_1_TTC_2_ACT_3_GCT_4_TGG_5_AAG_6_GAG_7_CTC_8_GTA_9_TGG_10_CCA_11_GAG_12_CTC_13_GAT_14_CAG_15_CTG_16_CTG_17_CGC_18_GAC_19_GAG_
+ga:0_GAC_1_TTC_2_ACT_3_GCG_4_TGG_5_AAG_6_GAG_7_CTC_8_GTG_9_TGG_10_CCG_11_GAG_12_CTC_13_GAT_14_CAG_15_CTG_16_CTG_17_CGC_18_GAT_19_GAG_
+Differences found:
+Index 3: A - qa_codon: GCT, ga_codon: GCG
+Index 8: V - qa_codon: GTA, ga_codon: GTG
+Index 10: P - qa_codon: CCA, ga_codon: CCG
+Index 18: D - qa_codon: GAC, ga_codon: GAT
+end
+
+Energy Values:
+(array([-96.27985112]), array([-95.91943499]))
+Total Time taken: 16.436848640441895 seconds

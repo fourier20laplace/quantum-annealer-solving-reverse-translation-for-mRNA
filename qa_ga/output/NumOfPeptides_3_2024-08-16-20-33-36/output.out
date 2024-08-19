@@ -1,0 +1,44 @@
+start
+Target sequence: DFTAWKELVWPELDQLLRDE
+qa:[-95.94028986] >= ga:[-96.27985112]
+qa:17.757903337478638 >= ga:0.5001876354217529
+qa:0_GAC_1_TTC_2_ACT_3_GCA_4_TGG_5_AAG_6_GAG_7_CTA_8_GTG_9_TGG_10_CCG_11_GAG_12_CTG_13_GAT_14_CAG_15_CTG_16_CTG_17_CGT_18_GAT_19_GAG_
+ga:0_GAC_1_TTC_2_ACT_3_GCG_4_TGG_5_AAG_6_GAG_7_CTC_8_GTG_9_TGG_10_CCG_11_GAG_12_CTC_13_GAT_14_CAG_15_CTG_16_CTG_17_CGC_18_GAT_19_GAG_
+Differences found:
+Index 3: A - qa_codon: GCA, ga_codon: GCG
+Index 7: L - qa_codon: CTA, ga_codon: CTC
+Index 12: L - qa_codon: CTG, ga_codon: CTC
+Index 17: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: PFQQFGRDIADTTDAVRDPQ
+qa:[-96.57449438] >= ga:[-96.82098811]
+qa:18.89031410217285 >= ga:0.5830929279327393
+qa:0_CCG_1_TTC_2_CAG_3_CAG_4_TTC_5_GGC_6_CGC_7_GAT_8_ATC_9_GCA_10_GAT_11_ACT_12_ACT_13_GAC_14_GCA_15_GTG_16_CGT_17_GAT_18_CCA_19_CAG_
+ga:0_CCG_1_TTC_2_CAG_3_CAG_4_TTC_5_GGC_6_CGC_7_GAT_8_ATC_9_GCA_10_GAT_11_ACG_12_ACT_13_GAT_14_GCA_15_GTG_16_CGC_17_GAT_18_CCG_19_CAG_
+Differences found:
+Index 11: T - qa_codon: ACT, ga_codon: ACG
+Index 13: D - qa_codon: GAC, ga_codon: GAT
+Index 16: R - qa_codon: CGT, ga_codon: CGC
+Index 18: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: NNATNVVIKVCEFQFCNDPF
+qa:[-94.41949616] >= ga:[-94.64162627]
+qa:16.919482231140137 >= ga:0.4612855911254883
+qa:0_AAC_1_AAC_2_GCG_3_ACG_4_AAC_5_GTA_6_GTG_7_ATC_8_AAG_9_GTC_10_TGC_11_GAG_12_TTC_13_CAA_14_TTC_15_TGC_16_AAT_17_GAT_18_CCG_19_TTC_
+ga:0_AAC_1_AAC_2_GCG_3_ACG_4_AAC_5_GTC_6_GTG_7_ATC_8_AAG_9_GTG_10_TGC_11_GAG_12_TTC_13_CAG_14_TTC_15_TGC_16_AAC_17_GAT_18_CCG_19_TTC_
+Differences found:
+Index 5: V - qa_codon: GTA, ga_codon: GTC
+Index 9: V - qa_codon: GTC, ga_codon: GTG
+Index 13: Q - qa_codon: CAA, ga_codon: CAG
+Index 16: N - qa_codon: AAT, ga_codon: AAC
+end
+
+Energy Values:
+(array([-96.27985112]), array([-95.94028986]))
+(array([-96.82098811]), array([-96.57449438]))
+(array([-94.64162627]), array([-94.41949616]))
+Total Time taken: 55.133384704589844 seconds

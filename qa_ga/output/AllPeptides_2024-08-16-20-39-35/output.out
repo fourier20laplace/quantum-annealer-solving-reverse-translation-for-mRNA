@@ -1,0 +1,3611 @@
+start
+Target sequence: MFVFLVLLPLVSSQCVNLTT
+qa:[-95.74322573] >= ga:[-96.12557233]
+qa:15.324095726013184 >= ga:0.5518133640289307
+qa:0_ATG_1_TTC_2_GTG_3_TTC_4_CTC_5_GTA_6_CTG_7_CTG_8_CCT_9_CTG_10_GTG_11_AGC_12_TCG_13_CAG_14_TGC_15_GTC_16_AAC_17_CTG_18_ACG_19_ACG_
+ga:0_ATG_1_TTC_2_GTC_3_TTC_4_CTC_5_GTG_6_CTG_7_CTG_8_CCG_9_CTC_10_GTG_11_AGC_12_TCG_13_CAG_14_TGC_15_GTG_16_AAC_17_CTG_18_ACG_19_ACG_
+Differences found:
+Index 2: V - qa_codon: GTG, ga_codon: GTC
+Index 5: V - qa_codon: GTA, ga_codon: GTG
+Index 8: P - qa_codon: CCT, ga_codon: CCG
+Index 9: L - qa_codon: CTG, ga_codon: CTC
+Index 15: V - qa_codon: GTC, ga_codon: GTG
+end
+
+start
+Target sequence: RTQLPPAYTNSFTRGVYYPD
+qa:[-95.31409307] >= ga:[-95.66478218]
+qa:15.610153675079346 >= ga:0.544151782989502
+qa:0_CGT_1_ACT_2_CAG_3_CTG_4_CCG_5_CCG_6_GCG_7_TAT_8_ACG_9_AAC_10_TCG_11_TTC_12_ACT_13_CGT_14_GGC_15_GTA_16_TAC_17_TAT_18_CCG_19_GAT_
+ga:0_CGC_1_ACG_2_CAG_3_CTG_4_CCG_5_CCG_6_GCG_7_TAT_8_ACG_9_AAC_10_AGC_11_TTC_12_ACG_13_CGC_14_GGC_15_GTG_16_TAC_17_TAT_18_CCG_19_GAT_
+Differences found:
+Index 0: R - qa_codon: CGT, ga_codon: CGC
+Index 1: T - qa_codon: ACT, ga_codon: ACG
+Index 10: S - qa_codon: TCG, ga_codon: AGC
+Index 12: T - qa_codon: ACT, ga_codon: ACG
+Index 13: R - qa_codon: CGT, ga_codon: CGC
+Index 15: V - qa_codon: GTA, ga_codon: GTG
+end
+
+start
+Target sequence: KVFRSSVLHSTQDLFLPFFS
+qa:[-95.42603728] >= ga:[-95.61321435]
+qa:15.567895889282227 >= ga:0.6235666275024414
+qa:0_AAG_1_GTC_2_TTC_3_CGT_4_AGC_5_AGC_6_GTA_7_CTG_8_CAT_9_AGT_10_ACT_11_CAG_12_GAT_13_CTG_14_TTC_15_CTG_16_CCG_17_TTC_18_TTC_19_AGC_
+ga:0_AAG_1_GTG_2_TTC_3_CGC_4_TCG_5_AGT_6_GTG_7_CTG_8_CAT_9_AGC_10_ACG_11_CAG_12_GAT_13_CTG_14_TTC_15_CTG_16_CCG_17_TTC_18_TTC_19_AGC_
+Differences found:
+Index 1: V - qa_codon: GTC, ga_codon: GTG
+Index 3: R - qa_codon: CGT, ga_codon: CGC
+Index 4: S - qa_codon: AGC, ga_codon: TCG
+Index 5: S - qa_codon: AGC, ga_codon: AGT
+Index 6: V - qa_codon: GTA, ga_codon: GTG
+Index 9: S - qa_codon: AGT, ga_codon: AGC
+Index 10: T - qa_codon: ACT, ga_codon: ACG
+end
+
+start
+Target sequence: NVTWFHAIHVSGTNGTKRFD
+qa:[-94.4808602] >= ga:[-94.80528693]
+qa:16.715566158294678 >= ga:0.47800326347351074
+qa:0_AAT_1_GTC_2_ACG_3_TGG_4_TTC_5_CAT_6_GCT_7_ATA_8_CAC_9_GTG_10_TCA_11_GGC_12_ACC_13_AAT_14_GGC_15_ACC_16_AAG_17_CGC_18_TTC_19_GAT_
+ga:0_AAC_1_GTG_2_ACG_3_TGG_4_TTC_5_CAC_6_GCG_7_ATA_8_CAT_9_GTG_10_AGC_11_GGC_12_ACC_13_AAC_14_GGC_15_ACC_16_AAG_17_CGC_18_TTC_19_GAT_
+Differences found:
+Index 0: N - qa_codon: AAT, ga_codon: AAC
+Index 1: V - qa_codon: GTC, ga_codon: GTG
+Index 5: H - qa_codon: CAT, ga_codon: CAC
+Index 6: A - qa_codon: GCT, ga_codon: GCG
+Index 8: H - qa_codon: CAC, ga_codon: CAT
+Index 10: S - qa_codon: TCA, ga_codon: AGC
+Index 13: N - qa_codon: AAT, ga_codon: AAC
+end
+
+start
+Target sequence: NPVLPFNDGVYFASTEKSNI
+qa:[-94.32844834] >= ga:[-94.41991829]
+qa:12.495596408843994 >= ga:0.7305471897125244
+qa:0_AAT_1_CCG_2_GTG_3_CTG_4_CCG_5_TTC_6_AAT_7_GAT_8_GGC_9_GTC_10_TAC_11_TTC_12_GCG_13_TCG_14_ACT_15_GAG_16_AAG_17_AGC_18_AAC_19_ATC_
+ga:0_AAT_1_CCG_2_GTG_3_CTG_4_CCG_5_TTC_6_AAC_7_GAT_8_GGC_9_GTG_10_TAC_11_TTC_12_GCG_13_TCG_14_ACT_15_GAG_16_AAG_17_AGC_18_AAC_19_ATT_
+Differences found:
+Index 6: N - qa_codon: AAT, ga_codon: AAC
+Index 9: V - qa_codon: GTC, ga_codon: GTG
+Index 19: I - qa_codon: ATC, ga_codon: ATT
+end
+
+start
+Target sequence: IRGWIFGTTLDSKTQSLLIV
+qa:[-95.38878173] >= ga:[-95.92752162]
+qa:13.732627630233765 >= ga:1.0628669261932373
+qa:0_ATT_1_CGT_2_GGA_3_TGG_4_ATC_5_TTC_6_GGC_7_ACT_8_ACG_9_CTC_10_GAC_11_AGC_12_AAG_13_ACG_14_CAG_15_AGT_16_CTG_17_CTC_18_ATC_19_GTC_
+ga:0_ATC_1_AGA_2_GGC_3_TGG_4_ATC_5_TTC_6_GGC_7_ACG_8_ACG_9_CTC_10_GAT_11_AGC_12_AAG_13_ACG_14_CAG_15_TCG_16_CTG_17_CTG_18_ATC_19_GTG_
+Differences found:
+Index 0: I - qa_codon: ATT, ga_codon: ATC
+Index 1: R - qa_codon: CGT, ga_codon: AGA
+Index 2: G - qa_codon: GGA, ga_codon: GGC
+Index 7: T - qa_codon: ACT, ga_codon: ACG
+Index 10: D - qa_codon: GAC, ga_codon: GAT
+Index 15: S - qa_codon: AGT, ga_codon: TCG
+Index 17: L - qa_codon: CTC, ga_codon: CTG
+Index 19: V - qa_codon: GTC, ga_codon: GTG
+end
+
+start
+Target sequence: NNATNVVIKVCEFQFCNDPF
+qa:[-94.47043103] >= ga:[-94.64162627]
+qa:13.008714437484741 >= ga:0.6267249584197998
+qa:0_AAC_1_AAC_2_GCG_3_ACG_4_AAC_5_GTC_6_GTC_7_ATC_8_AAG_9_GTG_10_TGC_11_GAG_12_TTC_13_CAG_14_TTC_15_TGC_16_AAC_17_GAT_18_CCA_19_TTC_
+ga:0_AAC_1_AAC_2_GCG_3_ACG_4_AAC_5_GTC_6_GTG_7_ATC_8_AAG_9_GTG_10_TGC_11_GAG_12_TTC_13_CAG_14_TTC_15_TGC_16_AAC_17_GAT_18_CCG_19_TTC_
+Differences found:
+Index 6: V - qa_codon: GTC, ga_codon: GTG
+Index 18: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: LGVYYHKNNKSWMESEFRVY
+qa:[-94.98449047] >= ga:[-95.05823284]
+qa:14.74115538597107 >= ga:0.5407595634460449
+qa:0_CTC_1_GGC_2_GTC_3_TAC_4_TAT_5_CAT_6_AAG_7_AAC_8_AAC_9_AAG_10_AGC_11_TGG_12_ATG_13_GAG_14_AGC_15_GAG_16_TTC_17_CGT_18_GTG_19_TAT_
+ga:0_CTC_1_GGC_2_GTG_3_TAC_4_TAT_5_CAT_6_AAG_7_AAC_8_AAC_9_AAG_10_AGC_11_TGG_12_ATG_13_GAG_14_AGC_15_GAG_16_TTC_17_CGC_18_GTG_19_TAT_
+Differences found:
+Index 2: V - qa_codon: GTC, ga_codon: GTG
+Index 17: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: SSANNCTFEYVSQPFLMDLE
+qa:[-95.73798122] >= ga:[-95.99990636]
+qa:15.227867603302002 >= ga:0.6819193363189697
+qa:0_TCT_1_AGT_2_GCG_3_AAC_4_AAC_5_TGC_6_ACG_7_TTC_8_GAG_9_TAC_10_GTG_11_TCT_12_CAG_13_CCG_14_TTC_15_CTG_16_ATG_17_GAT_18_CTG_19_GAA_
+ga:0_AGC_1_AGC_2_GCG_3_AAC_4_AAC_5_TGC_6_ACG_7_TTC_8_GAG_9_TAT_10_GTG_11_TCG_12_CAG_13_CCG_14_TTC_15_CTG_16_ATG_17_GAT_18_CTC_19_GAG_
+Differences found:
+Index 0: S - qa_codon: TCT, ga_codon: AGC
+Index 1: S - qa_codon: AGT, ga_codon: AGC
+Index 9: Y - qa_codon: TAC, ga_codon: TAT
+Index 11: S - qa_codon: TCT, ga_codon: TCG
+Index 18: L - qa_codon: CTG, ga_codon: CTC
+Index 19: E - qa_codon: GAA, ga_codon: GAG
+end
+
+start
+Target sequence: GKQGNFKNLREFVFKNIDGY
+qa:[-93.86289591] >= ga:[-93.89958864]
+qa:13.480829000473022 >= ga:0.624448299407959
+qa:0_GGC_1_AAG_2_CAA_3_GGC_4_AAC_5_TTC_6_AAG_7_AAC_8_CTG_9_CGC_10_GAG_11_TTC_12_GTG_13_TTC_14_AAG_15_AAT_16_ATC_17_GAT_18_GGC_19_TAT_
+ga:0_GGC_1_AAG_2_CAA_3_GGC_4_AAC_5_TTC_6_AAG_7_AAC_8_CTG_9_CGC_10_GAG_11_TTC_12_GTG_13_TTC_14_AAG_15_AAC_16_ATC_17_GAT_18_GGC_19_TAT_
+Differences found:
+Index 15: N - qa_codon: AAT, ga_codon: AAC
+end
+
+start
+Target sequence: FKIYSKHTPINLVRDLPQGF
+qa:[-94.54270636] >= ga:[-95.01931715]
+qa:13.895853996276855 >= ga:0.7159018516540527
+qa:0_TTC_1_AAG_2_ATA_3_TAC_4_TCT_5_AAG_6_CAC_7_ACT_8_CCG_9_ATC_10_AAC_11_CTC_12_GTA_13_CGC_14_GAT_15_CTG_16_CCG_17_CAA_18_GGC_19_TTC_
+ga:0_TTC_1_AAG_2_ATC_3_TAT_4_AGC_5_AAG_6_CAT_7_ACG_8_CCG_9_ATT_10_AAC_11_CTC_12_GTG_13_CGC_14_GAT_15_CTG_16_CCG_17_CAA_18_GGC_19_TTC_
+Differences found:
+Index 2: I - qa_codon: ATA, ga_codon: ATC
+Index 3: Y - qa_codon: TAC, ga_codon: TAT
+Index 4: S - qa_codon: TCT, ga_codon: AGC
+Index 6: H - qa_codon: CAC, ga_codon: CAT
+Index 7: T - qa_codon: ACT, ga_codon: ACG
+Index 9: I - qa_codon: ATC, ga_codon: ATT
+Index 12: V - qa_codon: GTA, ga_codon: GTG
+end
+
+start
+Target sequence: SALEPLVDLPIGINITRFQT
+qa:[-94.71983558] >= ga:[-95.52524867]
+qa:15.598783254623413 >= ga:0.7308924198150635
+qa:0_AGT_1_GCT_2_CTG_3_GAA_4_CCG_5_CTC_6_GTA_7_GAT_8_CTA_9_CCT_10_ATC_11_GGT_12_ATC_13_AAC_14_ATC_15_ACG_16_CGC_17_TTC_18_CAG_19_ACA_
+ga:0_AGC_1_GCG_2_CTC_3_GAG_4_CCG_5_CTC_6_GTC_7_GAT_8_CTG_9_CCG_10_ATC_11_GGT_12_ATT_13_AAC_14_ATC_15_ACG_16_CGC_17_TTC_18_CAG_19_ACG_
+Differences found:
+Index 0: S - qa_codon: AGT, ga_codon: AGC
+Index 1: A - qa_codon: GCT, ga_codon: GCG
+Index 2: L - qa_codon: CTG, ga_codon: CTC
+Index 3: E - qa_codon: GAA, ga_codon: GAG
+Index 6: V - qa_codon: GTA, ga_codon: GTC
+Index 8: L - qa_codon: CTA, ga_codon: CTG
+Index 9: P - qa_codon: CCT, ga_codon: CCG
+Index 12: I - qa_codon: ATC, ga_codon: ATT
+Index 19: T - qa_codon: ACA, ga_codon: ACG
+end
+
+start
+Target sequence: LLALHRSYLTPGDSSSGWTA
+qa:[-96.20820918] >= ga:[-96.8050022]
+qa:17.195786476135254 >= ga:0.8571639060974121
+qa:0_CTG_1_CTG_2_GCG_3_CTG_4_CAT_5_CGC_6_AGC_7_TAT_8_CTG_9_ACG_10_CCT_11_GGA_12_GAC_13_TCT_14_AGT_15_AGC_16_GGC_17_TGG_18_ACT_19_GCT_
+ga:0_CTG_1_CTC_2_GCG_3_CTG_4_CAT_5_CGC_6_AGC_7_TAT_8_CTG_9_ACG_10_CCA_11_GGC_12_GAT_13_AGC_14_AGC_15_AGC_16_GGC_17_TGG_18_ACT_19_GCG_
+Differences found:
+Index 1: L - qa_codon: CTG, ga_codon: CTC
+Index 10: P - qa_codon: CCT, ga_codon: CCA
+Index 11: G - qa_codon: GGA, ga_codon: GGC
+Index 12: D - qa_codon: GAC, ga_codon: GAT
+Index 13: S - qa_codon: TCT, ga_codon: AGC
+Index 14: S - qa_codon: AGT, ga_codon: AGC
+Index 19: A - qa_codon: GCT, ga_codon: GCG
+end
+
+start
+Target sequence: GAAAYYVGYLQPRTFLLKYN
+qa:[-95.25513705] >= ga:[-95.76146319]
+qa:13.601302862167358 >= ga:0.7477772235870361
+qa:0_GGC_1_GCT_2_GCT_3_GCA_4_TAC_5_TAC_6_GTC_7_GGC_8_TAT_9_CTG_10_CAG_11_CCA_12_CGC_13_ACA_14_TTC_15_CTG_16_CTC_17_AAG_18_TAT_19_AAC_
+ga:0_GGC_1_GCA_2_GCA_3_GCG_4_TAC_5_TAT_6_GTC_7_GGC_8_TAT_9_CTG_10_CAG_11_CCG_12_CGC_13_ACG_14_TTC_15_CTG_16_CTG_17_AAG_18_TAT_19_AAC_
+Differences found:
+Index 1: A - qa_codon: GCT, ga_codon: GCA
+Index 2: A - qa_codon: GCT, ga_codon: GCA
+Index 3: A - qa_codon: GCA, ga_codon: GCG
+Index 5: Y - qa_codon: TAC, ga_codon: TAT
+Index 11: P - qa_codon: CCA, ga_codon: CCG
+Index 13: T - qa_codon: ACA, ga_codon: ACG
+Index 16: L - qa_codon: CTC, ga_codon: CTG
+end
+
+start
+Target sequence: ENGTITDAVDCALDPLSETK
+qa:[-96.19407693] >= ga:[-96.60814171]
+qa:13.639987707138062 >= ga:0.7549984455108643
+qa:0_GAG_1_AAC_2_GGT_3_ACG_4_ATC_5_ACA_6_GAT_7_GCA_8_GTA_9_GAC_10_TGC_11_GCT_12_CTC_13_GAT_14_CCT_15_CTG_16_AGC_17_GAG_18_ACT_19_AAG_
+ga:0_GAG_1_AAC_2_GGC_3_ACG_4_ATC_5_ACT_6_GAT_7_GCA_8_GTC_9_GAC_10_TGC_11_GCG_12_CTC_13_GAT_14_CCG_15_CTG_16_AGC_17_GAG_18_ACG_19_AAG_
+Differences found:
+Index 2: G - qa_codon: GGT, ga_codon: GGC
+Index 5: T - qa_codon: ACA, ga_codon: ACT
+Index 8: V - qa_codon: GTA, ga_codon: GTC
+Index 11: A - qa_codon: GCT, ga_codon: GCG
+Index 14: P - qa_codon: CCT, ga_codon: CCG
+Index 18: T - qa_codon: ACT, ga_codon: ACG
+end
+
+start
+Target sequence: CTLKSFTVEKGIYQTSNFRV
+qa:[-94.72940958] >= ga:[-94.97344888]
+qa:13.699661254882812 >= ga:0.7962288856506348
+qa:0_TGC_1_ACG_2_CTG_3_AAG_4_TCA_5_TTC_6_ACT_7_GTC_8_GAG_9_AAG_10_GGC_11_ATC_12_TAT_13_CAG_14_ACT_15_AGC_16_AAC_17_TTC_18_CGT_19_GTC_
+ga:0_TGC_1_ACG_2_CTG_3_AAG_4_AGC_5_TTC_6_ACT_7_GTC_8_GAG_9_AAG_10_GGC_11_ATC_12_TAT_13_CAG_14_ACG_15_AGC_16_AAC_17_TTC_18_CGC_19_GTG_
+Differences found:
+Index 4: S - qa_codon: TCA, ga_codon: AGC
+Index 14: T - qa_codon: ACT, ga_codon: ACG
+Index 18: R - qa_codon: CGT, ga_codon: CGC
+Index 19: V - qa_codon: GTC, ga_codon: GTG
+end
+
+start
+Target sequence: QPTESIVRFPNITNLCPFGE
+qa:[-94.09686027] >= ga:[-94.77636214]
+qa:13.882465839385986 >= ga:0.7538001537322998
+qa:0_CAG_1_CCG_2_ACT_3_GAG_4_AGT_5_ATC_6_GTG_7_CGC_8_TTC_9_CCG_10_AAT_11_ATT_12_ACT_13_AAT_14_CTC_15_TGT_16_CCG_17_TTC_18_GGC_19_GAA_
+ga:0_CAG_1_CCG_2_ACT_3_GAG_4_AGC_5_ATC_6_GTG_7_CGC_8_TTC_9_CCG_10_AAC_11_ATC_12_ACG_13_AAC_14_CTG_15_TGT_16_CCG_17_TTC_18_GGC_19_GAA_
+Differences found:
+Index 4: S - qa_codon: AGT, ga_codon: AGC
+Index 10: N - qa_codon: AAT, ga_codon: AAC
+Index 11: I - qa_codon: ATT, ga_codon: ATC
+Index 12: T - qa_codon: ACT, ga_codon: ACG
+Index 13: N - qa_codon: AAT, ga_codon: AAC
+Index 14: L - qa_codon: CTC, ga_codon: CTG
+end
+
+start
+Target sequence: VFNATRFASVYAWNRKRISN
+qa:[-95.05794159] >= ga:[-95.51614291]
+qa:14.895139694213867 >= ga:0.8274757862091064
+qa:0_GTG_1_TTC_2_AAT_3_GCG_4_ACG_5_CGA_6_TTC_7_GCG_8_AGC_9_GTG_10_TAC_11_GCT_12_TGG_13_AAC_14_CGT_15_AAG_16_CGT_17_ATC_18_TCG_19_AAC_
+ga:0_GTG_1_TTC_2_AAC_3_GCG_4_ACG_5_CGC_6_TTC_7_GCG_8_AGC_9_GTG_10_TAT_11_GCG_12_TGG_13_AAC_14_CGC_15_AAG_16_CGC_17_ATC_18_AGC_19_AAC_
+Differences found:
+Index 2: N - qa_codon: AAT, ga_codon: AAC
+Index 5: R - qa_codon: CGA, ga_codon: CGC
+Index 10: Y - qa_codon: TAC, ga_codon: TAT
+Index 11: A - qa_codon: GCT, ga_codon: GCG
+Index 14: R - qa_codon: CGT, ga_codon: CGC
+Index 16: R - qa_codon: CGT, ga_codon: CGC
+Index 18: S - qa_codon: TCG, ga_codon: AGC
+end
+
+start
+Target sequence: CVADYSVLYNSASFSTFKCY
+qa:[-96.24092144] >= ga:[-96.44218883]
+qa:15.529523611068726 >= ga:0.7446238994598389
+qa:0_TGC_1_GTC_2_GCA_3_GAC_4_TAT_5_AGT_6_GTG_7_CTG_8_TAC_9_AAT_10_AGC_11_GCG_12_AGC_13_TTC_14_TCG_15_ACG_16_TTC_17_AAG_18_TGC_19_TAC_
+ga:0_TGC_1_GTC_2_GCA_3_GAC_4_TAT_5_AGC_6_GTG_7_CTG_8_TAT_9_AAC_10_AGC_11_GCG_12_AGC_13_TTC_14_AGC_15_ACG_16_TTC_17_AAG_18_TGC_19_TAT_
+Differences found:
+Index 5: S - qa_codon: AGT, ga_codon: AGC
+Index 8: Y - qa_codon: TAC, ga_codon: TAT
+Index 9: N - qa_codon: AAT, ga_codon: AAC
+Index 14: S - qa_codon: TCG, ga_codon: AGC
+Index 19: Y - qa_codon: TAC, ga_codon: TAT
+end
+
+start
+Target sequence: GVSPTKLNDLCFTNVYADSF
+qa:[-94.86681448] >= ga:[-95.18417813]
+qa:14.81044602394104 >= ga:1.091599941253662
+qa:0_GGC_1_GTG_2_AGT_3_CCG_4_ACC_5_AAG_6_TTG_7_AAT_8_GAT_9_CTG_10_TGC_11_TTC_12_ACG_13_AAT_14_GTG_15_TAT_16_GCT_17_GAT_18_AGC_19_TTC_
+ga:0_GGC_1_GTG_2_TCG_3_CCG_4_ACC_5_AAG_6_CTG_7_AAC_8_GAT_9_CTG_10_TGC_11_TTC_12_ACC_13_AAC_14_GTG_15_TAT_16_GCA_17_GAT_18_AGC_19_TTC_
+Differences found:
+Index 2: S - qa_codon: AGT, ga_codon: TCG
+Index 6: L - qa_codon: TTG, ga_codon: CTG
+Index 7: N - qa_codon: AAT, ga_codon: AAC
+Index 12: T - qa_codon: ACG, ga_codon: ACC
+Index 13: N - qa_codon: AAT, ga_codon: AAC
+Index 16: A - qa_codon: GCT, ga_codon: GCA
+end
+
+start
+Target sequence: VIRGDEVRQIAPGQTGKIAD
+qa:[-95.41854092] >= ga:[-95.75387938]
+qa:17.031898260116577 >= ga:1.103623390197754
+qa:0_GTG_1_ATC_2_CGT_3_GGT_4_GAT_5_GAG_6_GTG_7_CGT_8_CAG_9_ATA_10_GCG_11_CCA_12_GGC_13_CAG_14_ACT_15_GGC_16_AAG_17_ATC_18_GCA_19_GAT_
+ga:0_GTG_1_ATA_2_CGT_3_GGC_4_GAT_5_GAG_6_GTG_7_CGT_8_CAG_9_ATC_10_GCG_11_CCA_12_GGC_13_CAG_14_ACT_15_GGC_16_AAG_17_ATC_18_GCA_19_GAT_
+Differences found:
+Index 1: I - qa_codon: ATC, ga_codon: ATA
+Index 3: G - qa_codon: GGT, ga_codon: GGC
+Index 9: I - qa_codon: ATA, ga_codon: ATC
+end
+
+start
+Target sequence: YNYKLPDDFTGCVIAWNSNN
+qa:[-94.3538964] >= ga:[-94.51402851]
+qa:15.924952507019043 >= ga:1.0976943969726562
+qa:0_TAT_1_AAC_2_TAT_3_AAG_4_CTG_5_CCG_6_GAT_7_GAC_8_TTC_9_ACC_10_GGC_11_TGC_12_GTG_13_ATC_14_GCT_15_TGG_16_AAC_17_TCG_18_AAC_19_AAC_
+ga:0_TAT_1_AAC_2_TAT_3_AAG_4_CTG_5_CCG_6_GAT_7_GAC_8_TTC_9_ACC_10_GGC_11_TGC_12_GTG_13_ATC_14_GCG_15_TGG_16_AAC_17_AGC_18_AAC_19_AAC_
+Differences found:
+Index 14: A - qa_codon: GCT, ga_codon: GCG
+Index 17: S - qa_codon: TCG, ga_codon: AGC
+end
+
+start
+Target sequence: LDSKVGGNYNYLYRLFRKSN
+qa:[-94.43442737] >= ga:[-94.63143384]
+qa:15.800220489501953 >= ga:1.0789101123809814
+qa:0_CTA_1_GAT_2_AGC_3_AAG_4_GTC_5_GGC_6_GGT_7_AAC_8_TAT_9_AAT_10_TAT_11_CTG_12_TAT_13_CGT_14_CTG_15_TTC_16_CGC_17_AAG_18_AGT_19_AAC_
+ga:0_CTC_1_GAT_2_AGC_3_AAG_4_GTT_5_GGC_6_GGC_7_AAC_8_TAT_9_AAC_10_TAT_11_CTG_12_TAT_13_CGT_14_CTG_15_TTC_16_CGC_17_AAG_18_TCC_19_AAC_
+Differences found:
+Index 0: L - qa_codon: CTA, ga_codon: CTC
+Index 4: V - qa_codon: GTC, ga_codon: GTT
+Index 6: G - qa_codon: GGT, ga_codon: GGC
+Index 9: N - qa_codon: AAT, ga_codon: AAC
+Index 18: S - qa_codon: AGT, ga_codon: TCC
+end
+
+start
+Target sequence: LKPFERDISTEIYQAGSTPC
+qa:[-95.82079178] >= ga:[-96.00060343]
+qa:16.19115900993347 >= ga:1.136915683746338
+qa:0_CTG_1_AAG_2_CCG_3_TTC_4_GAG_5_CGT_6_GAT_7_ATC_8_TCT_9_ACT_10_GAG_11_ATC_12_TAT_13_CAG_14_GCC_15_GGC_16_TCT_17_ACG_18_CCG_19_TGC_
+ga:0_CTG_1_AAG_2_CCG_3_TTC_4_GAG_5_CGC_6_GAT_7_ATC_8_AGC_9_ACT_10_GAG_11_ATC_12_TAT_13_CAG_14_GCC_15_GGC_16_AGC_17_ACG_18_CCG_19_TGC_
+Differences found:
+Index 5: R - qa_codon: CGT, ga_codon: CGC
+Index 8: S - qa_codon: TCT, ga_codon: AGC
+Index 16: S - qa_codon: TCT, ga_codon: AGC
+end
+
+start
+Target sequence: NGVEGFNCYFPLQSYGFQPT
+qa:[-93.94361447] >= ga:[-94.13190248]
+qa:16.246644973754883 >= ga:0.9433238506317139
+qa:0_AAC_1_GGC_2_GTT_3_GAA_4_GGC_5_TTC_6_AAC_7_TGC_8_TAC_9_TTC_10_CCG_11_CTG_12_CAG_13_AGC_14_TAT_15_GGC_16_TTC_17_CAG_18_CCT_19_ACC_
+ga:0_AAC_1_GGC_2_GTG_3_GAA_4_GGC_5_TTC_6_AAC_7_TGC_8_TAC_9_TTC_10_CCG_11_CTG_12_CAG_13_AGC_14_TAT_15_GGC_16_TTC_17_CAG_18_CCG_19_ACC_
+Differences found:
+Index 2: V - qa_codon: GTT, ga_codon: GTG
+Index 18: P - qa_codon: CCT, ga_codon: CCG
+end
+
+start
+Target sequence: NGVGYQPYRVVVLSFELLHA
+qa:[-96.24883671] >= ga:[-96.43490763]
+qa:16.977616548538208 >= ga:1.0423460006713867
+qa:0_AAC_1_GGT_2_GTA_3_GGC_4_TAT_5_CAG_6_CCG_7_TAT_8_CGT_9_GTC_10_GTC_11_GTG_12_CTG_13_TCG_14_TTC_15_GAG_16_CTG_17_CTG_18_CAC_19_GCG_
+ga:0_AAC_1_GGC_2_GTT_3_GGC_4_TAT_5_CAG_6_CCG_7_TAT_8_CGC_9_GTC_10_GTC_11_GTG_12_CTG_13_AGC_14_TTC_15_GAG_16_CTG_17_CTG_18_CAT_19_GCG_
+Differences found:
+Index 1: G - qa_codon: GGT, ga_codon: GGC
+Index 2: V - qa_codon: GTA, ga_codon: GTT
+Index 8: R - qa_codon: CGT, ga_codon: CGC
+Index 13: S - qa_codon: TCG, ga_codon: AGC
+Index 18: H - qa_codon: CAC, ga_codon: CAT
+end
+
+start
+Target sequence: PATVCGPKKSTNLVKNKCVN
+qa:[-94.37987456] >= ga:[-94.509284]
+qa:16.671757221221924 >= ga:1.038752555847168
+qa:0_CCG_1_GCG_2_ACT_3_GTC_4_TGT_5_GGT_6_CCG_7_AAG_8_AAG_9_AGC_10_ACG_11_AAT_12_CTC_13_GTG_14_AAG_15_AAC_16_AAG_17_TGC_18_GTG_19_AAC_
+ga:0_CCG_1_GCG_2_ACT_3_GTG_4_TGC_5_GGT_6_CCG_7_AAG_8_AAG_9_AGC_10_ACG_11_AAC_12_CTC_13_GTG_14_AAG_15_AAC_16_AAG_17_TGC_18_GTG_19_AAC_
+Differences found:
+Index 3: V - qa_codon: GTC, ga_codon: GTG
+Index 4: C - qa_codon: TGT, ga_codon: TGC
+Index 11: N - qa_codon: AAT, ga_codon: AAC
+end
+
+start
+Target sequence: FNFNGLTGTGVLTESNKKFL
+qa:[-94.15756949] >= ga:[-94.36340616]
+qa:16.41910195350647 >= ga:1.0052196979522705
+qa:0_TTC_1_AAC_2_TTC_3_AAC_4_GGT_5_CTG_6_ACT_7_GGT_8_ACC_9_GGT_10_GTG_11_CTG_12_ACA_13_GAG_14_AGT_15_AAC_16_AAG_17_AAG_18_TTC_19_CTG_
+ga:0_TTC_1_AAC_2_TTC_3_AAC_4_GGC_5_CTG_6_ACT_7_GGC_8_ACC_9_GGC_10_GTG_11_CTG_12_ACT_13_GAG_14_AGC_15_AAC_16_AAG_17_AAG_18_TTC_19_CTG_
+Differences found:
+Index 4: G - qa_codon: GGT, ga_codon: GGC
+Index 7: G - qa_codon: GGT, ga_codon: GGC
+Index 9: G - qa_codon: GGT, ga_codon: GGC
+Index 12: T - qa_codon: ACA, ga_codon: ACT
+Index 14: S - qa_codon: AGT, ga_codon: AGC
+end
+
+start
+Target sequence: PFQQFGRDIADTTDAVRDPQ
+qa:[-96.5025517] >= ga:[-96.79924283]
+qa:14.741801261901855 >= ga:1.3381850719451904
+qa:0_CCG_1_TTC_2_CAG_3_CAG_4_TTC_5_GGT_6_CGC_7_GAC_8_ATC_9_GCA_10_GAT_11_ACT_12_ACT_13_GAC_14_GCA_15_GTG_16_CGT_17_GAT_18_CCA_19_CAG_
+ga:0_CCG_1_TTC_2_CAG_3_CAG_4_TTC_5_GGC_6_CGT_7_GAT_8_ATC_9_GCA_10_GAT_11_ACG_12_ACT_13_GAT_14_GCA_15_GTG_16_CGC_17_GAT_18_CCG_19_CAG_
+Differences found:
+Index 5: G - qa_codon: GGT, ga_codon: GGC
+Index 6: R - qa_codon: CGC, ga_codon: CGT
+Index 7: D - qa_codon: GAC, ga_codon: GAT
+Index 11: T - qa_codon: ACT, ga_codon: ACG
+Index 13: D - qa_codon: GAC, ga_codon: GAT
+Index 16: R - qa_codon: CGT, ga_codon: CGC
+Index 18: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: TLEILDITPCSFGGVSVITP
+qa:[-95.68812729] >= ga:[-96.17515588]
+qa:14.615687370300293 >= ga:0.7212429046630859
+qa:0_ACG_1_CTG_2_GAG_3_ATA_4_CTC_5_GAT_6_ATC_7_ACG_8_CCG_9_TGC_10_TCG_11_TTC_12_GGT_13_GGC_14_GTC_15_TCT_16_GTG_17_ATC_18_ACG_19_CCA_
+ga:0_ACG_1_CTC_2_GAG_3_ATA_4_CTC_5_GAT_6_ATC_7_ACG_8_CCG_9_TGC_10_AGC_11_TTC_12_GGC_13_GGC_14_GTG_15_AGC_16_GTG_17_ATC_18_ACG_19_CCG_
+Differences found:
+Index 1: L - qa_codon: CTG, ga_codon: CTC
+Index 10: S - qa_codon: TCG, ga_codon: AGC
+Index 12: G - qa_codon: GGT, ga_codon: GGC
+Index 14: V - qa_codon: GTC, ga_codon: GTG
+Index 15: S - qa_codon: TCT, ga_codon: AGC
+Index 19: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: GTNTSNQVAVLYQDVNCTEV
+qa:[-95.58740659] >= ga:[-95.73503221]
+qa:15.511089563369751 >= ga:2.088688373565674
+qa:0_GGT_1_ACC_2_AAC_3_ACG_4_AGC_5_AAC_6_CAG_7_GTA_8_GCA_9_GTG_10_CTG_11_TAT_12_CAG_13_GAC_14_GTG_15_AAC_16_TGC_17_ACA_18_GAG_19_GTG_
+ga:0_GGC_1_ACC_2_AAC_3_ACG_4_AGC_5_AAC_6_CAG_7_GTC_8_GCA_9_GTG_10_CTG_11_TAT_12_CAG_13_GAT_14_GTG_15_AAC_16_TGC_17_ACT_18_GAG_19_GTG_
+Differences found:
+Index 0: G - qa_codon: GGT, ga_codon: GGC
+Index 7: V - qa_codon: GTA, ga_codon: GTC
+Index 13: D - qa_codon: GAC, ga_codon: GAT
+Index 17: T - qa_codon: ACA, ga_codon: ACT
+end
+
+start
+Target sequence: PVAIHADQLTPTWRVYSTGS
+qa:[-96.07387428] >= ga:[-96.52767578]
+qa:14.954014539718628 >= ga:2.209927797317505
+qa:0_CCT_1_GTC_2_GCG_3_ATA_4_CAC_5_GCA_6_GAT_7_CAG_8_CTG_9_ACG_10_CCA_11_ACC_12_TGG_13_CGT_14_GTC_15_TAC_16_AGC_17_ACT_18_GGC_19_TCA_
+ga:0_CCG_1_GTC_2_GCG_3_ATA_4_CAT_5_GCA_6_GAT_7_CAG_8_CTG_9_ACG_10_CCG_11_ACC_12_TGG_13_CGC_14_GTG_15_TAT_16_AGC_17_ACT_18_GGC_19_AGC_
+Differences found:
+Index 0: P - qa_codon: CCT, ga_codon: CCG
+Index 4: H - qa_codon: CAC, ga_codon: CAT
+Index 10: P - qa_codon: CCA, ga_codon: CCG
+Index 13: R - qa_codon: CGT, ga_codon: CGC
+Index 14: V - qa_codon: GTC, ga_codon: GTG
+Index 15: Y - qa_codon: TAC, ga_codon: TAT
+Index 19: S - qa_codon: TCA, ga_codon: AGC
+end
+
+start
+Target sequence: NVFQTRAGCLIGAEHVNNSY
+qa:[-95.38158146] >= ga:[-95.75217921]
+qa:15.004470109939575 >= ga:2.0740761756896973
+qa:0_AAC_1_GTA_2_TTC_3_CAG_4_ACT_5_CGT_6_GCT_7_GGT_8_TGT_9_CTG_10_ATC_11_GGT_12_GCA_13_GAG_14_CAC_15_GTC_16_AAC_17_AAC_18_AGC_19_TAC_
+ga:0_AAC_1_GTG_2_TTC_3_CAG_4_ACG_5_CGC_6_GCA_7_GGC_8_TGT_9_CTG_10_ATC_11_GGC_12_GCA_13_GAG_14_CAT_15_GTG_16_AAC_17_AAC_18_AGC_19_TAT_
+Differences found:
+Index 1: V - qa_codon: GTA, ga_codon: GTG
+Index 4: T - qa_codon: ACT, ga_codon: ACG
+Index 5: R - qa_codon: CGT, ga_codon: CGC
+Index 6: A - qa_codon: GCT, ga_codon: GCA
+Index 7: G - qa_codon: GGT, ga_codon: GGC
+Index 11: G - qa_codon: GGT, ga_codon: GGC
+Index 14: H - qa_codon: CAC, ga_codon: CAT
+Index 15: V - qa_codon: GTC, ga_codon: GTG
+Index 19: Y - qa_codon: TAC, ga_codon: TAT
+end
+
+start
+Target sequence: ECDIPIGAGICASYQTQTNS
+qa:[-96.00570845] >= ga:[-96.3062922]
+qa:13.343558073043823 >= ga:2.258242130279541
+qa:0_GAG_1_TGC_2_GAT_3_ATA_4_CCA_5_ATT_6_GGT_7_GCA_8_GGT_9_ATC_10_TGC_11_GCG_12_AGC_13_TAT_14_CAG_15_ACG_16_CAG_17_ACT_18_AAC_19_AGC_
+ga:0_GAG_1_TGC_2_GAT_3_ATA_4_CCG_5_ATT_6_GGC_7_GCC_8_GGC_9_ATC_10_TGC_11_GCG_12_AGC_13_TAT_14_CAG_15_ACG_16_CAG_17_ACG_18_AAC_19_AGC_
+Differences found:
+Index 4: P - qa_codon: CCA, ga_codon: CCG
+Index 6: G - qa_codon: GGT, ga_codon: GGC
+Index 7: A - qa_codon: GCA, ga_codon: GCC
+Index 8: G - qa_codon: GGT, ga_codon: GGC
+Index 17: T - qa_codon: ACT, ga_codon: ACG
+end
+
+start
+Target sequence: PRRARSVASQSIIAYTMSLG
+qa:[-97.28560493] >= ga:[-97.9402102]
+qa:13.73280954360962 >= ga:2.576143741607666
+qa:0_CCT_1_CGT_2_CGC_3_GCG_4_CGC_5_AGT_6_GTC_7_GCG_8_AGT_9_CAG_10_AGT_11_ATC_12_ATC_13_GCA_14_TAT_15_ACG_16_ATG_17_AGT_18_CTA_19_GGA_
+ga:0_CCG_1_CGT_2_CGC_3_GCG_4_CGC_5_AGC_6_GTC_7_GCG_8_TCG_9_CAG_10_AGC_11_ATC_12_ATC_13_GCG_14_TAT_15_ACG_16_ATG_17_TCG_18_CTC_19_GGC_
+Differences found:
+Index 0: P - qa_codon: CCT, ga_codon: CCG
+Index 5: S - qa_codon: AGT, ga_codon: AGC
+Index 8: S - qa_codon: AGT, ga_codon: TCG
+Index 10: S - qa_codon: AGT, ga_codon: AGC
+Index 13: A - qa_codon: GCA, ga_codon: GCG
+Index 17: S - qa_codon: AGT, ga_codon: TCG
+Index 18: L - qa_codon: CTA, ga_codon: CTC
+Index 19: G - qa_codon: GGA, ga_codon: GGC
+end
+
+start
+Target sequence: AENSVAYSNNSIAIPTNFTI
+qa:[-94.89184415] >= ga:[-95.39893088]
+qa:15.205413579940796 >= ga:2.152148723602295
+qa:0_GCA_1_GAG_2_AAC_3_AGC_4_GTC_5_GCG_6_TAC_7_TCG_8_AAT_9_AAT_10_AGC_11_ATC_12_GCG_13_ATA_14_CCG_15_ACC_16_AAC_17_TTC_18_ACA_19_ATT_
+ga:0_GCT_1_GAG_2_AAC_3_AGC_4_GTC_5_GCG_6_TAT_7_AGC_8_AAC_9_AAC_10_AGC_11_ATC_12_GCG_13_ATA_14_CCG_15_ACC_16_AAC_17_TTC_18_ACG_19_ATC_
+Differences found:
+Index 0: A - qa_codon: GCA, ga_codon: GCT
+Index 6: Y - qa_codon: TAC, ga_codon: TAT
+Index 7: S - qa_codon: TCG, ga_codon: AGC
+Index 8: N - qa_codon: AAT, ga_codon: AAC
+Index 9: N - qa_codon: AAT, ga_codon: AAC
+Index 18: T - qa_codon: ACA, ga_codon: ACG
+Index 19: I - qa_codon: ATT, ga_codon: ATC
+end
+
+start
+Target sequence: SVTTEILPVSMTKTSVDCTM
+qa:[-96.447415] >= ga:[-97.12738005]
+qa:16.311750173568726 >= ga:1.9453673362731934
+qa:0_TCA_1_GTG_2_ACG_3_ACT_4_GAG_5_ATA_6_CTG_7_CCT_8_GTG_9_AGC_10_ATG_11_ACC_12_AAG_13_ACA_14_TCA_15_GTC_16_GAC_17_TGC_18_ACG_19_ATG_
+ga:0_AGC_1_GTG_2_ACG_3_ACT_4_GAG_5_ATA_6_CTG_7_CCG_8_GTG_9_AGC_10_ATG_11_ACG_12_AAG_13_ACG_14_AGC_15_GTC_16_GAC_17_TGC_18_ACG_19_ATG_
+Differences found:
+Index 0: S - qa_codon: TCA, ga_codon: AGC
+Index 7: P - qa_codon: CCT, ga_codon: CCG
+Index 11: T - qa_codon: ACC, ga_codon: ACG
+Index 13: T - qa_codon: ACA, ga_codon: ACG
+Index 14: S - qa_codon: TCA, ga_codon: AGC
+end
+
+start
+Target sequence: YICGDSTECSNLLLQYGSFC
+qa:[-96.08787496] >= ga:[-96.47413685]
+qa:15.123458623886108 >= ga:2.285395860671997
+qa:0_TAT_1_ATA_2_TGC_3_GGT_4_GAC_5_TCG_6_ACA_7_GAG_8_TGC_9_AGC_10_AAC_11_CTG_12_CTG_13_CTG_14_CAG_15_TAT_16_GGT_17_AGC_18_TTC_19_TGC_
+ga:0_TAT_1_ATC_2_TGC_3_GGC_4_GAT_5_AGC_6_ACT_7_GAG_8_TGC_9_AGC_10_AAC_11_CTG_12_CTG_13_CTG_14_CAG_15_TAT_16_GGC_17_AGC_18_TTC_19_TGC_
+Differences found:
+Index 1: I - qa_codon: ATA, ga_codon: ATC
+Index 3: G - qa_codon: GGT, ga_codon: GGC
+Index 4: D - qa_codon: GAC, ga_codon: GAT
+Index 5: S - qa_codon: TCG, ga_codon: AGC
+Index 6: T - qa_codon: ACA, ga_codon: ACT
+Index 16: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: TQLNRALTGIAVEQDKNTQE
+qa:[-95.6311843] >= ga:[-96.04622759]
+qa:17.267454862594604 >= ga:2.43058705329895
+qa:0_ACA_1_CAG_2_CTG_3_AAT_4_CGT_5_GCG_6_CTG_7_ACT_8_GGA_9_ATC_10_GCT_11_GTA_12_GAG_13_CAG_14_GAC_15_AAG_16_AAC_17_ACG_18_CAG_19_GAA_
+ga:0_ACG_1_CAG_2_CTG_3_AAC_4_CGC_5_GCG_6_CTG_7_ACT_8_GGC_9_ATC_10_GCA_11_GTC_12_GAG_13_CAG_14_GAT_15_AAG_16_AAC_17_ACG_18_CAG_19_GAA_
+Differences found:
+Index 0: T - qa_codon: ACA, ga_codon: ACG
+Index 3: N - qa_codon: AAT, ga_codon: AAC
+Index 4: R - qa_codon: CGT, ga_codon: CGC
+Index 8: G - qa_codon: GGA, ga_codon: GGC
+Index 10: A - qa_codon: GCT, ga_codon: GCA
+Index 11: V - qa_codon: GTA, ga_codon: GTC
+Index 14: D - qa_codon: GAC, ga_codon: GAT
+end
+
+start
+Target sequence: VFAQVKQIYKTPPIKDFGGF
+qa:[-93.95142075] >= ga:[-93.95142075]
+qa:16.639812469482422 >= ga:1.6028850078582764
+qa:0_GTG_1_TTC_2_GCG_3_CAG_4_GTG_5_AAG_6_CAG_7_ATC_8_TAT_9_AAG_10_ACG_11_CCG_12_CCG_13_ATT_14_AAG_15_GAC_16_TTC_17_GGC_18_GGC_19_TTC_
+ga:0_GTG_1_TTC_2_GCG_3_CAG_4_GTG_5_AAG_6_CAG_7_ATC_8_TAT_9_AAG_10_ACG_11_CCG_12_CCG_13_ATT_14_AAG_15_GAC_16_TTC_17_GGC_18_GGC_19_TTC_
+identical.
+end
+
+start
+Target sequence: NFSQILPDPSKPSKRSFIED
+qa:[-94.04623214] >= ga:[-94.26116576]
+qa:17.610808849334717 >= ga:2.4055798053741455
+qa:0_AAC_1_TTC_2_TCG_3_CAG_4_ATA_5_CTG_6_CCG_7_GAT_8_CCA_9_AGC_10_AAG_11_CCT_12_AGC_13_AAG_14_CGT_15_AGC_16_TTC_17_ATC_18_GAG_19_GAT_
+ga:0_AAC_1_TTC_2_TCG_3_CAG_4_ATA_5_CTG_6_CCG_7_GAT_8_CCG_9_TCC_10_AAG_11_CCG_12_AGC_13_AAG_14_CGC_15_AGC_16_TTC_17_ATC_18_GAG_19_GAT_
+Differences found:
+Index 8: P - qa_codon: CCA, ga_codon: CCG
+Index 9: S - qa_codon: AGC, ga_codon: TCC
+Index 11: P - qa_codon: CCT, ga_codon: CCG
+Index 14: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: LLFNKVTLADAGFIKQYGDC
+qa:[-95.08790727] >= ga:[-95.25869639]
+qa:16.66634702682495 >= ga:2.0147013664245605
+qa:0_CTG_1_CTG_2_TTC_3_AAC_4_AAG_5_GTG_6_ACG_7_CTA_8_GCT_9_GAT_10_GCA_11_GGC_12_TTC_13_ATT_14_AAG_15_CAG_16_TAT_17_GGT_18_GAC_19_TGC_
+ga:0_CTG_1_CTG_2_TTC_3_AAC_4_AAG_5_GTG_6_ACG_7_CTC_8_GCA_9_GAT_10_GCA_11_GGC_12_TTC_13_ATT_14_AAG_15_CAG_16_TAT_17_GGC_18_GAC_19_TGC_
+Differences found:
+Index 7: L - qa_codon: CTA, ga_codon: CTC
+Index 8: A - qa_codon: GCT, ga_codon: GCA
+Index 17: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: LGDIAARDLICAQKFNGLTV
+qa:[-96.10257505] >= ga:[-96.57994726]
+qa:16.55561399459839 >= ga:2.016890287399292
+qa:0_TTA_1_GGT_2_GAT_3_ATA_4_GCA_5_GCA_6_CGC_7_GAT_8_CTG_9_ATC_10_TGT_11_GCA_12_CAG_13_AAG_14_TTC_15_AAT_16_GGC_17_CTG_18_ACA_19_GTG_
+ga:0_CTC_1_GGC_2_GAT_3_ATC_4_GCA_5_GCG_6_CGC_7_GAT_8_CTG_9_ATC_10_TGC_11_GCG_12_CAG_13_AAG_14_TTC_15_AAC_16_GGC_17_CTG_18_ACT_19_GTG_
+Differences found:
+Index 0: L - qa_codon: TTA, ga_codon: CTC
+Index 1: G - qa_codon: GGT, ga_codon: GGC
+Index 3: I - qa_codon: ATA, ga_codon: ATC
+Index 5: A - qa_codon: GCA, ga_codon: GCG
+Index 10: C - qa_codon: TGT, ga_codon: TGC
+Index 11: A - qa_codon: GCA, ga_codon: GCG
+Index 15: N - qa_codon: AAT, ga_codon: AAC
+Index 18: T - qa_codon: ACA, ga_codon: ACT
+end
+
+start
+Target sequence: LPPLLTDEMIAQYTSALLAG
+qa:[-96.95259655] >= ga:[-97.5387174]
+qa:16.818107843399048 >= ga:2.474623203277588
+qa:0_TTG_1_CCG_2_CCG_3_CTA_4_CTG_5_ACA_6_GAC_7_GAG_8_ATG_9_ATC_10_GCG_11_CAG_12_TAT_13_ACG_14_AGC_15_GCG_16_CTG_17_CTA_18_GCA_19_GGT_
+ga:0_CTG_1_CCG_2_CCG_3_CTG_4_CTG_5_ACT_6_GAT_7_GAG_8_ATG_9_ATC_10_GCG_11_CAG_12_TAT_13_ACG_14_AGC_15_GCG_16_CTG_17_CTC_18_GCA_19_GGT_
+Differences found:
+Index 0: L - qa_codon: TTG, ga_codon: CTG
+Index 3: L - qa_codon: CTA, ga_codon: CTG
+Index 5: T - qa_codon: ACA, ga_codon: ACT
+Index 6: D - qa_codon: GAC, ga_codon: GAT
+Index 17: L - qa_codon: CTA, ga_codon: CTC
+end
+
+start
+Target sequence: TITSGWTFGAGAALQIPFAM
+qa:[-95.04413088] >= ga:[-95.45475232]
+qa:15.993021011352539 >= ga:2.1765778064727783
+qa:0_ACG_1_ATC_2_ACG_3_AGC_4_GGT_5_TGG_6_ACG_7_TTC_8_GGT_9_GCC_10_GGC_11_GCA_12_GCA_13_CTG_14_CAG_15_ATT_16_CCA_17_TTC_18_GCG_19_ATG_
+ga:0_ACG_1_ATC_2_ACG_3_AGC_4_GGC_5_TGG_6_ACC_7_TTC_8_GGC_9_GCC_10_GGC_11_GCA_12_GCG_13_CTG_14_CAG_15_ATA_16_CCG_17_TTC_18_GCG_19_ATG_
+Differences found:
+Index 4: G - qa_codon: GGT, ga_codon: GGC
+Index 6: T - qa_codon: ACG, ga_codon: ACC
+Index 8: G - qa_codon: GGT, ga_codon: GGC
+Index 12: A - qa_codon: GCA, ga_codon: GCG
+Index 15: I - qa_codon: ATT, ga_codon: ATA
+Index 16: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: QMAYRFNGIGVTQNVLYENQ
+qa:[-95.54702162] >= ga:[-95.78817624]
+qa:16.429731607437134 >= ga:2.146347761154175
+qa:0_CAG_1_ATG_2_GCA_3_TAT_4_CGC_5_TTC_6_AAC_7_GGC_8_ATC_9_GGT_10_GTC_11_ACT_12_CAG_13_AAC_14_GTG_15_CTG_16_TAC_17_GAG_18_AAC_19_CAG_
+ga:0_CAG_1_ATG_2_GCG_3_TAT_4_CGC_5_TTC_6_AAC_7_GGC_8_ATT_9_GGC_10_GTG_11_ACG_12_CAG_13_AAC_14_GTG_15_CTG_16_TAT_17_GAG_18_AAC_19_CAG_
+Differences found:
+Index 2: A - qa_codon: GCA, ga_codon: GCG
+Index 8: I - qa_codon: ATC, ga_codon: ATT
+Index 9: G - qa_codon: GGT, ga_codon: GGC
+Index 10: V - qa_codon: GTC, ga_codon: GTG
+Index 11: T - qa_codon: ACT, ga_codon: ACG
+Index 16: Y - qa_codon: TAC, ga_codon: TAT
+end
+
+start
+Target sequence: KLIANQFNSAIGKIQDSLSS
+qa:[-94.81819247] >= ga:[-95.34290359]
+qa:15.394144535064697 >= ga:2.478085517883301
+qa:0_AAG_1_CTG_2_ATC_3_GCG_4_AAC_5_CAG_6_TTC_7_AAC_8_AGC_9_GCT_10_ATA_11_GGT_12_AAG_13_ATC_14_CAA_15_GAC_16_TCA_17_CTG_18_AGC_19_TCT_
+ga:0_AAG_1_CTG_2_ATC_3_GCG_4_AAC_5_CAG_6_TTC_7_AAC_8_AGC_9_GCG_10_ATC_11_GGC_12_AAG_13_ATA_14_CAG_15_GAT_16_AGT_17_CTG_18_TCG_19_TCG_
+Differences found:
+Index 9: A - qa_codon: GCT, ga_codon: GCG
+Index 10: I - qa_codon: ATA, ga_codon: ATC
+Index 11: G - qa_codon: GGT, ga_codon: GGC
+Index 13: I - qa_codon: ATC, ga_codon: ATA
+Index 14: Q - qa_codon: CAA, ga_codon: CAG
+Index 15: D - qa_codon: GAC, ga_codon: GAT
+Index 16: S - qa_codon: TCA, ga_codon: AGT
+Index 18: S - qa_codon: AGC, ga_codon: TCG
+Index 19: S - qa_codon: TCT, ga_codon: TCG
+end
+
+start
+Target sequence: TASALGKLQDVVNQNAQALN
+qa:[-95.10423444] >= ga:[-95.72334767]
+qa:15.611738443374634 >= ga:2.4579107761383057
+qa:0_ACA_1_GCG_2_AGC_3_GCT_4_CTC_5_GGC_6_AAG_7_CTA_8_CAG_9_GAT_10_GTC_11_GTG_12_AAC_13_CAG_14_AAC_15_GCG_16_CAG_17_GCA_18_CTC_19_AAC_
+ga:0_ACT_1_GCG_2_AGC_3_GCG_4_CTC_5_GGC_6_AAG_7_CTG_8_CAG_9_GAT_10_GTC_11_GTG_12_AAC_13_CAG_14_AAC_15_GCG_16_CAG_17_GCG_18_CTG_19_AAC_
+Differences found:
+Index 0: T - qa_codon: ACA, ga_codon: ACT
+Index 3: A - qa_codon: GCT, ga_codon: GCG
+Index 7: L - qa_codon: CTA, ga_codon: CTG
+Index 17: A - qa_codon: GCA, ga_codon: GCG
+Index 18: L - qa_codon: CTC, ga_codon: CTG
+end
+
+start
+Target sequence: TLVKQLSSNFGAISSVLNDI
+qa:[-95.40391693] >= ga:[-96.17384777]
+qa:17.48196816444397 >= ga:2.416647434234619
+qa:0_ACG_1_CTC_2_GTT_3_AAG_4_CAG_5_CTC_6_TCG_7_TCT_8_AAC_9_TTC_10_GGC_11_GCG_12_ATC_13_AGC_14_TCT_15_GTG_16_CTG_17_AAC_18_GAC_19_ATC_
+ga:0_ACG_1_CTC_2_GTG_3_AAG_4_CAG_5_CTG_6_AGC_7_AGC_8_AAC_9_TTC_10_GGC_11_GCG_12_ATC_13_AGC_14_AGC_15_GTG_16_CTG_17_AAC_18_GAT_19_ATC_
+Differences found:
+Index 2: V - qa_codon: GTT, ga_codon: GTG
+Index 5: L - qa_codon: CTC, ga_codon: CTG
+Index 6: S - qa_codon: TCG, ga_codon: AGC
+Index 7: S - qa_codon: TCT, ga_codon: AGC
+Index 14: S - qa_codon: TCT, ga_codon: AGC
+Index 18: D - qa_codon: GAC, ga_codon: GAT
+end
+
+start
+Target sequence: LSRLDKVEAEVQIDRLITGR
+qa:[-95.95405655] >= ga:[-96.56835996]
+qa:16.44363236427307 >= ga:2.4621188640594482
+qa:0_CTG_1_TCG_2_CGT_3_CTA_4_GAT_5_AAG_6_GTA_7_GAG_8_GCA_9_GAG_10_GTG_11_CAG_12_ATA_13_GAT_14_AGA_15_CTG_16_ATC_17_ACT_18_GGT_19_CGC_
+ga:0_CTG_1_TCG_2_CGT_3_CTC_4_GAT_5_AAG_6_GTC_7_GAG_8_GCA_9_GAG_10_GTG_11_CAG_12_ATC_13_GAT_14_CGT_15_CTG_16_ATC_17_ACT_18_GGC_19_CGT_
+Differences found:
+Index 3: L - qa_codon: CTA, ga_codon: CTC
+Index 6: V - qa_codon: GTA, ga_codon: GTC
+Index 12: I - qa_codon: ATA, ga_codon: ATC
+Index 14: R - qa_codon: AGA, ga_codon: CGT
+Index 18: G - qa_codon: GGT, ga_codon: GGC
+Index 19: R - qa_codon: CGC, ga_codon: CGT
+end
+
+start
+Target sequence: LQSLQTYVTQQLIRAAEIRA
+qa:[-98.0456189] >= ga:[-98.38172772]
+qa:17.344455242156982 >= ga:2.265152931213379
+qa:0_CTG_1_CAG_2_TCT_3_CTG_4_CAG_5_ACG_6_TAC_7_GTG_8_ACA_9_CAG_10_CAG_11_CTG_12_ATA_13_CGT_14_GCA_15_GCA_16_GAG_17_ATC_18_CGT_19_GCA_
+ga:0_CTG_1_CAG_2_TCG_3_CTG_4_CAG_5_ACG_6_TAT_7_GTG_8_ACG_9_CAG_10_CAG_11_CTG_12_ATA_13_CGC_14_GCA_15_GCA_16_GAG_17_ATA_18_CGC_19_GCG_
+Differences found:
+Index 2: S - qa_codon: TCT, ga_codon: TCG
+Index 6: Y - qa_codon: TAC, ga_codon: TAT
+Index 8: T - qa_codon: ACA, ga_codon: ACG
+Index 13: R - qa_codon: CGT, ga_codon: CGC
+Index 17: I - qa_codon: ATC, ga_codon: ATA
+Index 18: R - qa_codon: CGT, ga_codon: CGC
+Index 19: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: SANLAATKMSECVLGQSKRV
+qa:[-95.68140663] >= ga:[-95.98880301]
+qa:15.484169483184814 >= ga:2.1451597213745117
+qa:0_AGC_1_GCG_2_AAC_3_CTC_4_GCA_5_GCG_6_ACG_7_AAG_8_ATG_9_TCA_10_GAG_11_TGT_12_GTG_13_CTA_14_GGT_15_CAG_16_AGC_17_AAG_18_CGT_19_GTG_
+ga:0_AGC_1_GCG_2_AAC_3_CTC_4_GCA_5_GCG_6_ACG_7_AAG_8_ATG_9_AGC_10_GAG_11_TGC_12_GTG_13_CTC_14_GGC_15_CAG_16_AGC_17_AAG_18_CGC_19_GTG_
+Differences found:
+Index 9: S - qa_codon: TCA, ga_codon: AGC
+Index 11: C - qa_codon: TGT, ga_codon: TGC
+Index 13: L - qa_codon: CTA, ga_codon: CTC
+Index 14: G - qa_codon: GGT, ga_codon: GGC
+Index 18: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: DFCGKGYHLMSFPQSAPHGV
+qa:[-93.73559595] >= ga:[-94.09641956]
+qa:18.974771976470947 >= ga:2.2636523246765137
+qa:0_GAC_1_TTC_2_TGC_3_GGC_4_AAG_5_GGT_6_TAT_7_CAT_8_CTG_9_ATG_10_AGC_11_TTC_12_CCA_13_CAG_14_AGC_15_GCA_16_CCA_17_CAT_18_GGC_19_GTT_
+ga:0_GAC_1_TTC_2_TGC_3_GGC_4_AAG_5_GGC_6_TAT_7_CAT_8_CTG_9_ATG_10_AGC_11_TTC_12_CCG_13_CAG_14_AGC_15_GCG_16_CCG_17_CAT_18_GGT_19_GTG_
+Differences found:
+Index 5: G - qa_codon: GGT, ga_codon: GGC
+Index 12: P - qa_codon: CCA, ga_codon: CCG
+Index 15: A - qa_codon: GCA, ga_codon: GCG
+Index 16: P - qa_codon: CCA, ga_codon: CCG
+Index 18: G - qa_codon: GGC, ga_codon: GGT
+Index 19: V - qa_codon: GTT, ga_codon: GTG
+end
+
+start
+Target sequence: VFLHVTYVPAQEKNFTTAPA
+qa:[-95.25516569] >= ga:[-95.42562549]
+qa:15.944581985473633 >= ga:2.1833205223083496
+qa:0_GTC_1_TTC_2_CTG_3_CAT_4_GTG_5_ACG_6_TAT_7_GTG_8_CCG_9_GCG_10_CAG_11_GAG_12_AAG_13_AAC_14_TTC_15_ACG_16_ACA_17_GCG_18_CCG_19_GCT_
+ga:0_GTG_1_TTC_2_CTG_3_CAT_4_GTG_5_ACG_6_TAT_7_GTG_8_CCG_9_GCG_10_CAG_11_GAG_12_AAG_13_AAC_14_TTC_15_ACG_16_ACT_17_GCG_18_CCG_19_GCG_
+Differences found:
+Index 0: V - qa_codon: GTC, ga_codon: GTG
+Index 16: T - qa_codon: ACA, ga_codon: ACT
+Index 19: A - qa_codon: GCT, ga_codon: GCG
+end
+
+start
+Target sequence: ICHDGKAHFPREGVFVSNGT
+qa:[-93.94017513] >= ga:[-94.16667061]
+qa:17.188955545425415 >= ga:2.3815712928771973
+qa:0_ATC_1_TGT_2_CAC_3_GAT_4_GGC_5_AAG_6_GCA_7_CAC_8_TTC_9_CCG_10_CGT_11_GAA_12_GGT_13_GTC_14_TTC_15_GTC_16_AGC_17_AAC_18_GGT_19_ACC_
+ga:0_ATC_1_TGT_2_CAT_3_GAT_4_GGC_5_AAG_6_GCG_7_CAC_8_TTC_9_CCG_10_CGC_11_GAA_12_GGC_13_GTG_14_TTC_15_GTC_16_AGC_17_AAC_18_GGC_19_ACC_
+Differences found:
+Index 2: H - qa_codon: CAC, ga_codon: CAT
+Index 6: A - qa_codon: GCA, ga_codon: GCG
+Index 10: R - qa_codon: CGT, ga_codon: CGC
+Index 12: G - qa_codon: GGT, ga_codon: GGC
+Index 13: V - qa_codon: GTC, ga_codon: GTG
+Index 18: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: HWFVTQRNFYEPQIITTDNT
+qa:[-95.69582893] >= ga:[-95.91047542]
+qa:18.161108016967773 >= ga:1.8214764595031738
+qa:0_CAC_1_TGG_2_TTC_3_GTC_4_ACT_5_CAG_6_CGT_7_AAC_8_TTC_9_TAC_10_GAG_11_CCG_12_CAG_13_ATC_14_ATC_15_ACG_16_ACT_17_GAT_18_AAC_19_ACG_
+ga:0_CAT_1_TGG_2_TTC_3_GTG_4_ACG_5_CAG_6_CGC_7_AAC_8_TTC_9_TAT_10_GAG_11_CCG_12_CAG_13_ATC_14_ATC_15_ACG_16_ACT_17_GAT_18_AAC_19_ACC_
+Differences found:
+Index 0: H - qa_codon: CAC, ga_codon: CAT
+Index 3: V - qa_codon: GTC, ga_codon: GTG
+Index 4: T - qa_codon: ACT, ga_codon: ACG
+Index 6: R - qa_codon: CGT, ga_codon: CGC
+Index 9: Y - qa_codon: TAC, ga_codon: TAT
+Index 19: T - qa_codon: ACG, ga_codon: ACC
+end
+
+start
+Target sequence: FVSGNCDVVIGIVNNTVYDP
+qa:[-95.59560977] >= ga:[-95.78730244]
+qa:17.857502937316895 >= ga:1.4982774257659912
+qa:0_TTC_1_GTG_2_AGC_3_GGT_4_AAC_5_TGC_6_GAT_7_GTC_8_GTG_9_ATC_10_GGT_11_ATC_12_GTC_13_AAT_14_AAC_15_ACA_16_GTG_17_TAC_18_GAT_19_CCG_
+ga:0_TTC_1_GTG_2_AGC_3_GGC_4_AAC_5_TGC_6_GAT_7_GTC_8_GTG_9_ATC_10_GGC_11_ATC_12_GTG_13_AAC_14_AAC_15_ACT_16_GTG_17_TAT_18_GAT_19_CCG_
+Differences found:
+Index 3: G - qa_codon: GGT, ga_codon: GGC
+Index 10: G - qa_codon: GGT, ga_codon: GGC
+Index 12: V - qa_codon: GTC, ga_codon: GTG
+Index 13: N - qa_codon: AAT, ga_codon: AAC
+Index 15: T - qa_codon: ACA, ga_codon: ACT
+Index 17: Y - qa_codon: TAC, ga_codon: TAT
+end
+
+start
+Target sequence: LQPELDSFKEELDKYFKNHT
+qa:[-94.7539683] >= ga:[-94.84368235]
+qa:17.886778354644775 >= ga:2.1044745445251465
+qa:0_CTG_1_CAG_2_CCG_3_GAG_4_CTC_5_GAT_6_AGC_7_TTC_8_AAG_9_GAA_10_GAG_11_CTC_12_GAT_13_AAG_14_TAC_15_TTC_16_AAG_17_AAC_18_CAT_19_ACA_
+ga:0_CTG_1_CAG_2_CCG_3_GAG_4_CTC_5_GAT_6_AGC_7_TTC_8_AAG_9_GAA_10_GAG_11_CTC_12_GAT_13_AAG_14_TAC_15_TTC_16_AAG_17_AAC_18_CAT_19_ACG_
+Differences found:
+Index 19: T - qa_codon: ACA, ga_codon: ACG
+end
+
+start
+Target sequence: SPDVDLGDISGINASVVNIQ
+qa:[-95.02949431] >= ga:[-95.40719728]
+qa:15.592039823532104 >= ga:2.5853278636932373
+qa:0_TCA_1_CCG_2_GAC_3_GTC_4_GAT_5_CTC_6_GGC_7_GAT_8_ATC_9_AGT_10_GGT_11_ATT_12_AAT_13_GCG_14_AGT_15_GTC_16_GTC_17_AAT_18_ATA_19_CAG_
+ga:0_TCT_1_CCG_2_GAT_3_GTC_4_GAT_5_CTC_6_GGC_7_GAT_8_ATC_9_AGC_10_GGC_11_ATT_12_AAC_13_GCG_14_AGC_15_GTC_16_GTG_17_AAC_18_ATA_19_CAG_
+Differences found:
+Index 0: S - qa_codon: TCA, ga_codon: TCT
+Index 2: D - qa_codon: GAC, ga_codon: GAT
+Index 9: S - qa_codon: AGT, ga_codon: AGC
+Index 10: G - qa_codon: GGT, ga_codon: GGC
+Index 12: N - qa_codon: AAT, ga_codon: AAC
+Index 14: S - qa_codon: AGT, ga_codon: AGC
+Index 16: V - qa_codon: GTC, ga_codon: GTG
+Index 17: N - qa_codon: AAT, ga_codon: AAC
+end
+
+start
+Target sequence: KEIDRLNEVAKNLNESLIDL
+qa:[-95.4238329] >= ga:[-95.99667302]
+qa:15.397718906402588 >= ga:2.3381459712982178
+qa:0_AAG_1_GAG_2_ATC_3_GAT_4_CGT_5_CTC_6_AAC_7_GAA_8_GTC_9_GCG_10_AAG_11_AAT_12_CTC_13_AAT_14_GAG_15_TCT_16_CTG_17_ATC_18_GAT_19_CTC_
+ga:0_AAG_1_GAG_2_ATC_3_GAT_4_CGT_5_CTG_6_AAC_7_GAA_8_GTC_9_GCG_10_AAG_11_AAC_12_CTG_13_AAC_14_GAG_15_TCG_16_CTG_17_ATC_18_GAT_19_CTG_
+Differences found:
+Index 5: L - qa_codon: CTC, ga_codon: CTG
+Index 11: N - qa_codon: AAT, ga_codon: AAC
+Index 12: L - qa_codon: CTC, ga_codon: CTG
+Index 13: N - qa_codon: AAT, ga_codon: AAC
+Index 15: S - qa_codon: TCT, ga_codon: TCG
+Index 19: L - qa_codon: CTC, ga_codon: CTG
+end
+
+start
+Target sequence: QELGKYEQYIKWPWYIWLGF
+qa:[-94.64368853] >= ga:[-94.8979545]
+qa:16.51635456085205 >= ga:0.7972266674041748
+qa:0_CAG_1_GAG_2_CTC_3_GGT_4_AAG_5_TAT_6_GAG_7_CAG_8_TAC_9_ATC_10_AAG_11_TGG_12_CCG_13_TGG_14_TAC_15_ATA_16_TGG_17_CTC_18_GGC_19_TTC_
+ga:0_CAG_1_GAG_2_CTC_3_GGC_4_AAG_5_TAT_6_GAG_7_CAG_8_TAT_9_ATC_10_AAG_11_TGG_12_CCG_13_TGG_14_TAT_15_ATC_16_TGG_17_CTC_18_GGC_19_TTC_
+Differences found:
+Index 3: G - qa_codon: GGT, ga_codon: GGC
+Index 8: Y - qa_codon: TAC, ga_codon: TAT
+Index 14: Y - qa_codon: TAC, ga_codon: TAT
+Index 15: I - qa_codon: ATA, ga_codon: ATC
+end
+
+start
+Target sequence: IAGLIAIVMVTIMLCCMTSC
+qa:[-97.17185757] >= ga:[-98.08750885]
+qa:15.271183967590332 >= ga:1.9088263511657715
+qa:0_ATT_1_GCA_2_GGC_3_CTG_4_ATC_5_GCT_6_ATC_7_GTC_8_ATG_9_GTG_10_ACG_11_ATC_12_ATG_13_CTG_14_TGC_15_TGC_16_ATG_17_ACA_18_TCT_19_TGC_
+ga:0_ATC_1_GCA_2_GGC_3_CTG_4_ATC_5_GCG_6_ATC_7_GTG_8_ATG_9_GTG_10_ACG_11_ATC_12_ATG_13_CTG_14_TGC_15_TGC_16_ATG_17_ACG_18_AGC_19_TGC_
+Differences found:
+Index 0: I - qa_codon: ATT, ga_codon: ATC
+Index 5: A - qa_codon: GCT, ga_codon: GCG
+Index 7: V - qa_codon: GTC, ga_codon: GTG
+Index 17: T - qa_codon: ACA, ga_codon: ACG
+Index 18: S - qa_codon: TCT, ga_codon: AGC
+end
+
+start
+Target sequence: CSCLKGCCSCGSCCKFDEDD
+qa:[-95.58348321] >= ga:[-95.6620853]
+qa:17.247739553451538 >= ga:1.7633633613586426
+qa:0_TGC_1_AGC_2_TGT_3_CTG_4_AAG_5_GGC_6_TGC_7_TGC_8_AGC_9_TGC_10_GGC_11_AGC_12_TGC_13_TGT_14_AAG_15_TTC_16_GAC_17_GAG_18_GAT_19_GAC_
+ga:0_TGC_1_AGC_2_TGT_3_CTG_4_AAG_5_GGC_6_TGC_7_TGC_8_AGC_9_TGC_10_GGT_11_AGC_12_TGC_13_TGC_14_AAG_15_TTC_16_GAT_17_GAG_18_GAT_19_GAT_
+Differences found:
+Index 10: G - qa_codon: GGC, ga_codon: GGT
+Index 13: C - qa_codon: TGT, ga_codon: TGC
+Index 16: D - qa_codon: GAC, ga_codon: GAT
+Index 19: D - qa_codon: GAC, ga_codon: GAT
+end
+
+start
+Target sequence: MNPTLILAAFCLGIASATLT
+qa:[-95.41695234] >= ga:[-96.10322024]
+qa:19.126036405563354 >= ga:2.3329057693481445
+qa:0_ATG_1_AAT_2_CCT_3_ACA_4_CTG_5_ATA_6_CTC_7_GCT_8_GCG_9_TTC_10_TGT_11_CTC_12_GGC_13_ATA_14_GCA_15_TCT_16_GCT_17_ACT_18_CTG_19_ACG_
+ga:0_ATG_1_AAT_2_CCG_3_ACG_4_CTG_5_ATA_6_CTC_7_GCA_8_GCG_9_TTC_10_TGT_11_CTC_12_GGC_13_ATC_14_GCG_15_AGT_16_GCG_17_ACG_18_CTG_19_ACG_
+Differences found:
+Index 2: P - qa_codon: CCT, ga_codon: CCG
+Index 3: T - qa_codon: ACA, ga_codon: ACG
+Index 7: A - qa_codon: GCT, ga_codon: GCA
+Index 13: I - qa_codon: ATA, ga_codon: ATC
+Index 14: A - qa_codon: GCA, ga_codon: GCG
+Index 15: S - qa_codon: TCT, ga_codon: AGT
+Index 16: A - qa_codon: GCT, ga_codon: GCG
+Index 17: T - qa_codon: ACT, ga_codon: ACG
+end
+
+start
+Target sequence: FDHSLEAQWTKWKAMHNRLY
+qa:[-95.62094543] >= ga:[-95.79511746]
+qa:19.326990604400635 >= ga:1.958739995956421
+qa:0_TTC_1_GAT_2_CAC_3_TCA_4_CTC_5_GAG_6_GCG_7_CAG_8_TGG_9_ACC_10_AAG_11_TGG_12_AAG_13_GCG_14_ATG_15_CAC_16_AAC_17_CGT_18_CTC_19_TAC_
+ga:0_TTC_1_GAT_2_CAC_3_TCG_4_CTC_5_GAG_6_GCG_7_CAG_8_TGG_9_ACG_10_AAG_11_TGG_12_AAG_13_GCG_14_ATG_15_CAT_16_AAC_17_CGT_18_CTG_19_TAT_
+Differences found:
+Index 3: S - qa_codon: TCA, ga_codon: TCG
+Index 9: T - qa_codon: ACC, ga_codon: ACG
+Index 15: H - qa_codon: CAC, ga_codon: CAT
+Index 18: L - qa_codon: CTC, ga_codon: CTG
+Index 19: Y - qa_codon: TAC, ga_codon: TAT
+end
+
+start
+Target sequence: GMNEEGWRRAVWEKNMKMIE
+qa:[-94.42686121] >= ga:[-94.42686121]
+qa:15.31214189529419 >= ga:1.8467657566070557
+qa:0_GGC_1_ATG_2_AAC_3_GAA_4_GAA_5_GGC_6_TGG_7_CGT_8_CGC_9_GCA_10_GTG_11_TGG_12_GAG_13_AAG_14_AAC_15_ATG_16_AAG_17_ATG_18_ATC_19_GAG_
+ga:0_GGC_1_ATG_2_AAC_3_GAA_4_GAA_5_GGC_6_TGG_7_CGT_8_CGC_9_GCA_10_GTG_11_TGG_12_GAG_13_AAG_14_AAC_15_ATG_16_AAG_17_ATG_18_ATC_19_GAG_
+identical.
+end
+
+start
+Target sequence: LHNQEYREGKHSFTMAMNAF
+qa:[-94.95159342] >= ga:[-95.10119912]
+qa:16.317561149597168 >= ga:1.9754655361175537
+qa:0_CTG_1_CAT_2_AAT_3_CAG_4_GAG_5_TAT_6_CGT_7_GAA_8_GGC_9_AAG_10_CAC_11_TCA_12_TTC_13_ACG_14_ATG_15_GCG_16_ATG_17_AAC_18_GCG_19_TTC_
+ga:0_CTG_1_CAT_2_AAC_3_CAG_4_GAG_5_TAT_6_CGT_7_GAA_8_GGC_9_AAG_10_CAT_11_AGC_12_TTC_13_ACG_14_ATG_15_GCG_16_ATG_17_AAC_18_GCG_19_TTC_
+Differences found:
+Index 2: N - qa_codon: AAT, ga_codon: AAC
+Index 10: H - qa_codon: CAC, ga_codon: CAT
+Index 11: S - qa_codon: TCA, ga_codon: AGC
+end
+
+start
+Target sequence: GDMTSEEFRQVMNGFQNRKP
+qa:[-94.90517065] >= ga:[-95.17697931]
+qa:15.44976806640625 >= ga:2.2535135746002197
+qa:0_GGT_1_GAT_2_ATG_3_ACG_4_AGC_5_GAG_6_GAG_7_TTC_8_CGT_9_CAG_10_GTG_11_ATG_12_AAC_13_GGC_14_TTC_15_CAG_16_AAT_17_CGC_18_AAG_19_CCT_
+ga:0_GGC_1_GAT_2_ATG_3_ACG_4_AGC_5_GAG_6_GAA_7_TTC_8_CGT_9_CAG_10_GTG_11_ATG_12_AAC_13_GGC_14_TTC_15_CAG_16_AAC_17_CGC_18_AAG_19_CCG_
+Differences found:
+Index 0: G - qa_codon: GGT, ga_codon: GGC
+Index 6: E - qa_codon: GAG, ga_codon: GAA
+Index 16: N - qa_codon: AAT, ga_codon: AAC
+Index 19: P - qa_codon: CCT, ga_codon: CCG
+end
+
+start
+Target sequence: RKGKVFQEPLFYEAPRSVDW
+qa:[-93.75009574] >= ga:[-93.92939189]
+qa:15.667786836624146 >= ga:2.3521664142608643
+qa:0_CGT_1_AAG_2_GGC_3_AAG_4_GTG_5_TTC_6_CAA_7_GAA_8_CCG_9_CTG_10_TTC_11_TAT_12_GAG_13_GCG_14_CCG_15_CGC_16_AGT_17_GTC_18_GAT_19_TGG_
+ga:0_CGC_1_AAG_2_GGC_3_AAG_4_GTG_5_TTC_6_CAG_7_GAA_8_CCG_9_CTG_10_TTC_11_TAT_12_GAG_13_GCG_14_CCG_15_CGC_16_AGC_17_GTC_18_GAT_19_TGG_
+Differences found:
+Index 0: R - qa_codon: CGT, ga_codon: CGC
+Index 6: Q - qa_codon: CAA, ga_codon: CAG
+Index 16: S - qa_codon: AGT, ga_codon: AGC
+end
+
+start
+Target sequence: REKGYVTPVKNQGQCGSCWA
+qa:[-93.57612305] >= ga:[-93.7011575]
+qa:15.675283432006836 >= ga:2.1972451210021973
+qa:0_CGC_1_GAG_2_AAG_3_GGC_4_TAT_5_GTG_6_ACA_7_CCG_8_GTG_9_AAG_10_AAC_11_CAA_12_GGC_13_CAG_14_TGC_15_GGT_16_AGC_17_TGC_18_TGG_19_GCG_
+ga:0_CGC_1_GAG_2_AAG_3_GGC_4_TAT_5_GTG_6_ACG_7_CCG_8_GTG_9_AAG_10_AAC_11_CAA_12_GGC_13_CAG_14_TGC_15_GGC_16_AGC_17_TGC_18_TGG_19_GCG_
+Differences found:
+Index 6: T - qa_codon: ACA, ga_codon: ACG
+Index 15: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: FSATGALEGQMFRKTGRLIS
+qa:[-94.7186785] >= ga:[-95.25173274]
+qa:14.126787424087524 >= ga:2.6322813034057617
+qa:0_TTC_1_TCA_2_GCT_3_ACT_4_GGC_5_GCT_6_CTG_7_GAA_8_GGC_9_CAG_10_ATG_11_TTC_12_CGC_13_AAG_14_ACA_15_GGT_16_CGT_17_CTG_18_ATC_19_TCG_
+ga:0_TTC_1_AGC_2_GCG_3_ACT_4_GGC_5_GCG_6_CTG_7_GAA_8_GGC_9_CAG_10_ATG_11_TTC_12_CGC_13_AAG_14_ACC_15_GGC_16_CGT_17_CTG_18_ATC_19_AGC_
+Differences found:
+Index 1: S - qa_codon: TCA, ga_codon: AGC
+Index 2: A - qa_codon: GCT, ga_codon: GCG
+Index 5: A - qa_codon: GCT, ga_codon: GCG
+Index 14: T - qa_codon: ACA, ga_codon: ACC
+Index 15: G - qa_codon: GGT, ga_codon: GGC
+Index 19: S - qa_codon: TCG, ga_codon: AGC
+end
+
+start
+Target sequence: LSEQNLVDCSGPQGNEGCNG
+qa:[-94.8538637] >= ga:[-95.20749685]
+qa:18.708656549453735 >= ga:2.2992963790893555
+qa:0_CTG_1_AGC_2_GAG_3_CAG_4_AAC_5_CTA_6_GTC_7_GAC_8_TGC_9_TCA_10_GGT_11_CCG_12_CAA_13_GGT_14_AAT_15_GAA_16_GGT_17_TGC_18_AAT_19_GGC_
+ga:0_CTG_1_AGC_2_GAG_3_CAG_4_AAC_5_CTC_6_GTC_7_GAC_8_TGC_9_AGC_10_GGT_11_CCG_12_CAA_13_GGC_14_AAC_15_GAA_16_GGC_17_TGC_18_AAC_19_GGC_
+Differences found:
+Index 5: L - qa_codon: CTA, ga_codon: CTC
+Index 9: S - qa_codon: TCA, ga_codon: AGC
+Index 13: G - qa_codon: GGT, ga_codon: GGC
+Index 14: N - qa_codon: AAT, ga_codon: AAC
+Index 16: G - qa_codon: GGT, ga_codon: GGC
+Index 18: N - qa_codon: AAT, ga_codon: AAC
+end
+
+start
+Target sequence: GLMDYAFQYVQDNGGLDSEE
+qa:[-95.93420515] >= ga:[-95.98111131]
+qa:16.022587299346924 >= ga:2.149643659591675
+qa:0_GGC_1_CTG_2_ATG_3_GAC_4_TAT_5_GCG_6_TTC_7_CAG_8_TAC_9_GTG_10_CAG_11_GAT_12_AAC_13_GGC_14_GGT_15_CTC_16_GAT_17_AGC_18_GAG_19_GAA_
+ga:0_GGC_1_CTG_2_ATG_3_GAC_4_TAT_5_GCG_6_TTC_7_CAG_8_TAT_9_GTG_10_CAG_11_GAT_12_AAC_13_GGC_14_GGC_15_CTC_16_GAT_17_AGC_18_GAG_19_GAA_
+Differences found:
+Index 8: Y - qa_codon: TAC, ga_codon: TAT
+Index 14: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: SYPYEATEESCKYNPKYSVA
+qa:[-95.28705603] >= ga:[-95.46868041]
+qa:16.940460681915283 >= ga:2.220536470413208
+qa:0_TCG_1_TAT_2_CCA_3_TAT_4_GAG_5_GCG_6_ACT_7_GAG_8_GAG_9_AGC_10_TGC_11_AAG_12_TAT_13_AAT_14_CCG_15_AAG_16_TAT_17_AGC_18_GTC_19_GCG_
+ga:0_AGC_1_TAT_2_CCG_3_TAT_4_GAG_5_GCG_6_ACT_7_GAG_8_GAG_9_AGC_10_TGC_11_AAG_12_TAT_13_AAT_14_CCG_15_AAG_16_TAT_17_AGC_18_GTC_19_GCG_
+Differences found:
+Index 0: S - qa_codon: TCG, ga_codon: AGC
+Index 2: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: NDTGFVDIPKQEKALMKAVA
+qa:[-94.44357318] >= ga:[-94.78996456]
+qa:16.071468830108643 >= ga:2.201117515563965
+qa:0_AAC_1_GAC_2_ACA_3_GGC_4_TTC_5_GTC_6_GAT_7_ATA_8_CCT_9_AAG_10_CAG_11_GAG_12_AAG_13_GCG_14_CTG_15_ATG_16_AAG_17_GCA_18_GTA_19_GCT_
+ga:0_AAC_1_GAT_2_ACT_3_GGC_4_TTC_5_GTC_6_GAT_7_ATA_8_CCG_9_AAG_10_CAG_11_GAG_12_AAG_13_GCG_14_CTG_15_ATG_16_AAG_17_GCA_18_GTC_19_GCG_
+Differences found:
+Index 1: D - qa_codon: GAC, ga_codon: GAT
+Index 2: T - qa_codon: ACA, ga_codon: ACT
+Index 8: P - qa_codon: CCT, ga_codon: CCG
+Index 18: V - qa_codon: GTA, ga_codon: GTC
+Index 19: A - qa_codon: GCT, ga_codon: GCG
+end
+
+start
+Target sequence: TVGPISVAIDAGHESFLFYK
+qa:[-95.12348364] >= ga:[-95.4325552]
+qa:17.36350417137146 >= ga:1.9568145275115967
+qa:0_ACT_1_GTA_2_GGT_3_CCG_4_ATC_5_AGC_6_GTA_7_GCG_8_ATC_9_GAT_10_GCA_11_GGT_12_CAC_13_GAG_14_AGC_15_TTC_16_TTA_17_TTC_18_TAC_19_AAG_
+ga:0_ACT_1_GTC_2_GGT_3_CCG_4_ATC_5_AGC_6_GTC_7_GCG_8_ATC_9_GAT_10_GCT_11_GGC_12_CAT_13_GAG_14_AGC_15_TTC_16_CTG_17_TTC_18_TAT_19_AAG_
+Differences found:
+Index 1: V - qa_codon: GTA, ga_codon: GTC
+Index 6: V - qa_codon: GTA, ga_codon: GTC
+Index 10: A - qa_codon: GCA, ga_codon: GCT
+Index 11: G - qa_codon: GGT, ga_codon: GGC
+Index 12: H - qa_codon: CAC, ga_codon: CAT
+Index 16: L - qa_codon: TTA, ga_codon: CTG
+Index 18: Y - qa_codon: TAC, ga_codon: TAT
+end
+
+start
+Target sequence: EGIYFEPDCSSEDMDHGVLV
+qa:[-95.71572581] >= ga:[-95.88745846]
+qa:16.445955753326416 >= ga:0.9096126556396484
+qa:0_GAA_1_GGT_2_ATC_3_TAC_4_TTC_5_GAA_6_CCT_7_GAC_8_TGC_9_AGC_10_AGC_11_GAG_12_GAT_13_ATG_14_GAT_15_CAT_16_GGC_17_GTG_18_CTC_19_GTG_
+ga:0_GAA_1_GGC_2_ATC_3_TAC_4_TTC_5_GAA_6_CCG_7_GAC_8_TGC_9_AGC_10_AGC_11_GAG_12_GAT_13_ATG_14_GAT_15_CAT_16_GGC_17_GTG_18_CTC_19_GTG_
+Differences found:
+Index 1: G - qa_codon: GGT, ga_codon: GGC
+Index 6: P - qa_codon: CCT, ga_codon: CCG
+end
+
+start
+Target sequence: VGYGFESTESDNNKYWLVKN
+qa:[-94.48813602] >= ga:[-94.56015834]
+qa:16.078495264053345 >= ga:0.8621141910552979
+qa:0_GTC_1_GGT_2_TAT_3_GGC_4_TTC_5_GAG_6_AGC_7_ACT_8_GAG_9_AGC_10_GAC_11_AAC_12_AAC_13_AAG_14_TAT_15_TGG_16_CTC_17_GTG_18_AAG_19_AAC_
+ga:0_GTT_1_GGC_2_TAT_3_GGC_4_TTC_5_GAG_6_AGC_7_ACT_8_GAG_9_AGC_10_GAT_11_AAC_12_AAC_13_AAG_14_TAT_15_TGG_16_CTC_17_GTG_18_AAG_19_AAC_
+Differences found:
+Index 0: V - qa_codon: GTC, ga_codon: GTT
+Index 1: G - qa_codon: GGT, ga_codon: GGC
+Index 10: D - qa_codon: GAC, ga_codon: GAT
+end
+
+start
+Target sequence: SWGEEWGMGGYVKMAKDRRN
+qa:[-91.33189122] >= ga:[-91.50335564]
+qa:15.32641053199768 >= ga:0.871971607208252
+qa:0_TCT_1_TGG_2_GGT_3_GAA_4_GAA_5_TGG_6_GGC_7_ATG_8_GGT_9_GGC_10_TAT_11_GTG_12_AAG_13_ATG_14_GCG_15_AAG_16_GAT_17_CGT_18_CGT_19_AAC_
+ga:0_AGC_1_TGG_2_GGC_3_GAA_4_GAA_5_TGG_6_GGC_7_ATG_8_GGC_9_GGC_10_TAT_11_GTG_12_AAG_13_ATG_14_GCG_15_AAG_16_GAT_17_CGT_18_CGC_19_AAC_
+Differences found:
+Index 0: S - qa_codon: TCT, ga_codon: AGC
+Index 2: G - qa_codon: GGT, ga_codon: GGC
+Index 8: G - qa_codon: GGT, ga_codon: GGC
+Index 18: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: MSSIDLKSKFLKVYDTLKSE
+qa:[-95.64294682] >= ga:[-95.82753516]
+qa:18.045462131500244 >= ga:2.3501269817352295
+qa:0_ATG_1_TCT_2_AGC_3_ATC_4_GAT_5_CTG_6_AAG_7_AGC_8_AAG_9_TTC_10_CTG_11_AAG_12_GTG_13_TAT_14_GAC_15_ACT_16_CTG_17_AAG_18_AGC_19_GAG_
+ga:0_ATG_1_AGC_2_AGC_3_ATC_4_GAT_5_CTG_6_AAG_7_AGC_8_AAG_9_TTC_10_CTG_11_AAG_12_GTG_13_TAT_14_GAT_15_ACG_16_CTG_17_AAG_18_AGC_19_GAG_
+Differences found:
+Index 1: S - qa_codon: TCT, ga_codon: AGC
+Index 14: D - qa_codon: GAC, ga_codon: GAT
+Index 15: T - qa_codon: ACT, ga_codon: ACG
+end
+
+start
+Target sequence: LINDPAFEFDDDSRQWIEKM
+qa:[-95.22752039] >= ga:[-95.43440922]
+qa:15.525626420974731 >= ga:1.9943115711212158
+qa:0_CTG_1_ATC_2_AAC_3_GAT_4_CCA_5_GCC_6_TTC_7_GAA_8_TTC_9_GAT_10_GAT_11_GAC_12_TCA_13_CGT_14_CAG_15_TGG_16_ATC_17_GAG_18_AAG_19_ATG_
+ga:0_CTG_1_ATC_2_AAC_3_GAT_4_CCG_5_GCG_6_TTC_7_GAA_8_TTC_9_GAT_10_GAT_11_GAT_12_AGT_13_CGT_14_CAG_15_TGG_16_ATC_17_GAG_18_AAG_19_ATG_
+Differences found:
+Index 4: P - qa_codon: CCA, ga_codon: CCG
+Index 5: A - qa_codon: GCC, ga_codon: GCG
+Index 11: D - qa_codon: GAC, ga_codon: GAT
+Index 12: S - qa_codon: TCA, ga_codon: AGT
+end
+
+start
+Target sequence: LDYNVPGGKLNRGLSVVDSY
+qa:[-94.70072827] >= ga:[-95.22786129]
+qa:16.255176067352295 >= ga:2.649228572845459
+qa:0_CTC_1_GAC_2_TAC_3_AAC_4_GTA_5_CCT_6_GGA_7_GGT_8_AAG_9_CTG_10_AAT_11_CGT_12_GGC_13_CTG_14_TCA_15_GTC_16_GTC_17_GAC_18_AGC_19_TAC_
+ga:0_CTC_1_GAC_2_TAT_3_AAC_4_GTG_5_CCA_6_GGC_7_GGC_8_AAG_9_CTG_10_AAC_11_CGC_12_GGC_13_CTG_14_AGC_15_GTC_16_GTC_17_GAT_18_AGC_19_TAT_
+Differences found:
+Index 2: Y - qa_codon: TAC, ga_codon: TAT
+Index 4: V - qa_codon: GTA, ga_codon: GTG
+Index 5: P - qa_codon: CCT, ga_codon: CCA
+Index 6: G - qa_codon: GGA, ga_codon: GGC
+Index 7: G - qa_codon: GGT, ga_codon: GGC
+Index 10: N - qa_codon: AAT, ga_codon: AAC
+Index 11: R - qa_codon: CGT, ga_codon: CGC
+Index 14: S - qa_codon: TCA, ga_codon: AGC
+Index 17: D - qa_codon: GAC, ga_codon: GAT
+Index 19: Y - qa_codon: TAC, ga_codon: TAT
+end
+
+start
+Target sequence: QLLKGGELSDDEIFLSSALG
+qa:[-95.76368554] >= ga:[-96.10631731]
+qa:17.210878610610962 >= ga:2.4100682735443115
+qa:0_CAG_1_CTG_2_CTG_3_AAG_4_GGC_5_GGC_6_GAG_7_CTG_8_AGC_9_GAT_10_GAT_11_GAG_12_ATC_13_TTC_14_CTG_15_AGC_16_TCA_17_GCT_18_CTA_19_GGT_
+ga:0_CAG_1_CTG_2_CTG_3_AAG_4_GGC_5_GGC_6_GAG_7_CTG_8_AGC_9_GAT_10_GAT_11_GAG_12_ATC_13_TTC_14_CTG_15_AGC_16_AGC_17_GCG_18_CTC_19_GGC_
+Differences found:
+Index 16: S - qa_codon: TCA, ga_codon: AGC
+Index 17: A - qa_codon: GCT, ga_codon: GCG
+Index 18: L - qa_codon: CTA, ga_codon: CTC
+Index 19: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: WCIEWLQAYFLVLDDIMDES
+qa:[-96.53625583] >= ga:[-96.77432939]
+qa:15.60125184059143 >= ga:2.1060984134674072
+qa:0_TGG_1_TGC_2_ATC_3_GAG_4_TGG_5_CTG_6_CAG_7_GCG_8_TAC_9_TTC_10_CTC_11_GTG_12_CTG_13_GAC_14_GAT_15_ATC_16_ATG_17_GAT_18_GAG_19_TCG_
+ga:0_TGG_1_TGC_2_ATC_3_GAG_4_TGG_5_CTG_6_CAG_7_GCG_8_TAC_9_TTC_10_CTC_11_GTG_12_CTC_13_GAT_14_GAT_15_ATC_16_ATG_17_GAT_18_GAG_19_AGC_
+Differences found:
+Index 12: L - qa_codon: CTG, ga_codon: CTC
+Index 13: D - qa_codon: GAC, ga_codon: GAT
+Index 19: S - qa_codon: TCG, ga_codon: AGC
+end
+
+start
+Target sequence: HTRRGQPCWFRLPKVGMIAA
+qa:[-94.96249196] >= ga:[-95.4108033]
+qa:18.735416889190674 >= ga:2.4412193298339844
+qa:0_CAC_1_ACA_2_CGT_3_CGT_4_GGC_5_CAG_6_CCG_7_TGT_8_TGG_9_TTC_10_CGT_11_CTG_12_CCT_13_AAG_14_GTT_15_GGA_16_ATG_17_ATC_18_GCA_19_GCG_
+ga:0_CAT_1_ACG_2_CGT_3_CGC_4_GGC_5_CAG_6_CCG_7_TGC_8_TGG_9_TTC_10_CGT_11_CTG_12_CCG_13_AAG_14_GTT_15_GGC_16_ATG_17_ATC_18_GCA_19_GCG_
+Differences found:
+Index 0: H - qa_codon: CAC, ga_codon: CAT
+Index 1: T - qa_codon: ACA, ga_codon: ACG
+Index 3: R - qa_codon: CGT, ga_codon: CGC
+Index 7: C - qa_codon: TGT, ga_codon: TGC
+Index 12: P - qa_codon: CCT, ga_codon: CCG
+Index 15: G - qa_codon: GGA, ga_codon: GGC
+end
+
+start
+Target sequence: NDGILLRNHVPRILKKHFRG
+qa:[-94.17899412] >= ga:[-94.65037361]
+qa:17.842719078063965 >= ga:2.429776430130005
+qa:0_AAC_1_GAT_2_GGC_3_ATA_4_CTG_5_CTG_6_CGT_7_AAC_8_CAT_9_GTA_10_CCT_11_CGC_12_ATA_13_CTG_14_AAG_15_AAG_16_CAC_17_TTC_18_CGA_19_GGC_
+ga:0_AAC_1_GAT_2_GGC_3_ATA_4_CTG_5_CTG_6_CGC_7_AAC_8_CAT_9_GTG_10_CCG_11_CGC_12_ATA_13_CTG_14_AAG_15_AAG_16_CAC_17_TTC_18_CGC_19_GGC_
+Differences found:
+Index 6: R - qa_codon: CGT, ga_codon: CGC
+Index 9: V - qa_codon: GTA, ga_codon: GTG
+Index 10: P - qa_codon: CCT, ga_codon: CCG
+Index 18: R - qa_codon: CGA, ga_codon: CGC
+end
+
+start
+Target sequence: KPYYVDLVDLFNEVEFQTAS
+qa:[-95.60890305] >= ga:[-96.08437822]
+qa:17.29039764404297 >= ga:2.388347864151001
+qa:0_AAG_1_CCA_2_TAC_3_TAT_4_GTC_5_GAT_6_CTA_7_GTG_8_GAT_9_CTG_10_TTC_11_AAC_12_GAA_13_GTC_14_GAG_15_TTC_16_CAG_17_ACT_18_GCG_19_AGC_
+ga:0_AAG_1_CCG_2_TAC_3_TAT_4_GTC_5_GAT_6_CTC_7_GTC_8_GAT_9_CTG_10_TTC_11_AAC_12_GAA_13_GTC_14_GAG_15_TTC_16_CAG_17_ACT_18_GCG_19_AGC_
+Differences found:
+Index 1: P - qa_codon: CCA, ga_codon: CCG
+Index 6: L - qa_codon: CTA, ga_codon: CTC
+Index 7: V - qa_codon: GTG, ga_codon: GTC
+end
+
+start
+Target sequence: GQMIDLITTLVGEKDLSKYS
+qa:[-95.8891305] >= ga:[-96.46643083]
+qa:17.537261247634888 >= ga:2.3352229595184326
+qa:0_GGT_1_CAG_2_ATG_3_ATA_4_GAT_5_CTG_6_ATC_7_ACG_8_ACA_9_CTA_10_GTC_11_GGA_12_GAG_13_AAG_14_GAT_15_CTG_16_AGC_17_AAG_18_TAT_19_AGC_
+ga:0_GGC_1_CAG_2_ATG_3_ATC_4_GAT_5_CTG_6_ATC_7_ACG_8_ACG_9_CTC_10_GTC_11_GGC_12_GAG_13_AAG_14_GAT_15_CTG_16_AGC_17_AAG_18_TAT_19_AGC_
+Differences found:
+Index 0: G - qa_codon: GGT, ga_codon: GGC
+Index 3: I - qa_codon: ATA, ga_codon: ATC
+Index 8: T - qa_codon: ACA, ga_codon: ACG
+Index 9: L - qa_codon: CTA, ga_codon: CTC
+Index 11: G - qa_codon: GGA, ga_codon: GGC
+end
+
+start
+Target sequence: LSIHRRIVQYKTAYYSFYLP
+qa:[-96.75123878] >= ga:[-97.02070176]
+qa:30.43861198425293 >= ga:2.3196098804473877
+qa:0_CTG_1_TCG_2_ATC_3_CAT_4_CGT_5_CGC_6_ATC_7_GTG_8_CAG_9_TAC_10_AAG_11_ACA_12_GCA_13_TAC_14_TAT_15_AGC_16_TTC_17_TAT_18_CTG_19_CCG_
+ga:0_CTG_1_AGC_2_ATA_3_CAT_4_CGT_5_CGC_6_ATC_7_GTG_8_CAG_9_TAT_10_AAG_11_ACT_12_GCG_13_TAC_14_TAT_15_AGC_16_TTC_17_TAT_18_CTG_19_CCG_
+Differences found:
+Index 1: S - qa_codon: TCG, ga_codon: AGC
+Index 2: I - qa_codon: ATC, ga_codon: ATA
+Index 9: Y - qa_codon: TAC, ga_codon: TAT
+Index 11: T - qa_codon: ACA, ga_codon: ACT
+Index 12: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: VACALLMFGEDLDKHVEVKN
+qa:[-95.63717802] >= ga:[-96.0108115]
+qa:17.82528567314148 >= ga:1.834191083908081
+qa:0_GTA_1_GCG_2_TGC_3_GCA_4_CTG_5_CTC_6_ATG_7_TTC_8_GGT_9_GAA_10_GAT_11_CTC_12_GAT_13_AAG_14_CAT_15_GTC_16_GAG_17_GTT_18_AAG_19_AAC_
+ga:0_GTC_1_GCG_2_TGC_3_GCG_4_CTG_5_CTG_6_ATG_7_TTC_8_GGC_9_GAA_10_GAT_11_CTC_12_GAT_13_AAG_14_CAT_15_GTC_16_GAG_17_GTG_18_AAG_19_AAC_
+Differences found:
+Index 0: V - qa_codon: GTA, ga_codon: GTC
+Index 3: A - qa_codon: GCA, ga_codon: GCG
+Index 5: L - qa_codon: CTC, ga_codon: CTG
+Index 8: G - qa_codon: GGT, ga_codon: GGC
+Index 17: V - qa_codon: GTT, ga_codon: GTG
+end
+
+start
+Target sequence: VLVEMGTYFQVQDDYLDCFG
+qa:[-95.35399196] >= ga:[-95.74674213]
+qa:14.882405042648315 >= ga:1.871319055557251
+qa:0_GTA_1_CTA_2_GTC_3_GAG_4_ATG_5_GGT_6_ACG_7_TAC_8_TTC_9_CAG_10_GTA_11_CAG_12_GAT_13_GAC_14_TAT_15_CTC_16_GAC_17_TGC_18_TTC_19_GGT_
+ga:0_GTG_1_CTC_2_GTC_3_GAG_4_ATG_5_GGC_6_ACG_7_TAC_8_TTC_9_CAG_10_GTG_11_CAG_12_GAT_13_GAC_14_TAT_15_CTC_16_GAC_17_TGC_18_TTC_19_GGC_
+Differences found:
+Index 0: V - qa_codon: GTA, ga_codon: GTG
+Index 1: L - qa_codon: CTA, ga_codon: CTC
+Index 5: G - qa_codon: GGT, ga_codon: GGC
+Index 10: V - qa_codon: GTA, ga_codon: GTG
+Index 19: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: APEVIGKIGTDIEDFKCSWL
+qa:[-94.41204514] >= ga:[-94.57411184]
+qa:17.362202167510986 >= ga:2.0604636669158936
+qa:0_GCG_1_CCG_2_GAA_3_GTC_4_ATC_5_GGT_6_AAG_7_ATC_8_GGT_9_ACT_10_GAC_11_ATC_12_GAG_13_GAC_14_TTC_15_AAG_16_TGC_17_AGC_18_TGG_19_CTG_
+ga:0_GCG_1_CCG_2_GAA_3_GTG_4_ATC_5_GGC_6_AAG_7_ATT_8_GGC_9_ACT_10_GAT_11_ATC_12_GAG_13_GAC_14_TTC_15_AAG_16_TGC_17_AGC_18_TGG_19_CTG_
+Differences found:
+Index 3: V - qa_codon: GTC, ga_codon: GTG
+Index 5: G - qa_codon: GGT, ga_codon: GGC
+Index 7: I - qa_codon: ATC, ga_codon: ATT
+Index 8: G - qa_codon: GGT, ga_codon: GGC
+Index 10: D - qa_codon: GAC, ga_codon: GAT
+end
+
+start
+Target sequence: VVKALELANEEQKKVLHENY
+qa:[-95.32117251] >= ga:[-95.37315987]
+qa:17.589024543762207 >= ga:2.2805800437927246
+qa:0_GTC_1_GTC_2_AAG_3_GCG_4_CTC_5_GAG_6_CTC_7_GCG_8_AAC_9_GAA_10_GAG_11_CAG_12_AAG_13_AAG_14_GTG_15_CTG_16_CAT_17_GAG_18_AAC_19_TAT_
+ga:0_GTC_1_GTG_2_AAG_3_GCG_4_CTC_5_GAG_6_CTC_7_GCG_8_AAC_9_GAA_10_GAG_11_CAG_12_AAG_13_AAG_14_GTG_15_CTG_16_CAT_17_GAG_18_AAC_19_TAT_
+Differences found:
+Index 1: V - qa_codon: GTC, ga_codon: GTG
+end
+
+start
+Target sequence: GKKDPASVAKVKEVYHTLNL
+qa:[-94.76486753] >= ga:[-95.03540511]
+qa:18.026753425598145 >= ga:2.276575803756714
+qa:0_GGC_1_AAG_2_AAG_3_GAT_4_CCG_5_GCG_6_AGC_7_GTC_8_GCG_9_AAG_10_GTC_11_AAG_12_GAG_13_GTA_14_TAT_15_CAC_16_ACG_17_CTG_18_AAT_19_CTG_
+ga:0_GGC_1_AAG_2_AAG_3_GAT_4_CCG_5_GCG_6_AGC_7_GTC_8_GCG_9_AAG_10_GTG_11_AAG_12_GAA_13_GTG_14_TAT_15_CAT_16_ACG_17_CTG_18_AAC_19_CTG_
+Differences found:
+Index 10: V - qa_codon: GTC, ga_codon: GTG
+Index 12: E - qa_codon: GAG, ga_codon: GAA
+Index 13: V - qa_codon: GTA, ga_codon: GTG
+Index 15: H - qa_codon: CAC, ga_codon: CAT
+Index 18: N - qa_codon: AAT, ga_codon: AAC
+end
+
+start
+Target sequence: QAVFEDYEATSYKKLITSIE
+qa:[-95.80058725] >= ga:[-96.10298479]
+qa:126.75138330459595 >= ga:2.110576868057251
+qa:0_CAG_1_GCA_2_GTG_3_TTC_4_GAA_5_GAC_6_TAT_7_GAG_8_GCG_9_ACG_10_TCG_11_TAT_12_AAG_13_AAG_14_CTC_15_ATC_16_ACG_17_TCT_18_ATC_19_GAG_
+ga:0_CAG_1_GCA_2_GTG_3_TTC_4_GAA_5_GAC_6_TAT_7_GAG_8_GCG_9_ACG_10_AGC_11_TAT_12_AAG_13_AAG_14_CTG_15_ATC_16_ACG_17_AGC_18_ATC_19_GAG_
+Differences found:
+Index 10: S - qa_codon: TCG, ga_codon: AGC
+Index 14: L - qa_codon: CTC, ga_codon: CTG
+Index 17: S - qa_codon: TCT, ga_codon: AGC
+end
+
+start
+Target sequence: NHPSKAVQAVLKSFLGKIYK
+qa:[-93.77290165] >= ga:[-94.1575555]
+qa:15.71681022644043 >= ga:2.319458484649658
+qa:0_AAC_1_CAT_2_CCG_3_AGC_4_AAG_5_GCT_6_GTG_7_CAG_8_GCT_9_GTA_10_CTC_11_AAG_12_TCC_13_TTC_14_CTC_15_GGC_16_AAG_17_ATC_18_TAT_19_AAG_
+ga:0_AAC_1_CAT_2_CCG_3_AGC_4_AAG_5_GCA_6_GTG_7_CAG_8_GCA_9_GTG_10_CTG_11_AAG_12_AGC_13_TTC_14_CTC_15_GGC_16_AAG_17_ATC_18_TAT_19_AAG_
+Differences found:
+Index 5: A - qa_codon: GCT, ga_codon: GCA
+Index 8: A - qa_codon: GCT, ga_codon: GCA
+Index 9: V - qa_codon: GTA, ga_codon: GTG
+Index 10: L - qa_codon: CTC, ga_codon: CTG
+Index 12: S - qa_codon: TCC, ga_codon: AGC
+end
+
+start
+Target sequence: MAQKAPGVITCKAAVVWELG
+qa:[-94.45296805] >= ga:[-94.70290299]
+qa:15.547443866729736 >= ga:2.404078722000122
+qa:0_ATG_1_GCG_2_CAG_3_AAG_4_GCT_5_CCA_6_GGC_7_GTG_8_ATC_9_ACA_10_TGC_11_AAG_12_GCA_13_GCT_14_GTC_15_GTG_16_TGG_17_GAG_18_CTC_19_GGT_
+ga:0_ATG_1_GCG_2_CAG_3_AAG_4_GCG_5_CCA_6_GGC_7_GTG_8_ATC_9_ACG_10_TGC_11_AAG_12_GCA_13_GCA_14_GTC_15_GTG_16_TGG_17_GAG_18_CTC_19_GGC_
+Differences found:
+Index 4: A - qa_codon: GCT, ga_codon: GCG
+Index 9: T - qa_codon: ACA, ga_codon: ACG
+Index 13: A - qa_codon: GCT, ga_codon: GCA
+Index 19: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: GPVVLEEIRVDPPKASEVRI
+qa:[-95.44916225] >= ga:[-95.94622869]
+qa:16.72273349761963 >= ga:2.5757827758789062
+qa:0_GGA_1_CCA_2_GTC_3_GTG_4_CTC_5_GAG_6_GAG_7_ATA_8_CGC_9_GTC_10_GAT_11_CCT_12_CCG_13_AAG_14_GCG_15_AGC_16_GAG_17_GTA_18_CGT_19_ATC_
+ga:0_GGT_1_CCG_2_GTC_3_GTG_4_CTC_5_GAG_6_GAG_7_ATA_8_CGC_9_GTC_10_GAT_11_CCG_12_CCG_13_AAG_14_GCG_15_AGC_16_GAG_17_GTG_18_CGC_19_ATC_
+Differences found:
+Index 0: G - qa_codon: GGA, ga_codon: GGT
+Index 1: P - qa_codon: CCA, ga_codon: CCG
+Index 11: P - qa_codon: CCT, ga_codon: CCG
+Index 17: V - qa_codon: GTA, ga_codon: GTG
+Index 18: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: KMLCASLCHTDVLCTKGFPI
+qa:[-95.51612795] >= ga:[-95.94553173]
+qa:15.79703164100647 >= ga:1.1860182285308838
+qa:0_AAG_1_ATG_2_CTA_3_TGC_4_GCA_5_TCT_6_CTG_7_TGT_8_CAC_9_ACA_10_GAT_11_GTG_12_CTG_13_TGT_14_ACG_15_AAG_16_GGC_17_TTC_18_CCG_19_ATT_
+ga:0_AAG_1_ATG_2_CTG_3_TGC_4_GCG_5_TCG_6_CTG_7_TGT_8_CAT_9_ACT_10_GAT_11_GTG_12_CTG_13_TGC_14_ACG_15_AAG_16_GGC_17_TTC_18_CCG_19_ATT_
+Differences found:
+Index 2: L - qa_codon: CTA, ga_codon: CTG
+Index 4: A - qa_codon: GCA, ga_codon: GCG
+Index 5: S - qa_codon: TCT, ga_codon: TCG
+Index 8: H - qa_codon: CAC, ga_codon: CAT
+Index 9: T - qa_codon: ACA, ga_codon: ACT
+Index 13: C - qa_codon: TGT, ga_codon: TGC
+end
+
+start
+Target sequence: PLFPRIPGHEGVGVIESVGK
+qa:[-93.37949225] >= ga:[-93.8352555]
+qa:15.14278531074524 >= ga:1.3830416202545166
+qa:0_CCG_1_TTG_2_TTC_3_CCG_4_CGC_5_ATA_6_CCA_7_GGC_8_CAT_9_GAA_10_GGA_11_GTT_12_GGC_13_GTG_14_ATC_15_GAG_16_TCA_17_GTA_18_GGC_19_AAG_
+ga:0_CCG_1_CTG_2_TTC_3_CCG_4_CGC_5_ATA_6_CCA_7_GGC_8_CAT_9_GAA_10_GGC_11_GTT_12_GGC_13_GTG_14_ATC_15_GAG_16_AGC_17_GTC_18_GGC_19_AAG_
+Differences found:
+Index 1: L - qa_codon: TTG, ga_codon: CTG
+Index 10: G - qa_codon: GGA, ga_codon: GGC
+Index 16: S - qa_codon: TCA, ga_codon: AGC
+Index 17: V - qa_codon: GTA, ga_codon: GTC
+end
+
+start
+Target sequence: DAKGLKPGDIVMPLYLGECG
+qa:[-94.2617892] >= ga:[-94.67976541]
+qa:17.143226623535156 >= ga:1.283060073852539
+qa:0_GAC_1_GCG_2_AAG_3_GGC_4_CTG_5_AAG_6_CCA_7_GGC_8_GAC_9_ATA_10_GTG_11_ATG_12_CCG_13_CTG_14_TAT_15_CTA_16_GGC_17_GAG_18_TGT_19_GGC_
+ga:0_GAT_1_GCG_2_AAG_3_GGC_4_CTG_5_AAG_6_CCA_7_GGC_8_GAT_9_ATC_10_GTG_11_ATG_12_CCG_13_CTG_14_TAT_15_CTC_16_GGC_17_GAG_18_TGC_19_GGC_
+Differences found:
+Index 0: D - qa_codon: GAC, ga_codon: GAT
+Index 8: D - qa_codon: GAC, ga_codon: GAT
+Index 9: I - qa_codon: ATA, ga_codon: ATC
+Index 15: L - qa_codon: CTA, ga_codon: CTC
+Index 18: C - qa_codon: TGT, ga_codon: TGC
+end
+
+start
+Target sequence: QCLNCKTGKTNLCHVYPPSF
+qa:[-94.80234735] >= ga:[-95.0364979]
+qa:16.676928281784058 >= ga:1.1626136302947998
+qa:0_CAG_1_TGT_2_CTG_3_AAC_4_TGC_5_AAG_6_ACC_7_GGT_8_AAG_9_ACC_10_AAC_11_CTG_12_TGT_13_CAT_14_GTG_15_TAT_16_CCT_17_CCG_18_TCG_19_TTC_
+ga:0_CAG_1_TGT_2_CTG_3_AAC_4_TGC_5_AAG_6_ACC_7_GGC_8_AAG_9_ACC_10_AAC_11_CTG_12_TGT_13_CAT_14_GTG_15_TAT_16_CCG_17_CCG_18_AGC_19_TTC_
+Differences found:
+Index 7: G - qa_codon: GGT, ga_codon: GGC
+Index 16: P - qa_codon: CCT, ga_codon: CCG
+Index 18: S - qa_codon: TCG, ga_codon: AGC
+end
+
+start
+Target sequence: SGLMNDGTSRMSIARTGESI
+qa:[-95.91413095] >= ga:[-96.34433327]
+qa:15.91775631904602 >= ga:1.41595458984375
+qa:0_AGC_1_GGC_2_CTC_3_ATG_4_AAC_5_GAT_6_GGT_7_ACT_8_AGT_9_CGC_10_ATG_11_AGC_12_ATC_13_GCA_14_CGT_15_ACA_16_GGT_17_GAG_18_AGC_19_ATC_
+ga:0_AGC_1_GGC_2_CTG_3_ATG_4_AAC_5_GAT_6_GGC_7_ACG_8_TCG_9_CGC_10_ATG_11_AGC_12_ATC_13_GCG_14_CGC_15_ACT_16_GGC_17_GAG_18_AGC_19_ATC_
+Differences found:
+Index 2: L - qa_codon: CTC, ga_codon: CTG
+Index 6: G - qa_codon: GGT, ga_codon: GGC
+Index 7: T - qa_codon: ACT, ga_codon: ACG
+Index 8: S - qa_codon: AGT, ga_codon: TCG
+Index 13: A - qa_codon: GCA, ga_codon: GCG
+Index 14: R - qa_codon: CGT, ga_codon: CGC
+Index 15: T - qa_codon: ACA, ga_codon: ACT
+Index 16: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: YHFASCSTWTEYAVADCNYV
+qa:[-96.56695401] >= ga:[-96.76899021]
+qa:17.20171880722046 >= ga:1.1718409061431885
+qa:0_TAT_1_CAC_2_TTC_3_GCG_4_AGC_5_TGC_6_AGC_7_ACG_8_TGG_9_ACT_10_GAG_11_TAT_12_GCT_13_GTC_14_GCT_15_GAC_16_TGT_17_AAC_18_TAT_19_GTA_
+ga:0_TAT_1_CAC_2_TTC_3_GCG_4_AGC_5_TGC_6_AGC_7_ACG_8_TGG_9_ACT_10_GAG_11_TAT_12_GCA_13_GTC_14_GCA_15_GAC_16_TGC_17_AAC_18_TAT_19_GTG_
+Differences found:
+Index 12: A - qa_codon: GCT, ga_codon: GCA
+Index 14: A - qa_codon: GCT, ga_codon: GCA
+Index 16: C - qa_codon: TGT, ga_codon: TGC
+Index 19: V - qa_codon: GTA, ga_codon: GTG
+end
+
+start
+Target sequence: LKINPKISYPHASFLSCGFT
+qa:[-94.5908561] >= ga:[-94.85315132]
+qa:15.379584550857544 >= ga:1.470283031463623
+qa:0_CTC_1_AAG_2_ATT_3_AAT_4_CCG_5_AAG_6_ATC_7_AGC_8_TAT_9_CCG_10_CAT_11_GCG_12_AGC_13_TTC_14_CTG_15_TCA_16_TGC_17_GGC_18_TTC_19_ACC_
+ga:0_CTG_1_AAG_2_ATT_3_AAT_4_CCG_5_AAG_6_ATC_7_AGC_8_TAT_9_CCG_10_CAT_11_GCG_12_AGC_13_TTC_14_CTG_15_AGC_16_TGC_17_GGC_18_TTC_19_ACC_
+Differences found:
+Index 0: L - qa_codon: CTC, ga_codon: CTG
+Index 15: S - qa_codon: TCA, ga_codon: AGC
+end
+
+start
+Target sequence: TGFGATWRETQVSKGSSVAV
+qa:[-94.6584629] >= ga:[-95.13462734]
+qa:16.431977033615112 >= ga:1.449234962463379
+qa:0_ACC_1_GGC_2_TTC_3_GGT_4_GCT_5_ACG_6_TGG_7_CGT_8_GAG_9_ACA_10_CAG_11_GTG_12_TCG_13_AAG_14_GGT_15_AGC_16_TCT_17_GTA_18_GCA_19_GTG_
+ga:0_ACC_1_GGC_2_TTC_3_GGC_4_GCG_5_ACG_6_TGG_7_CGC_8_GAG_9_ACG_10_CAG_11_GTG_12_AGC_13_AAG_14_GGC_15_AGC_16_AGC_17_GTC_18_GCA_19_GTG_
+Differences found:
+Index 3: G - qa_codon: GGT, ga_codon: GGC
+Index 4: A - qa_codon: GCT, ga_codon: GCG
+Index 7: R - qa_codon: CGT, ga_codon: CGC
+Index 9: T - qa_codon: ACA, ga_codon: ACG
+Index 12: S - qa_codon: TCG, ga_codon: AGC
+Index 14: G - qa_codon: GGT, ga_codon: GGC
+Index 16: S - qa_codon: TCT, ga_codon: AGC
+Index 17: V - qa_codon: GTA, ga_codon: GTC
+end
+
+start
+Target sequence: FGIGTVGLGVIKGAQLQGAS
+qa:[-93.46387183] >= ga:[-93.84985717]
+qa:14.443005084991455 >= ga:1.4073214530944824
+qa:0_TTC_1_GGC_2_ATT_3_GGC_4_ACT_5_GTC_6_GGT_7_CTT_8_GGA_9_GTC_10_ATC_11_AAG_12_GGT_13_GCG_14_CAG_15_CTG_16_CAA_17_GGC_18_GCG_19_TCA_
+ga:0_TTC_1_GGC_2_ATC_3_GGC_4_ACT_5_GTC_6_GGC_7_CTC_8_GGC_9_GTG_10_ATC_11_AAG_12_GGC_13_GCG_14_CAG_15_CTG_16_CAA_17_GGC_18_GCG_19_AGC_
+Differences found:
+Index 2: I - qa_codon: ATT, ga_codon: ATC
+Index 6: G - qa_codon: GGT, ga_codon: GGC
+Index 7: L - qa_codon: CTT, ga_codon: CTC
+Index 8: G - qa_codon: GGA, ga_codon: GGC
+Index 9: V - qa_codon: GTC, ga_codon: GTG
+Index 12: G - qa_codon: GGT, ga_codon: GGC
+Index 19: S - qa_codon: TCA, ga_codon: AGC
+end
+
+start
+Target sequence: KIIGVDVNQYKAAKGKVFGM
+qa:[-93.77912625] >= ga:[-93.92263419]
+qa:14.762074708938599 >= ga:1.0545833110809326
+qa:0_AAG_1_ATC_2_ATC_3_GGC_4_GTC_5_GAC_6_GTG_7_AAC_8_CAG_9_TAT_10_AAG_11_GCA_12_GCG_13_AAG_14_GGC_15_AAG_16_GTA_17_TTC_18_GGC_19_ATG_
+ga:0_AAG_1_ATC_2_ATC_3_GGC_4_GTC_5_GAT_6_GTG_7_AAC_8_CAG_9_TAT_10_AAG_11_GCA_12_GCG_13_AAG_14_GGC_15_AAG_16_GTG_17_TTC_18_GGC_19_ATG_
+Differences found:
+Index 5: D - qa_codon: GAC, ga_codon: GAT
+Index 16: V - qa_codon: GTA, ga_codon: GTG
+end
+
+start
+Target sequence: TDFINPKDHPDKSVSELVKE
+qa:[-94.64582797] >= ga:[-94.77484642]
+qa:15.653599977493286 >= ga:1.250903844833374
+qa:0_ACA_1_GAC_2_TTC_3_ATT_4_AAT_5_CCG_6_AAG_7_GAT_8_CAT_9_CCG_10_GAT_11_AAG_12_AGC_13_GTG_14_AGC_15_GAG_16_CTA_17_GTC_18_AAG_19_GAA_
+ga:0_ACT_1_GAC_2_TTC_3_ATT_4_AAT_5_CCG_6_AAG_7_GAT_8_CAT_9_CCG_10_GAT_11_AAG_12_AGC_13_GTC_14_AGC_15_GAG_16_CTC_17_GTG_18_AAG_19_GAA_
+Differences found:
+Index 0: T - qa_codon: ACA, ga_codon: ACT
+Index 13: V - qa_codon: GTG, ga_codon: GTC
+Index 16: L - qa_codon: CTA, ga_codon: CTC
+Index 17: V - qa_codon: GTC, ga_codon: GTG
+end
+
+start
+Target sequence: LTHGLGVDHCFECTGVPSLL
+qa:[-95.07022809] >= ga:[-95.63735909]
+qa:16.56535315513611 >= ga:1.4509258270263672
+qa:0_CTG_1_ACG_2_CAT_3_GGC_4_TTA_5_GGC_6_GTC_7_GAT_8_CAC_9_TGC_10_TTC_11_GAG_12_TGT_13_ACA_14_GGC_15_GTT_16_CCG_17_AGT_18_CTA_19_CTC_
+ga:0_CTG_1_ACG_2_CAT_3_GGC_4_CTC_5_GGC_6_GTC_7_GAT_8_CAC_9_TGC_10_TTC_11_GAG_12_TGC_13_ACT_14_GGC_15_GTG_16_CCG_17_TCG_18_CTG_19_CTG_
+Differences found:
+Index 4: L - qa_codon: TTA, ga_codon: CTC
+Index 12: C - qa_codon: TGT, ga_codon: TGC
+Index 13: T - qa_codon: ACA, ga_codon: ACT
+Index 15: V - qa_codon: GTT, ga_codon: GTG
+Index 17: S - qa_codon: AGT, ga_codon: TCG
+Index 18: L - qa_codon: CTA, ga_codon: CTG
+Index 19: L - qa_codon: CTC, ga_codon: CTG
+end
+
+start
+Target sequence: NEALEASKIGIGTVVPIGAG
+qa:[-93.89331723] >= ga:[-94.25091192]
+qa:16.935112714767456 >= ga:0.9977867603302002
+qa:0_AAC_1_GAG_2_GCG_3_CTA_4_GAG_5_GCG_6_AGC_7_AAG_8_ATT_9_GGT_10_ATT_11_GGC_12_ACT_13_GTC_14_GTG_15_CCA_16_ATC_17_GGT_18_GCT_19_GGC_
+ga:0_AAC_1_GAA_2_GCG_3_CTG_4_GAA_5_GCG_6_AGC_7_AAG_8_ATT_9_GGC_10_ATT_11_GGC_12_ACT_13_GTC_14_GTG_15_CCG_16_ATT_17_GGC_18_GCC_19_GGC_
+Differences found:
+Index 1: E - qa_codon: GAG, ga_codon: GAA
+Index 3: L - qa_codon: CTA, ga_codon: CTG
+Index 4: E - qa_codon: GAG, ga_codon: GAA
+Index 9: G - qa_codon: GGT, ga_codon: GGC
+Index 15: P - qa_codon: CCA, ga_codon: CCG
+Index 16: I - qa_codon: ATC, ga_codon: ATT
+Index 17: G - qa_codon: GGT, ga_codon: GGC
+Index 18: A - qa_codon: GCT, ga_codon: GCC
+end
+
+start
+Target sequence: GEASVAINSLILFSGRTLKF
+qa:[-94.57127479] >= ga:[-95.44577683]
+qa:15.18919563293457 >= ga:1.3933851718902588
+qa:0_GGT_1_GAA_2_GCG_3_AGC_4_GTC_5_GCT_6_ATC_7_AAC_8_TCT_9_CTC_10_ATC_11_CTA_12_TTC_13_AGT_14_GGC_15_CGT_16_ACA_17_CTG_18_AAG_19_TTC_
+ga:0_GGC_1_GAA_2_GCG_3_AGC_4_GTC_5_GCG_6_ATC_7_AAC_8_TCG_9_CTG_10_ATA_11_CTG_12_TTC_13_AGC_14_GGC_15_CGC_16_ACG_17_CTG_18_AAG_19_TTC_
+Differences found:
+Index 0: G - qa_codon: GGT, ga_codon: GGC
+Index 5: A - qa_codon: GCT, ga_codon: GCG
+Index 8: S - qa_codon: TCT, ga_codon: TCG
+Index 9: L - qa_codon: CTC, ga_codon: CTG
+Index 10: I - qa_codon: ATC, ga_codon: ATA
+Index 11: L - qa_codon: CTA, ga_codon: CTG
+Index 13: S - qa_codon: AGT, ga_codon: AGC
+Index 15: R - qa_codon: CGT, ga_codon: CGC
+Index 16: T - qa_codon: ACA, ga_codon: ACG
+end
+
+start
+Target sequence: TAFGGVRTQSDLPVIIDKCL
+qa:[-95.95431049] >= ga:[-96.38295951]
+qa:17.001661777496338 >= ga:1.5352966785430908
+qa:0_ACT_1_GCG_2_TTC_3_GGC_4_GGC_5_GTG_6_CGT_7_ACG_8_CAG_9_AGC_10_GAT_11_CTG_12_CCG_13_GTA_14_ATC_15_ATC_16_GAT_17_AAG_18_TGT_19_CTG_
+ga:0_ACT_1_GCG_2_TTC_3_GGC_4_GGC_5_GTG_6_CGC_7_ACG_8_CAG_9_AGC_10_GAT_11_CTG_12_CCG_13_GTG_14_ATC_15_ATC_16_GAT_17_AAG_18_TGT_19_CTG_
+Differences found:
+Index 6: R - qa_codon: CGT, ga_codon: CGC
+Index 13: V - qa_codon: GTA, ga_codon: GTG
+end
+
+start
+Target sequence: NKEIQLDELLTHEIHLDNIQ
+qa:[-96.39084911] >= ga:[-96.81702434]
+qa:16.190917015075684 >= ga:1.2750918865203857
+qa:0_AAC_1_AAG_2_GAG_3_ATA_4_CAG_5_CTA_6_GAT_7_GAG_8_CTG_9_CTG_10_ACA_11_CAC_12_GAG_13_ATA_14_CAT_15_CTC_16_GAT_17_AAT_18_ATT_19_CAA_
+ga:0_AAC_1_AAG_2_GAG_3_ATA_4_CAG_5_CTC_6_GAT_7_GAG_8_CTG_9_CTG_10_ACG_11_CAT_12_GAG_13_ATA_14_CAT_15_CTC_16_GAT_17_AAC_18_ATA_19_CAG_
+Differences found:
+Index 5: L - qa_codon: CTA, ga_codon: CTC
+Index 10: T - qa_codon: ACA, ga_codon: ACG
+Index 11: H - qa_codon: CAC, ga_codon: CAT
+Index 17: N - qa_codon: AAT, ga_codon: AAC
+Index 18: I - qa_codon: ATT, ga_codon: ATA
+Index 19: Q - qa_codon: CAA, ga_codon: CAG
+end
+
+start
+Target sequence: MAAALFVLLGFALLGTHGAS
+qa:[-94.67182803] >= ga:[-95.56155529]
+qa:16.799012660980225 >= ga:1.5031788349151611
+qa:0_ATG_1_GCT_2_GCA_3_GCT_4_CTG_5_TTC_6_GTA_7_CTG_8_CTA_9_GGA_10_TTC_11_GCA_12_CTG_13_CTA_14_GGC_15_ACA_16_CAT_17_GGT_18_GCT_19_AGC_
+ga:0_ATG_1_GCA_2_GCA_3_GCG_4_CTG_5_TTC_6_GTG_7_CTG_8_CTC_9_GGC_10_TTC_11_GCG_12_CTG_13_CTC_14_GGC_15_ACG_16_CAT_17_GGC_18_GCG_19_AGC_
+Differences found:
+Index 1: A - qa_codon: GCT, ga_codon: GCA
+Index 3: A - qa_codon: GCT, ga_codon: GCG
+Index 6: V - qa_codon: GTA, ga_codon: GTG
+Index 8: L - qa_codon: CTA, ga_codon: CTC
+Index 9: G - qa_codon: GGA, ga_codon: GGC
+Index 11: A - qa_codon: GCA, ga_codon: GCG
+Index 13: L - qa_codon: CTA, ga_codon: CTC
+Index 15: T - qa_codon: ACA, ga_codon: ACG
+Index 17: G - qa_codon: GGT, ga_codon: GGC
+Index 18: A - qa_codon: GCT, ga_codon: GCG
+end
+
+start
+Target sequence: GAAGTVFTTVEDLGSKILLT
+qa:[-94.46744832] >= ga:[-94.98773777]
+qa:15.380825996398926 >= ga:1.356886625289917
+qa:0_GGT_1_GCT_2_GCT_3_GGT_4_ACT_5_GTG_6_TTC_7_ACG_8_ACT_9_GTG_10_GAA_11_GAT_12_CTC_13_GGA_14_TCG_15_AAG_16_ATA_17_CTG_18_CTG_19_ACG_
+ga:0_GGC_1_GCA_2_GCA_3_GGC_4_ACT_5_GTG_6_TTC_7_ACG_8_ACT_9_GTC_10_GAG_11_GAT_12_CTC_13_GGC_14_AGC_15_AAG_16_ATA_17_CTG_18_CTG_19_ACG_
+Differences found:
+Index 0: G - qa_codon: GGT, ga_codon: GGC
+Index 1: A - qa_codon: GCT, ga_codon: GCA
+Index 2: A - qa_codon: GCT, ga_codon: GCA
+Index 3: G - qa_codon: GGT, ga_codon: GGC
+Index 9: V - qa_codon: GTG, ga_codon: GTC
+Index 10: E - qa_codon: GAA, ga_codon: GAG
+Index 13: G - qa_codon: GGA, ga_codon: GGC
+Index 14: S - qa_codon: TCG, ga_codon: AGC
+end
+
+start
+Target sequence: CSLNDSATEVTGHRWLKGGV
+qa:[-94.56462259] >= ga:[-94.88666045]
+qa:15.328579187393188 >= ga:1.2877540588378906
+qa:0_TGC_1_AGT_2_CTG_3_AAT_4_GAT_5_AGT_6_GCG_7_ACA_8_GAG_9_GTG_10_ACA_11_GGC_12_CAT_13_CGC_14_TGG_15_CTG_16_AAG_17_GGA_18_GGC_19_GTG_
+ga:0_TGC_1_TCG_2_CTG_3_AAC_4_GAT_5_AGC_6_GCG_7_ACT_8_GAG_9_GTG_10_ACT_11_GGC_12_CAT_13_CGC_14_TGG_15_CTG_16_AAG_17_GGC_18_GGC_19_GTG_
+Differences found:
+Index 1: S - qa_codon: AGT, ga_codon: TCG
+Index 3: N - qa_codon: AAT, ga_codon: AAC
+Index 5: S - qa_codon: AGT, ga_codon: AGC
+Index 7: T - qa_codon: ACA, ga_codon: ACT
+Index 10: T - qa_codon: ACA, ga_codon: ACT
+Index 17: G - qa_codon: GGA, ga_codon: GGC
+end
+
+start
+Target sequence: VLKEDALPGQKTEFKVDSDD
+qa:[-95.11113719] >= ga:[-95.12513026]
+qa:13.25465726852417 >= ga:1.165102481842041
+qa:0_GTG_1_CTG_2_AAG_3_GAA_4_GAT_5_GCG_6_CTG_7_CCT_8_GGC_9_CAG_10_AAG_11_ACT_12_GAG_13_TTC_14_AAG_15_GTC_16_GAT_17_AGT_18_GAC_19_GAC_
+ga:0_GTG_1_CTG_2_AAG_3_GAA_4_GAC_5_GCG_6_CTG_7_CCA_8_GGC_9_CAG_10_AAG_11_ACC_12_GAA_13_TTC_14_AAG_15_GTC_16_GAT_17_AGC_18_GAT_19_GAT_
+Differences found:
+Index 4: D - qa_codon: GAT, ga_codon: GAC
+Index 7: P - qa_codon: CCT, ga_codon: CCA
+Index 11: T - qa_codon: ACT, ga_codon: ACC
+Index 12: E - qa_codon: GAG, ga_codon: GAA
+Index 17: S - qa_codon: AGT, ga_codon: AGC
+Index 18: D - qa_codon: GAC, ga_codon: GAT
+Index 19: D - qa_codon: GAC, ga_codon: GAT
+end
+
+start
+Target sequence: QWGEYSCVFLPEPMGTANIQ
+qa:[-93.09782071] >= ga:[-93.347669]
+qa:13.397667407989502 >= ga:0.9039003849029541
+qa:0_CAG_1_TGG_2_GGT_3_GAG_4_TAC_5_AGC_6_TGC_7_GTG_8_TTC_9_CTG_10_CCG_11_GAG_12_CCG_13_ATG_14_GGT_15_ACT_16_GCG_17_AAC_18_ATC_19_CAG_
+ga:0_CAG_1_TGG_2_GGC_3_GAG_4_TAT_5_AGC_6_TGC_7_GTG_8_TTC_9_CTG_10_CCG_11_GAA_12_CCG_13_ATG_14_GGC_15_ACT_16_GCG_17_AAC_18_ATA_19_CAG_
+Differences found:
+Index 2: G - qa_codon: GGT, ga_codon: GGC
+Index 4: Y - qa_codon: TAC, ga_codon: TAT
+Index 11: E - qa_codon: GAG, ga_codon: GAA
+Index 14: G - qa_codon: GGT, ga_codon: GGC
+Index 18: I - qa_codon: ATC, ga_codon: ATA
+end
+
+start
+Target sequence: LHGPPRVKAVKSSEHINEGE
+qa:[-94.88336009] >= ga:[-95.13358641]
+qa:14.272150993347168 >= ga:1.1006062030792236
+qa:0_CTG_1_CAT_2_GGT_3_CCG_4_CCA_5_CGC_6_GTC_7_AAG_8_GCA_9_GTG_10_AAG_11_AGC_12_AGT_13_GAG_14_CAT_15_ATC_16_AAC_17_GAA_18_GGT_19_GAA_
+ga:0_CTG_1_CAT_2_GGT_3_CCG_4_CCG_5_CGC_6_GTG_7_AAG_8_GCA_9_GTG_10_AAG_11_AGC_12_AGC_13_GAG_14_CAT_15_ATC_16_AAC_17_GAA_18_GGT_19_GAA_
+Differences found:
+Index 4: P - qa_codon: CCA, ga_codon: CCG
+Index 6: V - qa_codon: GTC, ga_codon: GTG
+Index 12: S - qa_codon: AGT, ga_codon: AGC
+end
+
+start
+Target sequence: TAMLVCKSESVPPVTDWAWY
+qa:[-95.30406395] >= ga:[-95.51454549]
+qa:15.600535154342651 >= ga:1.270554542541504
+qa:0_ACA_1_GCG_2_ATG_3_CTC_4_GTG_5_TGC_6_AAG_7_AGC_8_GAG_9_AGC_10_GTG_11_CCA_12_CCG_13_GTG_14_ACT_15_GAT_16_TGG_17_GCA_18_TGG_19_TAT_
+ga:0_ACT_1_GCG_2_ATG_3_CTC_4_GTG_5_TGC_6_AAG_7_AGC_8_GAG_9_AGC_10_GTG_11_CCG_12_CCG_13_GTG_14_ACT_15_GAT_16_TGG_17_GCG_18_TGG_19_TAT_
+Differences found:
+Index 0: T - qa_codon: ACA, ga_codon: ACT
+Index 11: P - qa_codon: CCA, ga_codon: CCG
+Index 17: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: KITDSEDKALMNGSESRFFV
+qa:[-95.24834497] >= ga:[-95.54259781]
+qa:16.258482694625854 >= ga:1.2345092296600342
+qa:0_AAG_1_ATC_2_ACA_3_GAC_4_TCT_5_GAG_6_GAT_7_AAG_8_GCA_9_CTG_10_ATG_11_AAC_12_GGT_13_AGC_14_GAG_15_TCG_16_CGC_17_TTC_18_TTC_19_GTC_
+ga:0_AAG_1_ATC_2_ACT_3_GAT_4_AGC_5_GAG_6_GAT_7_AAG_8_GCG_9_CTG_10_ATG_11_AAC_12_GGC_13_AGC_14_GAG_15_TCG_16_CGC_17_TTC_18_TTC_19_GTG_
+Differences found:
+Index 2: T - qa_codon: ACA, ga_codon: ACT
+Index 3: D - qa_codon: GAC, ga_codon: GAT
+Index 4: S - qa_codon: TCT, ga_codon: AGC
+Index 8: A - qa_codon: GCA, ga_codon: GCG
+Index 12: G - qa_codon: GGT, ga_codon: GGC
+Index 19: V - qa_codon: GTC, ga_codon: GTG
+end
+
+start
+Target sequence: SSSQGRSELHIENLNMEADP
+qa:[-95.48180328] >= ga:[-95.84927247]
+qa:16.56719398498535 >= ga:1.1629011631011963
+qa:0_TCT_1_AGC_2_TCG_3_CAA_4_GGT_5_CGC_6_AGT_7_GAG_8_CTG_9_CAC_10_ATC_11_GAG_12_AAT_13_CTG_14_AAC_15_ATG_16_GAG_17_GCA_18_GAT_19_CCG_
+ga:0_AGC_1_AGC_2_AGC_3_CAA_4_GGC_5_CGC_6_AGC_7_GAG_8_CTG_9_CAT_10_ATC_11_GAG_12_AAC_13_CTG_14_AAC_15_ATG_16_GAA_17_GCA_18_GAT_19_CCG_
+Differences found:
+Index 0: S - qa_codon: TCT, ga_codon: AGC
+Index 2: S - qa_codon: TCG, ga_codon: AGC
+Index 4: G - qa_codon: GGT, ga_codon: GGC
+Index 6: S - qa_codon: AGT, ga_codon: AGC
+Index 9: H - qa_codon: CAC, ga_codon: CAT
+Index 12: N - qa_codon: AAT, ga_codon: AAC
+Index 16: E - qa_codon: GAG, ga_codon: GAA
+end
+
+start
+Target sequence: GQYRCNGTSSKGSDQAIITL
+qa:[-95.40328829] >= ga:[-95.87302656]
+qa:15.786525249481201 >= ga:0.9152140617370605
+qa:0_GGA_1_CAG_2_TAT_3_CGC_4_TGC_5_AAT_6_GGT_7_ACG_8_TCG_9_AGC_10_AAG_11_GGA_12_TCA_13_GAT_14_CAG_15_GCG_16_ATC_17_ATC_18_ACG_19_CTG_
+ga:0_GGC_1_CAG_2_TAT_3_CGC_4_TGC_5_AAC_6_GGC_7_ACG_8_AGC_9_TCG_10_AAG_11_GGC_12_AGC_13_GAT_14_CAG_15_GCG_16_ATC_17_ATC_18_ACG_19_CTG_
+Differences found:
+Index 0: G - qa_codon: GGA, ga_codon: GGC
+Index 5: N - qa_codon: AAT, ga_codon: AAC
+Index 6: G - qa_codon: GGT, ga_codon: GGC
+Index 8: S - qa_codon: TCG, ga_codon: AGC
+Index 9: S - qa_codon: AGC, ga_codon: TCG
+Index 11: G - qa_codon: GGA, ga_codon: GGC
+Index 12: S - qa_codon: TCA, ga_codon: AGC
+end
+
+start
+Target sequence: RVRSHLAALWPFLGIVAEVL
+qa:[-95.55446926] >= ga:[-96.3649829]
+qa:13.559000968933105 >= ga:1.0818228721618652
+qa:0_CGT_1_GTG_2_CGC_3_TCG_4_CAT_5_CTC_6_GCT_7_GCA_8_CTC_9_TGG_10_CCA_11_TTC_12_CTA_13_GGC_14_ATA_15_GTC_16_GCA_17_GAG_18_GTA_19_CTG_
+ga:0_CGC_1_GTG_2_CGC_3_TCG_4_CAT_5_CTC_6_GCA_7_GCG_8_CTG_9_TGG_10_CCG_11_TTC_12_CTC_13_GGC_14_ATC_15_GTC_16_GCA_17_GAG_18_GTG_19_CTG_
+Differences found:
+Index 0: R - qa_codon: CGT, ga_codon: CGC
+Index 6: A - qa_codon: GCT, ga_codon: GCA
+Index 7: A - qa_codon: GCA, ga_codon: GCG
+Index 8: L - qa_codon: CTC, ga_codon: CTG
+Index 10: P - qa_codon: CCA, ga_codon: CCG
+Index 12: L - qa_codon: CTA, ga_codon: CTC
+Index 14: I - qa_codon: ATA, ga_codon: ATC
+Index 18: V - qa_codon: GTA, ga_codon: GTG
+end
+
+start
+Target sequence: VLVTIIFIYEKRRKPEDVLD
+qa:[-95.80727867] >= ga:[-96.04149049]
+qa:15.305017948150635 >= ga:1.0174968242645264
+qa:0_GTA_1_CTC_2_GTG_3_ACT_4_ATC_5_ATC_6_TTC_7_ATC_8_TAT_9_GAG_10_AAG_11_CGT_12_CGT_13_AAG_14_CCG_15_GAA_16_GAT_17_GTG_18_CTC_19_GAC_
+ga:0_GTG_1_CTC_2_GTG_3_ACG_4_ATC_5_ATC_6_TTC_7_ATC_8_TAT_9_GAG_10_AAG_11_CGT_12_CGC_13_AAG_14_CCG_15_GAA_16_GAT_17_GTG_18_CTC_19_GAT_
+Differences found:
+Index 0: V - qa_codon: GTA, ga_codon: GTG
+Index 3: T - qa_codon: ACT, ga_codon: ACG
+Index 12: R - qa_codon: CGT, ga_codon: CGC
+Index 19: D - qa_codon: GAC, ga_codon: GAT
+end
+
+start
+Target sequence: DDDAGSAPLKSSGQHQNDKG
+qa:[-94.6260272] >= ga:[-94.74051472]
+qa:14.662010908126831 >= ga:0.9989261627197266
+qa:0_GAT_1_GAT_2_GAT_3_GCT_4_GGT_5_AGC_6_GCG_7_CCG_8_CTG_9_AAG_10_AGT_11_AGC_12_GGC_13_CAG_14_CAT_15_CAG_16_AAC_17_GAT_18_AAG_19_GGT_
+ga:0_GAT_1_GAT_2_GAT_3_GCA_4_GGC_5_AGC_6_GCG_7_CCG_8_CTG_9_AAG_10_TCG_11_AGC_12_GGC_13_CAG_14_CAT_15_CAG_16_AAC_17_GAT_18_AAG_19_GGC_
+Differences found:
+Index 3: A - qa_codon: GCT, ga_codon: GCA
+Index 4: G - qa_codon: GGT, ga_codon: GGC
+Index 10: S - qa_codon: AGT, ga_codon: TCG
+Index 19: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: MKSILKAMALSLTTSIALAT
+qa:[-96.02285111] >= ga:[-96.62299758]
+qa:13.967647314071655 >= ga:1.2944531440734863
+qa:0_ATG_1_AAG_2_TCT_3_ATA_4_CTC_5_AAG_6_GCT_7_ATG_8_GCT_9_CTG_10_TCT_11_CTG_12_ACT_13_ACA_14_TCG_15_ATC_16_GCT_17_CTC_18_GCG_19_ACG_
+ga:0_ATG_1_AAG_2_TCG_3_ATA_4_CTG_5_AAG_6_GCG_7_ATG_8_GCG_9_CTG_10_TCG_11_CTG_12_ACG_13_ACG_14_AGC_15_ATC_16_GCG_17_CTA_18_GCG_19_ACG_
+Differences found:
+Index 2: S - qa_codon: TCT, ga_codon: TCG
+Index 4: L - qa_codon: CTC, ga_codon: CTG
+Index 6: A - qa_codon: GCT, ga_codon: GCG
+Index 8: A - qa_codon: GCT, ga_codon: GCG
+Index 10: S - qa_codon: TCT, ga_codon: TCG
+Index 12: T - qa_codon: ACT, ga_codon: ACG
+Index 13: T - qa_codon: ACA, ga_codon: ACG
+Index 14: S - qa_codon: TCG, ga_codon: AGC
+Index 16: A - qa_codon: GCT, ga_codon: GCG
+Index 17: L - qa_codon: CTC, ga_codon: CTA
+end
+
+start
+Target sequence: ILLFVYKFATRSKSTKKSLP
+qa:[-94.23878238] >= ga:[-94.91664954]
+qa:15.825038194656372 >= ga:1.308518409729004
+qa:0_ATA_1_CTG_2_TTG_3_TTC_4_GTG_5_TAT_6_AAG_7_TTC_8_GCG_9_ACT_10_CGT_11_AGC_12_AAG_13_AGC_14_ACG_15_AAG_16_AAG_17_TCT_18_CTG_19_CCA_
+ga:0_ATA_1_CTG_2_CTG_3_TTC_4_GTG_5_TAT_6_AAG_7_TTC_8_GCG_9_ACG_10_CGC_11_AGC_12_AAG_13_AGC_14_ACG_15_AAG_16_AAG_17_TCG_18_CTG_19_CCG_
+Differences found:
+Index 2: L - qa_codon: TTG, ga_codon: CTG
+Index 9: T - qa_codon: ACT, ga_codon: ACG
+Index 10: R - qa_codon: CGT, ga_codon: CGC
+Index 17: S - qa_codon: TCT, ga_codon: TCG
+Index 19: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: EPWRLPIIGHMHHLIGTTPH
+qa:[-95.46485182] >= ga:[-95.9108625]
+qa:15.457058668136597 >= ga:1.0597052574157715
+qa:0_GAA_1_CCT_2_TGG_3_CGT_4_CTG_5_CCT_6_ATC_7_ATC_8_GGC_9_CAT_10_ATG_11_CAT_12_CAT_13_CTG_14_ATC_15_GGT_16_ACT_17_ACT_18_CCG_19_CAT_
+ga:0_GAA_1_CCG_2_TGG_3_CGT_4_CTG_5_CCG_6_ATC_7_ATC_8_GGC_9_CAT_10_ATG_11_CAT_12_CAT_13_CTG_14_ATC_15_GGC_16_ACG_17_ACG_18_CCG_19_CAT_
+Differences found:
+Index 1: P - qa_codon: CCT, ga_codon: CCG
+Index 5: P - qa_codon: CCT, ga_codon: CCG
+Index 15: G - qa_codon: GGT, ga_codon: GGC
+Index 16: T - qa_codon: ACT, ga_codon: ACG
+Index 17: T - qa_codon: ACT, ga_codon: ACG
+end
+
+start
+Target sequence: RGVRDLARKYGSLMHLQLGE
+qa:[-95.9629614] >= ga:[-96.35122289]
+qa:16.019529581069946 >= ga:1.1741938591003418
+qa:0_CGA_1_GGC_2_GTG_3_CGC_4_GAT_5_CTC_6_GCG_7_CGT_8_AAG_9_TAT_10_GGC_11_TCT_12_CTG_13_ATG_14_CAT_15_CTG_16_CAG_17_CTA_18_GGT_19_GAA_
+ga:0_CGC_1_GGC_2_GTG_3_CGC_4_GAT_5_CTC_6_GCG_7_CGC_8_AAG_9_TAT_10_GGC_11_TCG_12_CTG_13_ATG_14_CAT_15_CTG_16_CAG_17_CTC_18_GGC_19_GAA_
+Differences found:
+Index 0: R - qa_codon: CGA, ga_codon: CGC
+Index 7: R - qa_codon: CGT, ga_codon: CGC
+Index 11: S - qa_codon: TCT, ga_codon: TCG
+Index 17: L - qa_codon: CTA, ga_codon: CTC
+Index 18: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: VPTIVVSSPKWAKEILTTYD
+qa:[-95.28276756] >= ga:[-95.46632953]
+qa:17.106999397277832 >= ga:0.7644765377044678
+qa:0_GTG_1_CCG_2_ACG_3_ATC_4_GTA_5_GTG_6_AGC_7_TCA_8_CCG_9_AAG_10_TGG_11_GCG_12_AAG_13_GAG_14_ATA_15_CTG_16_ACG_17_ACA_18_TAT_19_GAT_
+ga:0_GTG_1_CCG_2_ACG_3_ATC_4_GTC_5_GTG_6_AGC_7_TCG_8_CCG_9_AAG_10_TGG_11_GCG_12_AAG_13_GAG_14_ATA_15_CTG_16_ACG_17_ACG_18_TAT_19_GAT_
+Differences found:
+Index 4: V - qa_codon: GTA, ga_codon: GTC
+Index 7: S - qa_codon: TCA, ga_codon: TCG
+Index 17: T - qa_codon: ACA, ga_codon: ACG
+end
+
+start
+Target sequence: ISFANRPETLTGEIVLYHNT
+qa:[-95.03782604] >= ga:[-95.61165173]
+qa:16.489777326583862 >= ga:0.9063575267791748
+qa:0_ATC_1_AGC_2_TTC_3_GCC_4_AAC_5_AGA_6_CCA_7_GAG_8_ACA_9_CTG_10_ACA_11_GGT_12_GAG_13_ATC_14_GTA_15_CTG_16_TAT_17_CAC_18_AAT_19_ACC_
+ga:0_ATC_1_AGC_2_TTC_3_GCG_4_AAC_5_CGG_6_CCG_7_GAG_8_ACG_9_CTG_10_ACT_11_GGC_12_GAG_13_ATC_14_GTG_15_CTG_16_TAT_17_CAT_18_AAC_19_ACC_
+Differences found:
+Index 3: A - qa_codon: GCC, ga_codon: GCG
+Index 5: R - qa_codon: AGA, ga_codon: CGG
+Index 6: P - qa_codon: CCA, ga_codon: CCG
+Index 8: T - qa_codon: ACA, ga_codon: ACG
+Index 10: T - qa_codon: ACA, ga_codon: ACT
+Index 11: G - qa_codon: GGT, ga_codon: GGC
+Index 14: V - qa_codon: GTA, ga_codon: GTG
+Index 17: H - qa_codon: CAC, ga_codon: CAT
+Index 18: N - qa_codon: AAT, ga_codon: AAC
+end
+
+start
+Target sequence: DVVLAPYGEYWRQLRKICTL
+qa:[-96.06063398] >= ga:[-96.41559463]
+qa:16.277350187301636 >= ga:0.8097732067108154
+qa:0_GAC_1_GTC_2_GTG_3_CTC_4_GCA_5_CCT_6_TAT_7_GGC_8_GAG_9_TAT_10_TGG_11_CGT_12_CAG_13_CTG_14_CGT_15_AAG_16_ATC_17_TGC_18_ACA_19_CTG_
+ga:0_GAT_1_GTC_2_GTG_3_CTC_4_GCG_5_CCG_6_TAT_7_GGC_8_GAG_9_TAT_10_TGG_11_CGT_12_CAG_13_CTG_14_CGC_15_AAG_16_ATC_17_TGC_18_ACG_19_CTG_
+Differences found:
+Index 0: D - qa_codon: GAC, ga_codon: GAT
+Index 4: A - qa_codon: GCA, ga_codon: GCG
+Index 5: P - qa_codon: CCT, ga_codon: CCG
+Index 14: R - qa_codon: CGT, ga_codon: CGC
+Index 18: T - qa_codon: ACA, ga_codon: ACG
+end
+
+start
+Target sequence: ELLSVKKVKSFQSLREEECW
+qa:[-95.33355487] >= ga:[-95.65432367]
+qa:16.46104073524475 >= ga:1.1351232528686523
+qa:0_GAA_1_CTG_2_CTG_3_AGC_4_GTG_5_AAG_6_AAG_7_GTG_8_AAG_9_TCG_10_TTC_11_CAG_12_TCG_13_CTG_14_CGT_15_GAG_16_GAA_17_GAG_18_TGC_19_TGG_
+ga:0_GAG_1_CTG_2_CTG_3_AGC_4_GTG_5_AAG_6_AAG_7_GTG_8_AAG_9_AGC_10_TTC_11_CAG_12_TCG_13_CTG_14_CGC_15_GAG_16_GAA_17_GAG_18_TGC_19_TGG_
+Differences found:
+Index 0: E - qa_codon: GAA, ga_codon: GAG
+Index 9: S - qa_codon: TCG, ga_codon: AGC
+Index 14: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: NLVQEIKASGSGRPVNLSEN
+qa:[-94.17364247] >= ga:[-94.64402832]
+qa:17.582207679748535 >= ga:1.1719880104064941
+qa:0_AAC_1_CTC_2_GTG_3_CAG_4_GAG_5_ATC_6_AAG_7_GCT_8_AGC_9_GGT_10_AGC_11_GGA_12_CGT_13_CCA_14_GTC_15_AAT_16_CTG_17_TCT_18_GAG_19_AAC_
+ga:0_AAC_1_CTC_2_GTG_3_CAG_4_GAG_5_ATC_6_AAG_7_GCG_8_AGC_9_GGT_10_TCC_11_GGC_12_CGT_13_CCG_14_GTG_15_AAC_16_CTG_17_AGC_18_GAG_19_AAC_
+Differences found:
+Index 7: A - qa_codon: GCT, ga_codon: GCG
+Index 10: S - qa_codon: AGC, ga_codon: TCC
+Index 11: G - qa_codon: GGA, ga_codon: GGC
+Index 13: P - qa_codon: CCA, ga_codon: CCG
+Index 14: V - qa_codon: GTC, ga_codon: GTG
+Index 15: N - qa_codon: AAT, ga_codon: AAC
+Index 17: S - qa_codon: TCT, ga_codon: AGC
+end
+
+start
+Target sequence: VFKLIATILSRAAFGKGIKD
+qa:[-94.45501804] >= ga:[-94.8136844]
+qa:17.95591378211975 >= ga:1.1688435077667236
+qa:0_GTG_1_TTC_2_AAG_3_CTG_4_ATC_5_GCT_6_ACT_7_ATA_8_CTG_9_TCT_10_CGC_11_GCT_12_GCG_13_TTC_14_GGC_15_AAG_16_GGA_17_ATT_18_AAG_19_GAT_
+ga:0_GTG_1_TTC_2_AAG_3_CTG_4_ATC_5_GCG_6_ACG_7_ATA_8_CTG_9_TCG_10_CGC_11_GCA_12_GCG_13_TTC_14_GGC_15_AAG_16_GGC_17_ATT_18_AAG_19_GAT_
+Differences found:
+Index 5: A - qa_codon: GCT, ga_codon: GCG
+Index 6: T - qa_codon: ACT, ga_codon: ACG
+Index 9: S - qa_codon: TCT, ga_codon: TCG
+Index 11: A - qa_codon: GCT, ga_codon: GCA
+Index 16: G - qa_codon: GGA, ga_codon: GGC
+end
+
+start
+Target sequence: QKELTEIVKEILRQTGGFDV
+qa:[-95.46108103] >= ga:[-95.94320149]
+qa:15.052269697189331 >= ga:0.9633035659790039
+qa:0_CAG_1_AAG_2_GAG_3_CTG_4_ACT_5_GAG_6_ATA_7_GTC_8_AAG_9_GAG_10_ATA_11_CTG_12_CGT_13_CAG_14_ACT_15_GGA_16_GGC_17_TTC_18_GAT_19_GTA_
+ga:0_CAG_1_AAG_2_GAG_3_CTG_4_ACT_5_GAG_6_ATC_7_GTG_8_AAG_9_GAG_10_ATA_11_CTG_12_CGT_13_CAG_14_ACA_15_GGC_16_GGC_17_TTC_18_GAT_19_GTG_
+Differences found:
+Index 6: I - qa_codon: ATA, ga_codon: ATC
+Index 7: V - qa_codon: GTC, ga_codon: GTG
+Index 14: T - qa_codon: ACT, ga_codon: ACA
+Index 15: G - qa_codon: GGA, ga_codon: GGC
+Index 19: V - qa_codon: GTA, ga_codon: GTG
+end
+
+start
+Target sequence: ADIFPSKKFLHHLSGKRARL
+qa:[-94.57480999] >= ga:[-95.1783795]
+qa:14.919718742370605 >= ga:1.2126305103302002
+qa:0_GCA_1_GAT_2_ATC_3_TTC_4_CCA_5_TCT_6_AAG_7_AAG_8_TTC_9_CTA_10_CAT_11_CAT_12_CTG_13_TCT_14_GGT_15_AAG_16_CGT_17_GCG_18_CGT_19_CTG_
+ga:0_GCA_1_GAT_2_ATC_3_TTC_4_CCG_5_AGC_6_AAG_7_AAG_8_TTC_9_CTG_10_CAT_11_CAT_12_CTG_13_AGC_14_GGC_15_AAG_16_CGC_17_GCG_18_CGT_19_CTG_
+Differences found:
+Index 4: P - qa_codon: CCA, ga_codon: CCG
+Index 5: S - qa_codon: TCT, ga_codon: AGC
+Index 9: L - qa_codon: CTA, ga_codon: CTG
+Index 13: S - qa_codon: TCT, ga_codon: AGC
+Index 14: G - qa_codon: GGT, ga_codon: GGC
+Index 16: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: TSLRKKIDNLIDNLVAEHTV
+qa:[-95.53244449] >= ga:[-96.17326175]
+qa:15.419212579727173 >= ga:1.1728341579437256
+qa:0_ACA_1_TCT_2_CTG_3_CGT_4_AAG_5_AAG_6_ATC_7_GAT_8_AAC_9_TTG_10_ATC_11_GAC_12_AAC_13_CTC_14_GTC_15_GCA_16_GAG_17_CAT_18_ACT_19_GTC_
+ga:0_ACG_1_TCG_2_CTG_3_CGC_4_AAG_5_AAG_6_ATC_7_GAT_8_AAC_9_CTG_10_ATC_11_GAT_12_AAC_13_CTC_14_GTC_15_GCT_16_GAG_17_CAT_18_ACT_19_GTG_
+Differences found:
+Index 0: T - qa_codon: ACA, ga_codon: ACG
+Index 1: S - qa_codon: TCT, ga_codon: TCG
+Index 3: R - qa_codon: CGT, ga_codon: CGC
+Index 9: L - qa_codon: TTG, ga_codon: CTG
+Index 11: D - qa_codon: GAC, ga_codon: GAT
+Index 15: A - qa_codon: GCA, ga_codon: GCT
+Index 19: V - qa_codon: GTC, ga_codon: GTG
+end
+
+start
+Target sequence: NTSSKTNETLLDVLLRLKDS
+qa:[-95.7313742] >= ga:[-96.4217986]
+qa:17.131319522857666 >= ga:1.115746021270752
+qa:0_AAC_1_ACT_2_AGC_3_AGC_4_AAG_5_ACG_6_AAT_7_GAG_8_ACG_9_CTG_10_CTA_11_GAT_12_GTA_13_CTG_14_CTG_15_AGA_16_CTG_17_AAG_18_GAT_19_AGT_
+ga:0_AAC_1_ACG_2_AGC_3_AGC_4_AAG_5_ACC_6_AAC_7_GAG_8_ACG_9_CTG_10_CTC_11_GAT_12_GTG_13_CTG_14_CTG_15_CGT_16_CTG_17_AAG_18_GAT_19_AGC_
+Differences found:
+Index 1: T - qa_codon: ACT, ga_codon: ACG
+Index 5: T - qa_codon: ACG, ga_codon: ACC
+Index 6: N - qa_codon: AAT, ga_codon: AAC
+Index 10: L - qa_codon: CTA, ga_codon: CTC
+Index 12: V - qa_codon: GTA, ga_codon: GTG
+Index 15: R - qa_codon: AGA, ga_codon: CGT
+Index 19: S - qa_codon: AGT, ga_codon: AGC
+end
+
+start
+Target sequence: AEFPLTSDNIKAIILDMFGA
+qa:[-94.63897147] >= ga:[-94.96095823]
+qa:15.588434934616089 >= ga:1.08115553855896
+qa:0_GCA_1_GAG_2_TTC_3_CCG_4_CTG_5_ACG_6_AGC_7_GAC_8_AAT_9_ATC_10_AAG_11_GCT_12_ATC_13_ATA_14_CTC_15_GAT_16_ATG_17_TTC_18_GGA_19_GCG_
+ga:0_GCA_1_GAG_2_TTC_3_CCG_4_CTG_5_ACG_6_AGC_7_GAT_8_AAC_9_ATT_10_AAG_11_GCG_12_ATC_13_ATA_14_CTC_15_GAT_16_ATG_17_TTC_18_GGC_19_GCG_
+Differences found:
+Index 7: D - qa_codon: GAC, ga_codon: GAT
+Index 8: N - qa_codon: AAT, ga_codon: AAC
+Index 9: I - qa_codon: ATC, ga_codon: ATT
+Index 11: A - qa_codon: GCT, ga_codon: GCG
+Index 18: G - qa_codon: GGA, ga_codon: GGC
+end
+
+start
+Target sequence: GTDTSSSTIEWAISELIKCP
+qa:[-95.57603949] >= ga:[-96.2551674]
+qa:17.100525856018066 >= ga:1.118523120880127
+qa:0_GGC_1_ACA_2_GAT_3_ACG_4_AGC_5_AGC_6_AGT_7_ACG_8_ATC_9_GAG_10_TGG_11_GCT_12_ATC_13_TCG_14_GAG_15_CTG_16_ATC_17_AAG_18_TGT_19_CCA_
+ga:0_GGC_1_ACT_2_GAT_3_ACG_4_AGC_5_AGC_6_AGC_7_ACG_8_ATC_9_GAG_10_TGG_11_GCG_12_ATC_13_AGC_14_GAG_15_CTG_16_ATC_17_AAG_18_TGT_19_CCG_
+Differences found:
+Index 1: T - qa_codon: ACA, ga_codon: ACT
+Index 6: S - qa_codon: AGT, ga_codon: AGC
+Index 11: A - qa_codon: GCT, ga_codon: GCG
+Index 13: S - qa_codon: TCG, ga_codon: AGC
+Index 19: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: KAMEKVQAELRKALNGKEKI
+qa:[-94.56763219] >= ga:[-94.66814043]
+qa:16.741096258163452 >= ga:1.0289397239685059
+qa:0_AAG_1_GCG_2_ATG_3_GAG_4_AAG_5_GTG_6_CAG_7_GCA_8_GAG_9_CTG_10_CGC_11_AAG_12_GCT_13_CTG_14_AAC_15_GGC_16_AAG_17_GAG_18_AAG_19_ATC_
+ga:0_AAG_1_GCG_2_ATG_3_GAG_4_AAG_5_GTG_6_CAG_7_GCA_8_GAG_9_CTG_10_CGC_11_AAG_12_GCG_13_CTG_14_AAC_15_GGC_16_AAG_17_GAG_18_AAG_19_ATT_
+Differences found:
+Index 12: A - qa_codon: GCT, ga_codon: GCG
+Index 19: I - qa_codon: ATC, ga_codon: ATT
+end
+
+start
+Target sequence: HEEDIQELSYLNMVIKETLR
+qa:[-95.63047436] >= ga:[-96.29681435]
+qa:16.769323348999023 >= ga:0.713115930557251
+qa:0_CAC_1_GAG_2_GAA_3_GAT_4_ATA_5_CAG_6_GAG_7_CTC_8_AGC_9_TAT_10_CTG_11_AAC_12_ATG_13_GTA_14_ATT_15_AAG_16_GAG_17_ACA_18_CTG_19_CGC_
+ga:0_CAT_1_GAG_2_GAA_3_GAT_4_ATA_5_CAG_6_GAG_7_CTG_8_AGC_9_TAT_10_CTG_11_AAC_12_ATG_13_GTG_14_ATC_15_AAG_16_GAG_17_ACG_18_CTG_19_CGC_
+Differences found:
+Index 0: H - qa_codon: CAC, ga_codon: CAT
+Index 7: L - qa_codon: CTC, ga_codon: CTG
+Index 13: V - qa_codon: GTA, ga_codon: GTG
+Index 14: I - qa_codon: ATT, ga_codon: ATC
+Index 17: T - qa_codon: ACA, ga_codon: ACG
+end
+
+start
+Target sequence: LHPPLPLVLPRECRQPVNLA
+qa:[-94.85161948] >= ga:[-95.57666566]
+qa:16.706114530563354 >= ga:1.1904411315917969
+qa:0_CTG_1_CAT_2_CCG_3_CCA_4_CTG_5_CCG_6_CTA_7_GTA_8_CTG_9_CCA_10_CGT_11_GAG_12_TGC_13_AGA_14_CAG_15_CCG_16_GTG_17_AAC_18_CTC_19_GCA_
+ga:0_CTG_1_CAT_2_CCG_3_CCG_4_CTG_5_CCG_6_CTC_7_GTG_8_CTG_9_CCG_10_CGT_11_GAG_12_TGT_13_CGT_14_CAG_15_CCG_16_GTG_17_AAC_18_CTC_19_GCG_
+Differences found:
+Index 3: P - qa_codon: CCA, ga_codon: CCG
+Index 6: L - qa_codon: CTA, ga_codon: CTC
+Index 7: V - qa_codon: GTA, ga_codon: GTG
+Index 9: P - qa_codon: CCA, ga_codon: CCG
+Index 12: C - qa_codon: TGC, ga_codon: TGT
+Index 13: R - qa_codon: AGA, ga_codon: CGT
+Index 19: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: GYNIPNKTKLIVNVFAINRD
+qa:[-94.03721984] >= ga:[-94.35046958]
+qa:17.187004327774048 >= ga:0.7990686893463135
+qa:0_GGC_1_TAT_2_AAC_3_ATT_4_CCG_5_AAC_6_AAG_7_ACC_8_AAG_9_CTG_10_ATC_11_GTG_12_AAC_13_GTA_14_TTC_15_GCG_16_ATC_17_AAC_18_CGA_19_GAT_
+ga:0_GGC_1_TAT_2_AAC_3_ATT_4_CCG_5_AAC_6_AAG_7_ACC_8_AAG_9_CTG_10_ATC_11_GTG_12_AAC_13_GTG_14_TTC_15_GCG_16_ATC_17_AAC_18_CGC_19_GAT_
+Differences found:
+Index 13: V - qa_codon: GTA, ga_codon: GTG
+Index 18: R - qa_codon: CGA, ga_codon: CGC
+end
+
+start
+Target sequence: PEYWKDAEAFIPERFENSSA
+qa:[-94.65859109] >= ga:[-94.85600003]
+qa:17.05471706390381 >= ga:0.9818916320800781
+qa:0_CCG_1_GAG_2_TAT_3_TGG_4_AAG_5_GAT_6_GCT_7_GAG_8_GCC_9_TTC_10_ATT_11_CCG_12_GAG_13_CGC_14_TTC_15_GAG_16_AAC_17_TCG_18_TCT_19_GCG_
+ga:0_CCG_1_GAG_2_TAT_3_TGG_4_AAG_5_GAT_6_GCA_7_GAG_8_GCG_9_TTC_10_ATT_11_CCG_12_GAG_13_CGC_14_TTC_15_GAG_16_AAC_17_AGC_18_AGC_19_GCG_
+Differences found:
+Index 6: A - qa_codon: GCT, ga_codon: GCA
+Index 8: A - qa_codon: GCC, ga_codon: GCG
+Index 17: S - qa_codon: TCG, ga_codon: AGC
+Index 18: S - qa_codon: TCT, ga_codon: AGC
+end
+
+start
+Target sequence: TVMGAEYEYLPFGAGRRMCP
+qa:[-95.36881671] >= ga:[-95.69734157]
+qa:15.900025606155396 >= ga:1.1726038455963135
+qa:0_ACA_1_GTG_2_ATG_3_GGT_4_GCT_5_GAG_6_TAT_7_GAG_8_TAT_9_CTG_10_CCG_11_TTC_12_GGT_13_GCT_14_GGC_15_CGT_16_CGT_17_ATG_18_TGT_19_CCA_
+ga:0_ACT_1_GTG_2_ATG_3_GGC_4_GCA_5_GAG_6_TAT_7_GAG_8_TAT_9_CTG_10_CCG_11_TTC_12_GGC_13_GCC_14_GGC_15_CGT_16_CGC_17_ATG_18_TGT_19_CCG_
+Differences found:
+Index 0: T - qa_codon: ACA, ga_codon: ACT
+Index 3: G - qa_codon: GGT, ga_codon: GGC
+Index 4: A - qa_codon: GCT, ga_codon: GCA
+Index 12: G - qa_codon: GGT, ga_codon: GGC
+Index 13: A - qa_codon: GCT, ga_codon: GCC
+Index 16: R - qa_codon: CGT, ga_codon: CGC
+Index 19: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: GAALGLANVQLPLANILYHF
+qa:[-94.64747934] >= ga:[-95.29166395]
+qa:16.620341777801514 >= ga:0.9915101528167725
+qa:0_GGT_1_GCA_2_GCT_3_CTA_4_GGC_5_CTG_6_GCG_7_AAC_8_GTA_9_CAG_10_CTG_11_CCA_12_CTA_13_GCG_14_AAC_15_ATA_16_CTG_17_TAT_18_CAC_19_TTC_
+ga:0_GGC_1_GCA_2_GCA_3_CTC_4_GGC_5_CTC_6_GCG_7_AAC_8_GTG_9_CAG_10_CTG_11_CCG_12_CTC_13_GCG_14_AAC_15_ATA_16_CTG_17_TAT_18_CAC_19_TTC_
+Differences found:
+Index 0: G - qa_codon: GGT, ga_codon: GGC
+Index 2: A - qa_codon: GCT, ga_codon: GCA
+Index 3: L - qa_codon: CTA, ga_codon: CTC
+Index 5: L - qa_codon: CTG, ga_codon: CTC
+Index 8: V - qa_codon: GTA, ga_codon: GTG
+Index 11: P - qa_codon: CCA, ga_codon: CCG
+Index 12: L - qa_codon: CTA, ga_codon: CTC
+end
+
+start
+Target sequence: NWKLPNGVSYDQIDMTESSG
+qa:[-96.33891308] >= ga:[-96.48036624]
+qa:16.664225339889526 >= ga:0.6875085830688477
+qa:0_AAC_1_TGG_2_AAG_3_CTG_4_CCG_5_AAC_6_GGC_7_GTG_8_TCG_9_TAT_10_GAT_11_CAG_12_ATC_13_GAT_14_ATG_15_ACT_16_GAG_17_TCT_18_AGC_19_GGT_
+ga:0_AAC_1_TGG_2_AAG_3_CTG_4_CCG_5_AAC_6_GGT_7_GTG_8_AGC_9_TAT_10_GAT_11_CAG_12_ATC_13_GAT_14_ATG_15_ACT_16_GAG_17_AGC_18_AGC_19_GGC_
+Differences found:
+Index 6: G - qa_codon: GGC, ga_codon: GGT
+Index 8: S - qa_codon: TCG, ga_codon: AGC
+Index 17: S - qa_codon: TCT, ga_codon: AGC
+Index 19: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: MQSTTSVKLSPFDLMTALLN
+qa:[-96.46052347] >= ga:[-96.97454709]
+qa:16.84482216835022 >= ga:1.1827023029327393
+qa:0_ATG_1_CAG_2_TCT_3_ACG_4_ACA_5_TCT_6_GTC_7_AAG_8_CTG_9_TCT_10_CCG_11_TTC_12_GAT_13_CTG_14_ATG_15_ACT_16_GCG_17_CTG_18_CTC_19_AAT_
+ga:0_ATG_1_CAG_2_AGC_3_ACG_4_ACG_5_AGC_6_GTG_7_AAG_8_CTG_9_TCG_10_CCG_11_TTC_12_GAT_13_CTG_14_ATG_15_ACT_16_GCG_17_CTG_18_CTG_19_AAC_
+Differences found:
+Index 2: S - qa_codon: TCT, ga_codon: AGC
+Index 4: T - qa_codon: ACA, ga_codon: ACG
+Index 5: S - qa_codon: TCT, ga_codon: AGC
+Index 6: V - qa_codon: GTC, ga_codon: GTG
+Index 9: S - qa_codon: TCT, ga_codon: TCG
+Index 18: L - qa_codon: CTC, ga_codon: CTG
+Index 19: N - qa_codon: AAT, ga_codon: AAC
+end
+
+start
+Target sequence: GKVSFDTSNTSDTNIPLAVF
+qa:[-94.72591834] >= ga:[-95.06688782]
+qa:16.42056655883789 >= ga:1.1466660499572754
+qa:0_GGC_1_AAG_2_GTG_3_TCG_4_TTC_5_GAT_6_ACG_7_TCT_8_AAC_9_ACG_10_TCA_11_GAT_12_ACT_13_AAC_14_ATT_15_CCG_16_CTA_17_GCA_18_GTG_19_TTC_
+ga:0_GGC_1_AAG_2_GTG_3_AGC_4_TTC_5_GAT_6_ACG_7_TCT_8_AAC_9_ACG_10_AGC_11_GAT_12_ACG_13_AAC_14_ATT_15_CCG_16_CTC_17_GCA_18_GTG_19_TTC_
+Differences found:
+Index 3: S - qa_codon: TCG, ga_codon: AGC
+Index 10: S - qa_codon: TCA, ga_codon: AGC
+Index 12: T - qa_codon: ACT, ga_codon: ACG
+Index 16: L - qa_codon: CTA, ga_codon: CTC
+end
+
+start
+Target sequence: MENRELLMILTTSVAVLIGC
+qa:[-96.11127551] >= ga:[-97.14031449]
+qa:15.543250322341919 >= ga:1.2174346446990967
+qa:0_ATG_1_GAG_2_AAC_3_CGT_4_GAG_5_CTG_6_CTG_7_ATG_8_ATA_9_CTG_10_ACG_11_ACT_12_TCT_13_GTA_14_GCA_15_GTA_16_CTC_17_ATA_18_GGC_19_TGT_
+ga:0_ATG_1_GAG_2_AAC_3_CGC_4_GAG_5_CTG_6_CTG_7_ATG_8_ATA_9_CTG_10_ACG_11_ACG_12_AGC_13_GTC_14_GCA_15_GTG_16_CTG_17_ATC_18_GGC_19_TGC_
+Differences found:
+Index 3: R - qa_codon: CGT, ga_codon: CGC
+Index 11: T - qa_codon: ACT, ga_codon: ACG
+Index 12: S - qa_codon: TCT, ga_codon: AGC
+Index 13: V - qa_codon: GTA, ga_codon: GTC
+Index 15: V - qa_codon: GTA, ga_codon: GTG
+Index 16: L - qa_codon: CTC, ga_codon: CTG
+Index 17: I - qa_codon: ATA, ga_codon: ATC
+Index 19: C - qa_codon: TGT, ga_codon: TGC
+end
+
+start
+Target sequence: VVVLVWRRSSSAAKKAAESP
+qa:[-95.8261298] >= ga:[-96.33725087]
+qa:17.355037689208984 >= ga:1.069331169128418
+qa:0_GTC_1_GTC_2_GTG_3_CTG_4_GTG_5_TGG_6_CGT_7_CGT_8_AGC_9_AGT_10_AGC_11_GCT_12_GCT_13_AAG_14_AAG_15_GCA_16_GCT_17_GAG_18_TCT_19_CCA_
+ga:0_GTC_1_GTC_2_GTG_3_CTC_4_GTG_5_TGG_6_CGT_7_CGC_8_AGC_9_AGC_10_AGC_11_GCA_12_GCG_13_AAG_14_AAG_15_GCA_16_GCA_17_GAG_18_AGT_19_CCG_
+Differences found:
+Index 3: L - qa_codon: CTG, ga_codon: CTC
+Index 7: R - qa_codon: CGT, ga_codon: CGC
+Index 9: S - qa_codon: AGT, ga_codon: AGC
+Index 11: A - qa_codon: GCT, ga_codon: GCA
+Index 12: A - qa_codon: GCT, ga_codon: GCG
+Index 16: A - qa_codon: GCT, ga_codon: GCA
+Index 18: S - qa_codon: TCT, ga_codon: AGT
+Index 19: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: VIVVPKKVTEDEVDDGRKKV
+qa:[-94.83401388] >= ga:[-95.10736506]
+qa:16.482088804244995 >= ga:0.992544412612915
+qa:0_GTG_1_ATC_2_GTC_3_GTA_4_CCG_5_AAG_6_AAG_7_GTC_8_ACA_9_GAG_10_GAT_11_GAG_12_GTC_13_GAC_14_GAT_15_GGT_16_CGT_17_AAG_18_AAG_19_GTG_
+ga:0_GTG_1_ATC_2_GTC_3_GTG_4_CCG_5_AAG_6_AAG_7_GTG_8_ACT_9_GAG_10_GAT_11_GAG_12_GTC_13_GAT_14_GAT_15_GGC_16_CGC_17_AAG_18_AAG_19_GTG_
+Differences found:
+Index 3: V - qa_codon: GTA, ga_codon: GTG
+Index 7: V - qa_codon: GTC, ga_codon: GTG
+Index 8: T - qa_codon: ACA, ga_codon: ACT
+Index 13: D - qa_codon: GAC, ga_codon: GAT
+Index 15: G - qa_codon: GGT, ga_codon: GGC
+Index 16: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: TVFFGTQTGTAEGFAKALVE
+qa:[-94.58433433] >= ga:[-94.70335312]
+qa:15.577537298202515 >= ga:0.9930176734924316
+qa:0_ACT_1_GTG_2_TTC_3_TTC_4_GGC_5_ACG_6_CAG_7_ACT_8_GGT_9_ACT_10_GCG_11_GAA_12_GGC_13_TTC_14_GCC_15_AAG_16_GCG_17_CTC_18_GTA_19_GAG_
+ga:0_ACT_1_GTG_2_TTC_3_TTC_4_GGC_5_ACG_6_CAG_7_ACT_8_GGC_9_ACT_10_GCG_11_GAA_12_GGC_13_TTC_14_GCG_15_AAG_16_GCG_17_CTC_18_GTC_19_GAG_
+Differences found:
+Index 8: G - qa_codon: GGT, ga_codon: GGC
+Index 14: A - qa_codon: GCC, ga_codon: GCG
+Index 18: V - qa_codon: GTA, ga_codon: GTC
+end
+
+start
+Target sequence: EAKARYEKAVFKVIDLDDYA
+qa:[-95.99385193] >= ga:[-96.09156752]
+qa:16.597848176956177 >= ga:1.0367119312286377
+qa:0_GAA_1_GCG_2_AAG_3_GCG_4_CGC_5_TAT_6_GAG_7_AAG_8_GCT_9_GTG_10_TTC_11_AAG_12_GTG_13_ATC_14_GAT_15_CTC_16_GAT_17_GAC_18_TAT_19_GCA_
+ga:0_GAA_1_GCG_2_AAG_3_GCG_4_CGC_5_TAT_6_GAG_7_AAG_8_GCA_9_GTG_10_TTC_11_AAG_12_GTG_13_ATC_14_GAT_15_CTC_16_GAT_17_GAC_18_TAT_19_GCG_
+Differences found:
+Index 8: A - qa_codon: GCT, ga_codon: GCA
+Index 19: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: AEDDEYEEKLKKESLAFFFL
+qa:[-94.95644671] >= ga:[-94.98363993]
+qa:15.439641237258911 >= ga:1.1082673072814941
+qa:0_GCT_1_GAG_2_GAT_3_GAT_4_GAG_5_TAT_6_GAG_7_GAG_8_AAG_9_CTG_10_AAG_11_AAG_12_GAG_13_TCG_14_CTC_15_GCG_16_TTC_17_TTC_18_TTC_19_CTG_
+ga:0_GCA_1_GAG_2_GAT_3_GAT_4_GAG_5_TAT_6_GAG_7_GAG_8_AAG_9_CTG_10_AAG_11_AAG_12_GAG_13_TCG_14_CTC_15_GCG_16_TTC_17_TTC_18_TTC_19_CTG_
+Differences found:
+Index 0: A - qa_codon: GCT, ga_codon: GCA
+end
+
+start
+Target sequence: ATYGDGEPTDNAARFYKWFT
+qa:[-94.58842199] >= ga:[-94.66252137]
+qa:14.534908056259155 >= ga:1.0744552612304688
+qa:0_GCG_1_ACG_2_TAC_3_GGT_4_GAT_5_GGC_6_GAA_7_CCG_8_ACT_9_GAT_10_AAC_11_GCT_12_GCG_13_CGC_14_TTC_15_TAT_16_AAG_17_TGG_18_TTC_19_ACC_
+ga:0_GCG_1_ACG_2_TAT_3_GGC_4_GAT_5_GGC_6_GAA_7_CCG_8_ACT_9_GAT_10_AAC_11_GCA_12_GCG_13_CGC_14_TTC_15_TAT_16_AAG_17_TGG_18_TTC_19_ACC_
+Differences found:
+Index 2: Y - qa_codon: TAC, ga_codon: TAT
+Index 3: G - qa_codon: GGT, ga_codon: GGC
+Index 11: A - qa_codon: GCT, ga_codon: GCA
+end
+
+start
+Target sequence: EGEEKGEWLEKLQYAVFGLG
+qa:[-93.66140217] >= ga:[-93.94247935]
+qa:15.132487773895264 >= ga:0.9912116527557373
+qa:0_GAA_1_GGC_2_GAG_3_GAG_4_AAG_5_GGC_6_GAA_7_TGG_8_CTA_9_GAG_10_AAG_11_CTG_12_CAG_13_TAC_14_GCT_15_GTG_16_TTC_17_GGT_18_CTC_19_GGT_
+ga:0_GAA_1_GGC_2_GAA_3_GAG_4_AAG_5_GGC_6_GAA_7_TGG_8_CTC_9_GAG_10_AAG_11_CTG_12_CAG_13_TAT_14_GCA_15_GTG_16_TTC_17_GGC_18_CTC_19_GGC_
+Differences found:
+Index 2: E - qa_codon: GAG, ga_codon: GAA
+Index 8: L - qa_codon: CTA, ga_codon: CTC
+Index 13: Y - qa_codon: TAC, ga_codon: TAT
+Index 14: A - qa_codon: GCT, ga_codon: GCA
+Index 17: G - qa_codon: GGT, ga_codon: GGC
+Index 19: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: NRQYEHFNKIAKVVDEKLVE
+qa:[-95.449354] >= ga:[-95.63249062]
+qa:15.485321998596191 >= ga:0.8965864181518555
+qa:0_AAT_1_CGT_2_CAG_3_TAT_4_GAG_5_CAC_6_TTC_7_AAC_8_AAG_9_ATC_10_GCG_11_AAG_12_GTC_13_GTA_14_GAC_15_GAG_16_AAG_17_CTC_18_GTA_19_GAG_
+ga:0_AAC_1_CGT_2_CAG_3_TAT_4_GAG_5_CAC_6_TTC_7_AAC_8_AAG_9_ATC_10_GCG_11_AAG_12_GTC_13_GTC_14_GAT_15_GAG_16_AAG_17_CTC_18_GTC_19_GAG_
+Differences found:
+Index 0: N - qa_codon: AAT, ga_codon: AAC
+Index 13: V - qa_codon: GTA, ga_codon: GTC
+Index 14: D - qa_codon: GAC, ga_codon: GAT
+Index 18: V - qa_codon: GTA, ga_codon: GTC
+end
+
+start
+Target sequence: QGAKRLVPVGMGDDDQCIED
+qa:[-94.80476815] >= ga:[-95.06738703]
+qa:49.685638189315796 >= ga:1.007727861404419
+qa:0_CAA_1_GGC_2_GCC_3_AAG_4_CGT_5_CTC_6_GTA_7_CCG_8_GTA_9_GGC_10_ATG_11_GGT_12_GAT_13_GAC_14_GAT_15_CAG_16_TGC_17_ATC_18_GAG_19_GAT_
+ga:0_CAA_1_GGC_2_GCG_3_AAG_4_CGT_5_CTC_6_GTG_7_CCG_8_GTT_9_GGC_10_ATG_11_GGC_12_GAT_13_GAT_14_GAT_15_CAG_16_TGC_17_ATC_18_GAG_19_GAT_
+Differences found:
+Index 2: A - qa_codon: GCC, ga_codon: GCG
+Index 6: V - qa_codon: GTA, ga_codon: GTG
+Index 8: V - qa_codon: GTA, ga_codon: GTT
+Index 11: G - qa_codon: GGT, ga_codon: GGC
+Index 13: D - qa_codon: GAC, ga_codon: GAT
+end
+
+start
+Target sequence: DFTAWKELVWPELDQLLRDE
+qa:[-96.04295994] >= ga:[-96.27985112]
+qa:17.50964093208313 >= ga:1.1258530616760254
+qa:0_GAC_1_TTC_2_ACT_3_GCG_4_TGG_5_AAG_6_GAG_7_CTC_8_GTA_9_TGG_10_CCG_11_GAG_12_CTA_13_GAT_14_CAG_15_CTG_16_CTG_17_CGT_18_GAT_19_GAG_
+ga:0_GAC_1_TTC_2_ACT_3_GCG_4_TGG_5_AAG_6_GAG_7_CTC_8_GTG_9_TGG_10_CCG_11_GAG_12_CTC_13_GAT_14_CAG_15_CTG_16_CTG_17_CGC_18_GAT_19_GAG_
+Differences found:
+Index 8: V - qa_codon: GTA, ga_codon: GTG
+Index 12: L - qa_codon: CTA, ga_codon: CTC
+Index 17: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: DDTSVATPYTAAVAEYRVVF
+qa:[-96.95487012] >= ga:[-97.3556386]
+qa:17.845550537109375 >= ga:1.252906322479248
+qa:0_GAT_1_GAC_2_ACG_3_AGC_4_GTC_5_GCG_6_ACT_7_CCT_8_TAC_9_ACT_10_GCT_11_GCA_12_GTC_13_GCT_14_GAG_15_TAT_16_CGC_17_GTA_18_GTA_19_TTC_
+ga:0_GAT_1_GAT_2_ACT_3_AGC_4_GTC_5_GCG_6_ACG_7_CCG_8_TAT_9_ACT_10_GCA_11_GCA_12_GTC_13_GCA_14_GAG_15_TAT_16_CGC_17_GTC_18_GTG_19_TTC_
+Differences found:
+Index 1: D - qa_codon: GAC, ga_codon: GAT
+Index 2: T - qa_codon: ACG, ga_codon: ACT
+Index 6: T - qa_codon: ACT, ga_codon: ACG
+Index 7: P - qa_codon: CCT, ga_codon: CCG
+Index 8: Y - qa_codon: TAC, ga_codon: TAT
+Index 10: A - qa_codon: GCT, ga_codon: GCA
+Index 13: A - qa_codon: GCT, ga_codon: GCA
+Index 17: V - qa_codon: GTA, ga_codon: GTC
+Index 18: V - qa_codon: GTA, ga_codon: GTG
+end
+
+start
+Target sequence: HDKPETYDQDQLTNGHAVHD
+qa:[-96.70025249] >= ga:[-96.84969086]
+qa:16.097939014434814 >= ga:0.9925639629364014
+qa:0_CAC_1_GAC_2_AAG_3_CCG_4_GAG_5_ACA_6_TAC_7_GAT_8_CAG_9_GAT_10_CAG_11_CTG_12_ACG_13_AAC_14_GGC_15_CAC_16_GCA_17_GTG_18_CAT_19_GAT_
+ga:0_CAT_1_GAT_2_AAG_3_CCG_4_GAG_5_ACG_6_TAT_7_GAT_8_CAG_9_GAT_10_CAG_11_CTG_12_ACG_13_AAC_14_GGC_15_CAC_16_GCA_17_GTG_18_CAT_19_GAT_
+Differences found:
+Index 0: H - qa_codon: CAC, ga_codon: CAT
+Index 1: D - qa_codon: GAC, ga_codon: GAT
+Index 5: T - qa_codon: ACA, ga_codon: ACG
+Index 6: Y - qa_codon: TAC, ga_codon: TAT
+end
+
+start
+Target sequence: AQHPCRSNVAVKKELHSPLS
+qa:[-95.44598298] >= ga:[-95.91023205]
+qa:17.836060762405396 >= ga:1.1133298873901367
+qa:0_GCG_1_CAG_2_CAT_3_CCG_4_TGT_5_CGC_6_AGC_7_AAT_8_GTC_9_GCA_10_GTC_11_AAG_12_AAG_13_GAG_14_CTA_15_CAT_16_AGT_17_CCG_18_CTG_19_TCA_
+ga:0_GCG_1_CAG_2_CAT_3_CCG_4_TGT_5_CGC_6_AGC_7_AAC_8_GTC_9_GCA_10_GTG_11_AAG_12_AAG_13_GAG_14_CTG_15_CAC_16_TCG_17_CCG_18_CTG_19_AGC_
+Differences found:
+Index 7: N - qa_codon: AAT, ga_codon: AAC
+Index 10: V - qa_codon: GTC, ga_codon: GTG
+Index 14: L - qa_codon: CTA, ga_codon: CTG
+Index 15: H - qa_codon: CAT, ga_codon: CAC
+Index 16: S - qa_codon: AGT, ga_codon: TCG
+Index 19: S - qa_codon: TCA, ga_codon: AGC
+end
+
+start
+Target sequence: DRSCTHLEFDISNTGLSYET
+qa:[-96.33690703] >= ga:[-96.83167315]
+qa:14.660128831863403 >= ga:0.8005609512329102
+qa:0_GAT_1_CGC_2_TCG_3_TGC_4_ACA_5_CAT_6_CTC_7_GAG_8_TTC_9_GAT_10_ATC_11_AGT_12_AAC_13_ACA_14_GGT_15_CTG_16_AGC_17_TAT_18_GAG_19_ACA_
+ga:0_GAT_1_CGC_2_AGC_3_TGC_4_ACG_5_CAT_6_CTC_7_GAG_8_TTC_9_GAT_10_ATC_11_AGC_12_AAC_13_ACC_14_GGC_15_CTG_16_AGC_17_TAT_18_GAG_19_ACG_
+Differences found:
+Index 2: S - qa_codon: TCG, ga_codon: AGC
+Index 4: T - qa_codon: ACA, ga_codon: ACG
+Index 11: S - qa_codon: AGT, ga_codon: AGC
+Index 13: T - qa_codon: ACA, ga_codon: ACC
+Index 14: G - qa_codon: GGT, ga_codon: GGC
+Index 19: T - qa_codon: ACA, ga_codon: ACG
+end
+
+start
+Target sequence: GDHVGVYVENLSEVVDEAEK
+qa:[-95.98035839] >= ga:[-95.99158353]
+qa:15.680310487747192 >= ga:1.0265090465545654
+qa:0_GGT_1_GAT_2_CAT_3_GTC_4_GGC_5_GTG_6_TAT_7_GTA_8_GAG_9_AAC_10_CTG_11_AGC_12_GAG_13_GTC_14_GTC_15_GAT_16_GAG_17_GCA_18_GAG_19_AAG_
+ga:0_GGC_1_GAT_2_CAT_3_GTC_4_GGC_5_GTG_6_TAT_7_GTC_8_GAG_9_AAC_10_CTG_11_AGT_12_GAG_13_GTC_14_GTC_15_GAT_16_GAG_17_GCA_18_GAG_19_AAG_
+Differences found:
+Index 0: G - qa_codon: GGT, ga_codon: GGC
+Index 7: V - qa_codon: GTA, ga_codon: GTC
+Index 11: S - qa_codon: AGC, ga_codon: AGT
+end
+
+start
+Target sequence: LIGLPPHTYFSVHTDNEDGT
+qa:[-94.79536471] >= ga:[-95.34166764]
+qa:18.336506128311157 >= ga:0.82021164894104
+qa:0_CTG_1_ATC_2_GGT_3_CTG_4_CCA_5_CCG_6_CAC_7_ACG_8_TAC_9_TTC_10_TCA_11_GTA_12_CAT_13_ACT_14_GAC_15_AAC_16_GAG_17_GAC_18_GGT_19_ACC_
+ga:0_CTG_1_ATC_2_GGC_3_CTG_4_CCG_5_CCG_6_CAT_7_ACG_8_TAC_9_TTC_10_AGC_11_GTG_12_CAT_13_ACT_14_GAT_15_AAC_16_GAA_17_GAT_18_GGC_19_ACC_
+Differences found:
+Index 2: G - qa_codon: GGT, ga_codon: GGC
+Index 4: P - qa_codon: CCA, ga_codon: CCG
+Index 6: H - qa_codon: CAC, ga_codon: CAT
+Index 10: S - qa_codon: TCA, ga_codon: AGC
+Index 11: V - qa_codon: GTA, ga_codon: GTG
+Index 14: D - qa_codon: GAC, ga_codon: GAT
+Index 16: E - qa_codon: GAG, ga_codon: GAA
+Index 17: D - qa_codon: GAC, ga_codon: GAT
+Index 18: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: PLGGASLPPPFPPCTLRKAL
+qa:[-94.20134326] >= ga:[-94.3411136]
+qa:17.278735876083374 >= ga:1.2376368045806885
+qa:0_CCG_1_CTA_2_GGC_3_GGC_4_GCG_5_AGT_6_CTG_7_CCG_8_CCG_9_CCA_10_TTC_11_CCG_12_CCG_13_TGC_14_ACG_15_CTG_16_CGC_17_AAG_18_GCA_19_CTG_
+ga:0_CCG_1_CTC_2_GGT_3_GGC_4_GCA_5_TCG_6_CTG_7_CCG_8_CCG_9_CCG_10_TTC_11_CCG_12_CCG_13_TGC_14_ACT_15_CTG_16_CGC_17_AAG_18_GCG_19_CTG_
+Differences found:
+Index 1: L - qa_codon: CTA, ga_codon: CTC
+Index 2: G - qa_codon: GGC, ga_codon: GGT
+Index 4: A - qa_codon: GCG, ga_codon: GCA
+Index 5: S - qa_codon: AGT, ga_codon: TCG
+Index 9: P - qa_codon: CCA, ga_codon: CCG
+Index 14: T - qa_codon: ACG, ga_codon: ACT
+Index 18: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: ASYADVLSSPKKSALLALAA
+qa:[-96.37445508] >= ga:[-96.96085829]
+qa:19.126702308654785 >= ga:1.288705825805664
+qa:0_GCG_1_TCA_2_TAT_3_GCT_4_GAT_5_GTG_6_CTG_7_AGC_8_TCA_9_CCT_10_AAG_11_AAG_12_AGT_13_GCA_14_CTG_15_CTC_16_GCA_17_CTC_18_GCT_19_GCT_
+ga:0_GCG_1_TCG_2_TAT_3_GCA_4_GAT_5_GTG_6_CTG_7_AGC_8_TCG_9_CCG_10_AAG_11_AAG_12_AGC_13_GCG_14_CTG_15_CTC_16_GCG_17_CTC_18_GCA_19_GCG_
+Differences found:
+Index 1: S - qa_codon: TCA, ga_codon: TCG
+Index 3: A - qa_codon: GCT, ga_codon: GCA
+Index 8: S - qa_codon: TCA, ga_codon: TCG
+Index 9: P - qa_codon: CCT, ga_codon: CCG
+Index 12: S - qa_codon: AGT, ga_codon: AGC
+Index 13: A - qa_codon: GCA, ga_codon: GCG
+Index 16: A - qa_codon: GCA, ga_codon: GCG
+Index 18: A - qa_codon: GCT, ga_codon: GCA
+Index 19: A - qa_codon: GCT, ga_codon: GCG
+end
+
+start
+Target sequence: HATDSTEADRLKFLASPAGK
+qa:[-95.46028001] >= ga:[-95.85633338]
+qa:19.01447868347168 >= ga:1.015451192855835
+qa:0_CAC_1_GCG_2_ACT_3_GAC_4_TCT_5_ACA_6_GAG_7_GCA_8_GAT_9_CGT_10_CTG_11_AAG_12_TTC_13_CTC_14_GCA_15_TCT_16_CCA_17_GCA_18_GGC_19_AAG_
+ga:0_CAT_1_GCG_2_ACT_3_GAT_4_AGC_5_ACT_6_GAG_7_GCA_8_GAT_9_CGT_10_CTG_11_AAG_12_TTC_13_CTC_14_GCG_15_TCG_16_CCG_17_GCC_18_GGC_19_AAG_
+Differences found:
+Index 0: H - qa_codon: CAC, ga_codon: CAT
+Index 3: D - qa_codon: GAC, ga_codon: GAT
+Index 4: S - qa_codon: TCT, ga_codon: AGC
+Index 5: T - qa_codon: ACA, ga_codon: ACT
+Index 14: A - qa_codon: GCA, ga_codon: GCG
+Index 15: S - qa_codon: TCT, ga_codon: TCG
+Index 16: P - qa_codon: CCA, ga_codon: CCG
+Index 17: A - qa_codon: GCA, ga_codon: GCC
+end
+
+start
+Target sequence: DEYAQWIVASHRSLLEVMEA
+qa:[-96.96839103] >= ga:[-97.15230266]
+qa:17.46812915802002 >= ga:1.05763578414917
+qa:0_GAT_1_GAG_2_TAC_3_GCG_4_CAG_5_TGG_6_ATC_7_GTC_8_GCA_9_TCT_10_CAT_11_CGT_12_AGT_13_CTG_14_CTC_15_GAG_16_GTC_17_ATG_18_GAA_19_GCA_
+ga:0_GAT_1_GAG_2_TAT_3_GCG_4_CAG_5_TGG_6_ATC_7_GTC_8_GCG_9_TCG_10_CAT_11_CGC_12_TCG_13_CTG_14_CTG_15_GAA_16_GTG_17_ATG_18_GAA_19_GCG_
+Differences found:
+Index 2: Y - qa_codon: TAC, ga_codon: TAT
+Index 8: A - qa_codon: GCA, ga_codon: GCG
+Index 9: S - qa_codon: TCT, ga_codon: TCG
+Index 11: R - qa_codon: CGT, ga_codon: CGC
+Index 12: S - qa_codon: AGT, ga_codon: TCG
+Index 14: L - qa_codon: CTC, ga_codon: CTG
+Index 15: E - qa_codon: GAG, ga_codon: GAA
+Index 16: V - qa_codon: GTC, ga_codon: GTG
+Index 19: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: FPSAKPPLGVFFASVAPRLQ
+qa:[-94.01658883] >= ga:[-94.17912285]
+qa:21.54324746131897 >= ga:1.1592011451721191
+qa:0_TTT_1_CCG_2_AGC_3_GCG_4_AAG_5_CCG_6_CCG_7_CTT_8_GGA_9_GTG_10_TTC_11_TTC_12_GCG_13_TCA_14_GTC_15_GCA_16_CCG_17_CGT_18_CTG_19_CAG_
+ga:0_TTT_1_CCG_2_AGC_3_GCG_4_AAG_5_CCG_6_CCG_7_CTC_8_GGC_9_GTG_10_TTC_11_TTC_12_GCG_13_AGC_14_GTA_15_GCG_16_CCA_17_CGT_18_CTG_19_CAG_
+Differences found:
+Index 7: L - qa_codon: CTT, ga_codon: CTC
+Index 8: G - qa_codon: GGA, ga_codon: GGC
+Index 13: S - qa_codon: TCA, ga_codon: AGC
+Index 14: V - qa_codon: GTC, ga_codon: GTA
+Index 15: A - qa_codon: GCA, ga_codon: GCG
+Index 16: P - qa_codon: CCG, ga_codon: CCA
+end
+
+start
+Target sequence: PRYYSISSSPKFAPNRIHVT
+qa:[-95.68699833] >= ga:[-96.01088639]
+qa:17.782438039779663 >= ga:0.9252443313598633
+qa:0_CCA_1_CGC_2_TAC_3_TAT_4_AGC_5_ATC_6_TCT_7_AGC_8_TCT_9_CCG_10_AAG_11_TTC_12_GCT_13_CCG_14_AAC_15_CGT_16_ATA_17_CAC_18_GTC_19_ACG_
+ga:0_CCG_1_CGC_2_TAC_3_TAC_4_AGC_5_ATC_6_AGC_7_TCG_8_TCG_9_CCG_10_AAG_11_TTC_12_GCG_13_CCG_14_AAC_15_CGC_16_ATA_17_CAT_18_GTG_19_ACG_
+Differences found:
+Index 0: P - qa_codon: CCA, ga_codon: CCG
+Index 3: Y - qa_codon: TAT, ga_codon: TAC
+Index 6: S - qa_codon: TCT, ga_codon: AGC
+Index 7: S - qa_codon: AGC, ga_codon: TCG
+Index 8: S - qa_codon: TCT, ga_codon: TCG
+Index 12: A - qa_codon: GCT, ga_codon: GCG
+Index 15: R - qa_codon: CGT, ga_codon: CGC
+Index 17: H - qa_codon: CAC, ga_codon: CAT
+Index 18: V - qa_codon: GTC, ga_codon: GTG
+end
+
+start
+Target sequence: CALVYEQTPSGRVHKGVCST
+qa:[-95.81943235] >= ga:[-96.0702807]
+qa:15.64376425743103 >= ga:2.41137433052063
+qa:0_TGT_1_GCA_2_CTC_3_GTG_4_TAT_5_GAG_6_CAG_7_ACT_8_CCG_9_AGC_10_GGT_11_CGC_12_GTG_13_CAT_14_AAG_15_GGT_16_GTG_17_TGC_18_AGC_19_ACG_
+ga:0_TGC_1_GCG_2_CTC_3_GTG_4_TAT_5_GAG_6_CAG_7_ACG_8_CCG_9_AGC_10_GGC_11_CGC_12_GTG_13_CAT_14_AAG_15_GGC_16_GTG_17_TGC_18_AGC_19_ACG_
+Differences found:
+Index 0: C - qa_codon: TGT, ga_codon: TGC
+Index 1: A - qa_codon: GCA, ga_codon: GCG
+Index 7: T - qa_codon: ACT, ga_codon: ACG
+Index 10: G - qa_codon: GGT, ga_codon: GGC
+Index 15: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: WMKNAVPMTESQDCSWAPIY
+qa:[-94.9475908] >= ga:[-95.13452958]
+qa:15.708794355392456 >= ga:2.077234983444214
+qa:0_TGG_1_ATG_2_AAG_3_AAC_4_GCA_5_GTG_6_CCG_7_ATG_8_ACA_9_GAG_10_TCT_11_CAG_12_GAC_13_TGC_14_TCT_15_TGG_16_GCA_17_CCG_18_ATC_19_TAT_
+ga:0_TGG_1_ATG_2_AAG_3_AAC_4_GCA_5_GTG_6_CCG_7_ATG_8_ACT_9_GAG_10_TCG_11_CAG_12_GAC_13_TGC_14_AGC_15_TGG_16_GCG_17_CCG_18_ATC_19_TAT_
+Differences found:
+Index 8: T - qa_codon: ACA, ga_codon: ACT
+Index 10: S - qa_codon: TCT, ga_codon: TCG
+Index 14: S - qa_codon: TCT, ga_codon: AGC
+Index 16: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: VRTSNFRLPSDPKVPVIMIG
+qa:[-95.12981681] >= ga:[-95.6046119]
+qa:16.045846700668335 >= ga:2.6694154739379883
+qa:0_GTG_1_CGC_2_ACT_3_AGC_4_AAC_5_TTC_6_CGA_7_CTG_8_CCG_9_TCT_10_GAT_11_CCG_12_AAG_13_GTA_14_CCG_15_GTG_16_ATC_17_ATG_18_ATC_19_GGT_
+ga:0_GTG_1_CGC_2_ACG_3_AGC_4_AAC_5_TTC_6_CGT_7_CTG_8_CCG_9_AGC_10_GAT_11_CCG_12_AAG_13_GTG_14_CCG_15_GTG_16_ATC_17_ATG_18_ATC_19_GGC_
+Differences found:
+Index 2: T - qa_codon: ACT, ga_codon: ACG
+Index 6: R - qa_codon: CGA, ga_codon: CGT
+Index 9: S - qa_codon: TCT, ga_codon: AGC
+Index 13: V - qa_codon: GTA, ga_codon: GTG
+Index 19: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: PGTGLAPFRGFLQERLAQKE
+qa:[-94.59345247] >= ga:[-94.65357923]
+qa:16.476057291030884 >= ga:2.3738551139831543
+qa:0_CCA_1_GGT_2_ACC_3_GGT_4_CTC_5_GCG_6_CCG_7_TTC_8_CGC_9_GGC_10_TTC_11_CTG_12_CAG_13_GAG_14_CGT_15_CTC_16_GCT_17_CAG_18_AAG_19_GAA_
+ga:0_CCA_1_GGC_2_ACC_3_GGC_4_CTA_5_GCG_6_CCG_7_TTC_8_CGC_9_GGC_10_TTC_11_CTG_12_CAG_13_GAG_14_CGT_15_CTC_16_GCG_17_CAG_18_AAG_19_GAA_
+Differences found:
+Index 1: G - qa_codon: GGT, ga_codon: GGC
+Index 3: G - qa_codon: GGT, ga_codon: GGC
+Index 4: L - qa_codon: CTC, ga_codon: CTA
+Index 16: A - qa_codon: GCT, ga_codon: GCG
+end
+
+start
+Target sequence: AGTELGTAILFFGCRNRKVD
+qa:[-94.25377596] >= ga:[-94.63175037]
+qa:16.680397510528564 >= ga:1.388169527053833
+qa:0_GCA_1_GGC_2_ACA_3_GAG_4_CTC_5_GGC_6_ACA_7_GCG_8_ATA_9_CTC_10_TTC_11_TTC_12_GGT_13_TGT_14_CGT_15_AAC_16_CGT_17_AAG_18_GTA_19_GAT_
+ga:0_GCC_1_GGC_2_ACT_3_GAG_4_CTC_5_GGC_6_ACT_7_GCG_8_ATA_9_CTG_10_TTC_11_TTC_12_GGC_13_TGT_14_CGC_15_AAC_16_CGC_17_AAG_18_GTC_19_GAT_
+Differences found:
+Index 0: A - qa_codon: GCA, ga_codon: GCC
+Index 2: T - qa_codon: ACA, ga_codon: ACT
+Index 6: T - qa_codon: ACA, ga_codon: ACT
+Index 9: L - qa_codon: CTC, ga_codon: CTG
+Index 12: G - qa_codon: GGT, ga_codon: GGC
+Index 14: R - qa_codon: CGT, ga_codon: CGC
+Index 16: R - qa_codon: CGT, ga_codon: CGC
+Index 18: V - qa_codon: GTA, ga_codon: GTC
+end
+
+start
+Target sequence: FIYEDELNNFVETGALSELV
+qa:[-95.72674332] >= ga:[-96.08164437]
+qa:16.129113912582397 >= ga:2.197059154510498
+qa:0_TTC_1_ATC_2_TAT_3_GAG_4_GAT_5_GAG_6_CTG_7_AAC_8_AAC_9_TTC_10_GTC_11_GAG_12_ACA_13_GGA_14_GCG_15_CTG_16_TCT_17_GAG_18_CTC_19_GTA_
+ga:0_TTC_1_ATC_2_TAT_3_GAG_4_GAT_5_GAG_6_CTG_7_AAC_8_AAC_9_TTC_10_GTC_11_GAG_12_ACT_13_GGC_14_GCG_15_CTG_16_AGC_17_GAG_18_CTC_19_GTG_
+Differences found:
+Index 12: T - qa_codon: ACA, ga_codon: ACT
+Index 13: G - qa_codon: GGA, ga_codon: GGC
+Index 16: S - qa_codon: TCT, ga_codon: AGC
+Index 19: V - qa_codon: GTA, ga_codon: GTG
+end
+
+start
+Target sequence: TAFSREGATKEYVQHKMTQK
+qa:[-95.3653478] >= ga:[-95.58115183]
+qa:16.427839517593384 >= ga:2.0029988288879395
+qa:0_ACT_1_GCA_2_TTC_3_TCT_4_CGT_5_GAA_6_GGC_7_GCG_8_ACG_9_AAG_10_GAG_11_TAT_12_GTA_13_CAG_14_CAT_15_AAG_16_ATG_17_ACG_18_CAG_19_AAG_
+ga:0_ACT_1_GCG_2_TTC_3_TCG_4_CGC_5_GAA_6_GGC_7_GCG_8_ACG_9_AAG_10_GAG_11_TAT_12_GTG_13_CAG_14_CAT_15_AAG_16_ATG_17_ACG_18_CAG_19_AAG_
+Differences found:
+Index 1: A - qa_codon: GCA, ga_codon: GCG
+Index 3: S - qa_codon: TCT, ga_codon: TCG
+Index 4: R - qa_codon: CGT, ga_codon: CGC
+Index 12: V - qa_codon: GTA, ga_codon: GTG
+end
+
+start
+Target sequence: ASDIWNLLSEGAYLYVCGDA
+qa:[-96.2104583] >= ga:[-96.70587405]
+qa:15.825966119766235 >= ga:2.0431556701660156
+qa:0_GCG_1_AGT_2_GAT_3_ATC_4_TGG_5_AAC_6_CTG_7_CTC_8_TCG_9_GAA_10_GGC_11_GCA_12_TAT_13_CTG_14_TAT_15_GTC_16_TGC_17_GGC_18_GAT_19_GCA_
+ga:0_GCG_1_AGC_2_GAT_3_ATC_4_TGG_5_AAC_6_CTG_7_CTG_8_AGC_9_GAA_10_GGC_11_GCG_12_TAT_13_CTG_14_TAT_15_GTG_16_TGC_17_GGC_18_GAT_19_GCG_
+Differences found:
+Index 1: S - qa_codon: AGT, ga_codon: AGC
+Index 7: L - qa_codon: CTC, ga_codon: CTG
+Index 8: S - qa_codon: TCG, ga_codon: AGC
+Index 11: A - qa_codon: GCA, ga_codon: GCG
+Index 15: V - qa_codon: GTC, ga_codon: GTG
+Index 19: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: KGMAKDVHRTLHTIVQEQGS
+qa:[-95.23113255] >= ga:[-95.73572692]
+qa:17.0121009349823 >= ga:2.163566827774048
+qa:0_AAA_1_GGT_2_ATG_3_GCC_4_AAG_5_GAT_6_GTG_7_CAT_8_CGT_9_ACT_10_CTG_11_CAC_12_ACG_13_ATA_14_GTG_15_CAG_16_GAG_17_CAA_18_GGC_19_AGT_
+ga:0_AAA_1_GGC_2_ATG_3_GCG_4_AAG_5_GAT_6_GTG_7_CAT_8_CGC_9_ACG_10_CTG_11_CAT_12_ACG_13_ATC_14_GTG_15_CAG_16_GAA_17_CAA_18_GGC_19_AGC_
+Differences found:
+Index 1: G - qa_codon: GGT, ga_codon: GGC
+Index 3: A - qa_codon: GCC, ga_codon: GCG
+Index 8: R - qa_codon: CGT, ga_codon: CGC
+Index 9: T - qa_codon: ACT, ga_codon: ACG
+Index 11: H - qa_codon: CAC, ga_codon: CAT
+Index 13: I - qa_codon: ATA, ga_codon: ATC
+Index 16: E - qa_codon: GAG, ga_codon: GAA
+Index 19: S - qa_codon: AGT, ga_codon: AGC
+end
+
+start
+Target sequence: LDSSKAELYVKNLQMAGRYL
+qa:[-95.80888395] >= ga:[-96.24183101]
+qa:18.743263959884644 >= ga:2.49173903465271
+qa:0_CTC_1_GAT_2_AGT_3_AGC_4_AAG_5_GCT_6_GAG_7_CTC_8_TAT_9_GTC_10_AAG_11_AAT_12_CTG_13_CAG_14_ATG_15_GCA_16_GGT_17_CGC_18_TAT_19_CTG_
+ga:0_CTC_1_GAT_2_AGC_3_AGC_4_AAG_5_GCA_6_GAG_7_CTG_8_TAT_9_GTG_10_AAG_11_AAC_12_CTG_13_CAG_14_ATG_15_GCC_16_GGC_17_CGC_18_TAT_19_CTG_
+Differences found:
+Index 2: S - qa_codon: AGT, ga_codon: AGC
+Index 5: A - qa_codon: GCT, ga_codon: GCA
+Index 7: L - qa_codon: CTC, ga_codon: CTG
+Index 9: V - qa_codon: GTC, ga_codon: GTG
+Index 11: N - qa_codon: AAT, ga_codon: AAC
+Index 15: A - qa_codon: GCA, ga_codon: GCC
+Index 16: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: MSDNGPQNQRNAPRITFGGP
+qa:[-94.48795642] >= ga:[-94.94366335]
+qa:16.358775854110718 >= ga:2.416489601135254
+qa:0_ATG_1_AGC_2_GAC_3_AAC_4_GGT_5_CCG_6_CAG_7_AAT_8_CAG_9_CGT_10_AAC_11_GCG_12_CCT_13_CGT_14_ATC_15_ACA_16_TTC_17_GGC_18_GGA_19_CCG_
+ga:0_ATG_1_AGC_2_GAT_3_AAC_4_GGT_5_CCG_6_CAG_7_AAC_8_CAG_9_CGC_10_AAC_11_GCG_12_CCG_13_CGC_14_ATC_15_ACG_16_TTC_17_GGC_18_GGT_19_CCG_
+Differences found:
+Index 2: D - qa_codon: GAC, ga_codon: GAT
+Index 7: N - qa_codon: AAT, ga_codon: AAC
+Index 9: R - qa_codon: CGT, ga_codon: CGC
+Index 12: P - qa_codon: CCT, ga_codon: CCG
+Index 13: R - qa_codon: CGT, ga_codon: CGC
+Index 15: T - qa_codon: ACA, ga_codon: ACG
+Index 18: G - qa_codon: GGA, ga_codon: GGT
+end
+
+start
+Target sequence: SDSTGSNQNGERSGARSKQR
+qa:[-95.20634994] >= ga:[-95.42275051]
+qa:14.34041953086853 >= ga:2.518068552017212
+qa:0_AGT_1_GAC_2_AGC_3_ACT_4_GGC_5_AGC_6_AAC_7_CAG_8_AAC_9_GGC_10_GAG_11_CGC_12_AGT_13_GGC_14_GCG_15_CGT_16_AGC_17_AAG_18_CAG_19_CGC_
+ga:0_AGC_1_GAT_2_AGC_3_ACT_4_GGC_5_AGC_6_AAC_7_CAG_8_AAC_9_GGC_10_GAG_11_CGC_12_AGC_13_GGC_14_GCG_15_CGC_16_AGC_17_AAG_18_CAG_19_CGC_
+Differences found:
+Index 0: S - qa_codon: AGT, ga_codon: AGC
+Index 1: D - qa_codon: GAC, ga_codon: GAT
+Index 12: S - qa_codon: AGT, ga_codon: AGC
+Index 15: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: RPQGLPNNTASWFTALTQHG
+qa:[-94.98167775] >= ga:[-95.23561846]
+qa:16.780227661132812 >= ga:2.4282519817352295
+qa:0_CGT_1_CCG_2_CAA_3_GGC_4_TTG_5_CCG_6_AAT_7_AAC_8_ACT_9_GCG_10_AGC_11_TGG_12_TTC_13_ACA_14_GCG_15_CTG_16_ACT_17_CAG_18_CAC_19_GGC_
+ga:0_CGT_1_CCG_2_CAA_3_GGT_4_CTG_5_CCG_6_AAC_7_AAC_8_ACT_9_GCG_10_AGC_11_TGG_12_TTC_13_ACT_14_GCG_15_CTG_16_ACG_17_CAG_18_CAT_19_GGC_
+Differences found:
+Index 3: G - qa_codon: GGC, ga_codon: GGT
+Index 4: L - qa_codon: TTG, ga_codon: CTG
+Index 6: N - qa_codon: AAT, ga_codon: AAC
+Index 13: T - qa_codon: ACA, ga_codon: ACT
+Index 16: T - qa_codon: ACT, ga_codon: ACG
+Index 18: H - qa_codon: CAC, ga_codon: CAT
+end
+
+start
+Target sequence: KEDLKFPRGQGVPINTNSSP
+qa:[-92.94297688] >= ga:[-93.20921487]
+qa:17.145095586776733 >= ga:2.2684710025787354
+qa:0_AAG_1_GAA_2_GAT_3_CTG_4_AAG_5_TTC_6_CCG_7_CGT_8_GGC_9_CAA_10_GGC_11_GTT_12_CCG_13_ATT_14_AAT_15_ACC_16_AAT_17_AGC_18_AGT_19_CCA_
+ga:0_AAG_1_GAA_2_GAT_3_CTG_4_AAG_5_TTC_6_CCG_7_CGC_8_GGC_9_CAA_10_GGC_11_GTG_12_CCG_13_ATT_14_AAC_15_ACC_16_AAC_17_AGC_18_TCT_19_CCG_
+Differences found:
+Index 7: R - qa_codon: CGT, ga_codon: CGC
+Index 11: V - qa_codon: GTT, ga_codon: GTG
+Index 14: N - qa_codon: AAT, ga_codon: AAC
+Index 16: N - qa_codon: AAT, ga_codon: AAC
+Index 18: S - qa_codon: AGT, ga_codon: TCT
+Index 19: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: DDQIGYYRRATRRIRGGDGK
+qa:[-96.50972263] >= ga:[-96.59815844]
+qa:19.25133204460144 >= ga:2.080364942550659
+qa:0_GAT_1_GAT_2_CAG_3_ATC_4_GGC_5_TAC_6_TAT_7_CGT_8_CGT_9_GCG_10_ACA_11_CGT_12_CGC_13_ATA_14_CGC_15_GGT_16_GGC_17_GAT_18_GGC_19_AAG_
+ga:0_GAT_1_GAT_2_CAG_3_ATC_4_GGC_5_TAC_6_TAT_7_CGT_8_CGC_9_GCG_10_ACG_11_CGT_12_CGC_13_ATA_14_CGT_15_GGC_16_GGC_17_GAC_18_GGC_19_AAG_
+Differences found:
+Index 8: R - qa_codon: CGT, ga_codon: CGC
+Index 10: T - qa_codon: ACA, ga_codon: ACG
+Index 14: R - qa_codon: CGC, ga_codon: CGT
+Index 15: G - qa_codon: GGT, ga_codon: GGC
+Index 17: D - qa_codon: GAT, ga_codon: GAC
+end
+
+start
+Target sequence: MKDLSPRWYFYYLGTGPEAG
+qa:[-94.10096832] >= ga:[-94.37317525]
+qa:16.13244390487671 >= ga:2.276932716369629
+qa:0_ATG_1_AAG_2_GAT_3_CTG_4_TCT_5_CCT_6_CGC_7_TGG_8_TAC_9_TTC_10_TAC_11_TAT_12_CTC_13_GGC_14_ACC_15_GGT_16_CCA_17_GAA_18_GCC_19_GGC_
+ga:0_ATG_1_AAG_2_GAT_3_CTG_4_TCG_5_CCG_6_CGC_7_TGG_8_TAC_9_TTC_10_TAC_11_TAT_12_CTC_13_GGC_14_ACC_15_GGT_16_CCG_17_GAA_18_GCC_19_GGC_
+Differences found:
+Index 4: S - qa_codon: TCT, ga_codon: TCG
+Index 5: P - qa_codon: CCT, ga_codon: CCG
+Index 16: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: LPYGANKDGIIWVATEGALN
+qa:[-93.51804064] >= ga:[-93.99859624]
+qa:17.689759969711304 >= ga:2.0301833152770996
+qa:0_TTA_1_CCG_2_TAC_3_GGC_4_GCT_5_AAC_6_AAG_7_GAT_8_GGC_9_ATC_10_ATC_11_TGG_12_GTC_13_GCG_14_ACT_15_GAA_16_GGC_17_GCT_18_CTG_19_AAT_
+ga:0_CTG_1_CCG_2_TAT_3_GGC_4_GCG_5_AAC_6_AAG_7_GAT_8_GGC_9_ATC_10_ATC_11_TGG_12_GTC_13_GCG_14_ACG_15_GAA_16_GGC_17_GCG_18_CTG_19_AAC_
+Differences found:
+Index 0: L - qa_codon: TTA, ga_codon: CTG
+Index 2: Y - qa_codon: TAC, ga_codon: TAT
+Index 4: A - qa_codon: GCT, ga_codon: GCG
+Index 14: T - qa_codon: ACT, ga_codon: ACG
+Index 17: A - qa_codon: GCT, ga_codon: GCG
+Index 19: N - qa_codon: AAT, ga_codon: AAC
+end
+
+start
+Target sequence: TPKDHIGTRNPANNAAIVLQ
+qa:[-95.23250807] >= ga:[-95.45812258]
+qa:15.411331176757812 >= ga:2.255507230758667
+qa:0_ACG_1_CCG_2_AAG_3_GAT_4_CAT_5_ATC_6_GGT_7_ACA_8_CGC_9_AAT_10_CCG_11_GCT_12_AAT_13_AAT_14_GCT_15_GCG_16_ATC_17_GTG_18_CTG_19_CAG_
+ga:0_ACG_1_CCG_2_AAG_3_GAT_4_CAT_5_ATC_6_GGC_7_ACG_8_CGC_9_AAT_10_CCG_11_GCG_12_AAC_13_AAC_14_GCA_15_GCT_16_ATC_17_GTG_18_CTG_19_CAG_
+Differences found:
+Index 6: G - qa_codon: GGT, ga_codon: GGC
+Index 7: T - qa_codon: ACA, ga_codon: ACG
+Index 11: A - qa_codon: GCT, ga_codon: GCG
+Index 12: N - qa_codon: AAT, ga_codon: AAC
+Index 13: N - qa_codon: AAT, ga_codon: AAC
+Index 14: A - qa_codon: GCT, ga_codon: GCA
+Index 15: A - qa_codon: GCG, ga_codon: GCT
+end
+
+start
+Target sequence: LPQGTTLPKGFYAEGSRGGS
+qa:[-93.58728471] >= ga:[-93.80590549]
+qa:15.032375574111938 >= ga:2.5294551849365234
+qa:0_CTG_1_CCG_2_CAA_3_GGC_4_ACT_5_ACG_6_CTG_7_CCG_8_AAG_9_GGC_10_TTC_11_TAT_12_GCG_13_GAA_14_GGT_15_TCG_16_CGC_17_GGC_18_GGT_19_TCT_
+ga:0_CTG_1_CCG_2_CAA_3_GGC_4_ACG_5_ACG_6_CTG_7_CCG_8_AAG_9_GGC_10_TTC_11_TAT_12_GCG_13_GAA_14_GGC_15_TCG_16_CGC_17_GGC_18_GGC_19_AGC_
+Differences found:
+Index 4: T - qa_codon: ACT, ga_codon: ACG
+Index 14: G - qa_codon: GGT, ga_codon: GGC
+Index 18: G - qa_codon: GGT, ga_codon: GGC
+Index 19: S - qa_codon: TCT, ga_codon: AGC
+end
+
+start
+Target sequence: QASSRSSSRSRNSSRNSTPG
+qa:[-95.78180644] >= ga:[-96.21917207]
+qa:16.055104970932007 >= ga:2.7777929306030273
+qa:0_CAG_1_GCG_2_AGC_3_TCT_4_CGC_5_TCT_6_AGC_7_TCT_8_CGC_9_TCG_10_CGC_11_AAC_12_TCG_13_TCA_14_CGT_15_AAT_16_AGC_17_ACG_18_CCT_19_GGA_
+ga:0_CAG_1_GCG_2_AGC_3_TCG_4_CGC_5_AGC_6_AGC_7_TCG_8_CGC_9_TCG_10_CGC_11_AAC_12_AGC_13_TCG_14_CGC_15_AAC_16_AGC_17_ACG_18_CCA_19_GGC_
+Differences found:
+Index 3: S - qa_codon: TCT, ga_codon: TCG
+Index 5: S - qa_codon: TCT, ga_codon: AGC
+Index 7: S - qa_codon: TCT, ga_codon: TCG
+Index 12: S - qa_codon: TCG, ga_codon: AGC
+Index 13: S - qa_codon: TCA, ga_codon: TCG
+Index 14: R - qa_codon: CGT, ga_codon: CGC
+Index 15: N - qa_codon: AAT, ga_codon: AAC
+Index 18: P - qa_codon: CCT, ga_codon: CCA
+Index 19: G - qa_codon: GGA, ga_codon: GGC
+end
+
+start
+Target sequence: SSRGTSPARMAGNGGDAALA
+qa:[-95.28117203] >= ga:[-95.56521337]
+qa:15.27612829208374 >= ga:2.6648459434509277
+qa:0_AGC_1_AGT_2_CGT_3_GGC_4_ACG_5_AGT_6_CCG_7_GCG_8_CGC_9_ATG_10_GCA_11_GGT_12_AAT_13_GGT_14_GGT_15_GAC_16_GCA_17_GCG_18_CTC_19_GCA_
+ga:0_TCG_1_TCG_2_CGC_3_GGC_4_ACG_5_TCG_6_CCG_7_GCG_8_CGC_9_ATG_10_GCC_11_GGC_12_AAC_13_GGC_14_GGC_15_GAT_16_GCA_17_GCG_18_CTC_19_GCG_
+Differences found:
+Index 0: S - qa_codon: AGC, ga_codon: TCG
+Index 1: S - qa_codon: AGT, ga_codon: TCG
+Index 2: R - qa_codon: CGT, ga_codon: CGC
+Index 5: S - qa_codon: AGT, ga_codon: TCG
+Index 10: A - qa_codon: GCA, ga_codon: GCC
+Index 11: G - qa_codon: GGT, ga_codon: GGC
+Index 12: N - qa_codon: AAT, ga_codon: AAC
+Index 13: G - qa_codon: GGT, ga_codon: GGC
+Index 14: G - qa_codon: GGT, ga_codon: GGC
+Index 15: D - qa_codon: GAC, ga_codon: GAT
+Index 19: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: LLLLDRLNQLESKMSGKGQQ
+qa:[-95.03137173] >= ga:[-95.81051155]
+qa:17.73249864578247 >= ga:2.6012275218963623
+qa:0_CTG_1_CTG_2_CTG_3_CTA_4_GAC_5_CGA_6_CTG_7_AAC_8_CAG_9_CTC_10_GAG_11_AGC_12_AAG_13_ATG_14_TCT_15_GGT_16_AAG_17_GGT_18_CAG_19_CAG_
+ga:0_CTG_1_CTG_2_CTG_3_CTC_4_GAT_5_CGT_6_CTG_7_AAC_8_CAG_9_CTC_10_GAG_11_AGC_12_AAG_13_ATG_14_AGC_15_GGC_16_AAG_17_GGC_18_CAG_19_CAG_
+Differences found:
+Index 3: L - qa_codon: CTA, ga_codon: CTC
+Index 4: D - qa_codon: GAC, ga_codon: GAT
+Index 5: R - qa_codon: CGA, ga_codon: CGT
+Index 14: S - qa_codon: TCT, ga_codon: AGC
+Index 15: G - qa_codon: GGT, ga_codon: GGC
+Index 17: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: QQGQTVTKKSAAEASKKPRQ
+qa:[-94.87817055] >= ga:[-95.06163013]
+qa:16.671058654785156 >= ga:2.4630682468414307
+qa:0_CAG_1_CAA_2_GGT_3_CAG_4_ACT_5_GTC_6_ACT_7_AAG_8_AAG_9_AGC_10_GCT_11_GCA_12_GAG_13_GCG_14_AGC_15_AAG_16_AAG_17_CCG_18_CGT_19_CAG_
+ga:0_CAG_1_CAA_2_GGC_3_CAG_4_ACT_5_GTG_6_ACG_7_AAG_8_AAG_9_AGC_10_GCA_11_GCA_12_GAG_13_GCG_14_AGC_15_AAG_16_AAG_17_CCG_18_CGT_19_CAG_
+Differences found:
+Index 2: G - qa_codon: GGT, ga_codon: GGC
+Index 5: V - qa_codon: GTC, ga_codon: GTG
+Index 6: T - qa_codon: ACT, ga_codon: ACG
+Index 10: A - qa_codon: GCT, ga_codon: GCA
+end
+
+start
+Target sequence: KRTATKAYNVTQAFGRRGPE
+qa:[-94.93114275] >= ga:[-95.09135834]
+qa:17.725523710250854 >= ga:2.4705865383148193
+qa:0_AAG_1_CGC_2_ACT_3_GCG_4_ACG_5_AAG_6_GCA_7_TAT_8_AAC_9_GTG_10_ACA_11_CAG_12_GCG_13_TTC_14_GGC_15_CGT_16_CGC_17_GGT_18_CCG_19_GAA_
+ga:0_AAG_1_CGC_2_ACT_3_GCG_4_ACG_5_AAG_6_GCG_7_TAT_8_AAC_9_GTG_10_ACG_11_CAG_12_GCG_13_TTC_14_GGC_15_CGT_16_CGC_17_GGT_18_CCG_19_GAA_
+Differences found:
+Index 6: A - qa_codon: GCA, ga_codon: GCG
+Index 10: T - qa_codon: ACA, ga_codon: ACG
+end
+
+start
+Target sequence: QTQGNFGDQELIRQGTDYKH
+qa:[-94.6611713] >= ga:[-94.96590373]
+qa:17.30394983291626 >= ga:2.0692179203033447
+qa:0_CAG_1_ACA_2_CAA_3_GGC_4_AAC_5_TTC_6_GGC_7_GAT_8_CAG_9_GAG_10_CTC_11_ATA_12_CGT_13_CAA_14_GGC_15_ACA_16_GAC_17_TAC_18_AAG_19_CAT_
+ga:0_CAG_1_ACG_2_CAA_3_GGC_4_AAC_5_TTC_6_GGC_7_GAT_8_CAG_9_GAG_10_CTG_11_ATA_12_CGC_13_CAA_14_GGC_15_ACT_16_GAC_17_TAT_18_AAG_19_CAT_
+Differences found:
+Index 1: T - qa_codon: ACA, ga_codon: ACG
+Index 10: L - qa_codon: CTC, ga_codon: CTG
+Index 12: R - qa_codon: CGT, ga_codon: CGC
+Index 15: T - qa_codon: ACA, ga_codon: ACT
+Index 17: Y - qa_codon: TAC, ga_codon: TAT
+end
+
+start
+Target sequence: WPQIAQFAPSASAFFGMSRI
+qa:[-95.73949411] >= ga:[-96.02520215]
+qa:16.581470012664795 >= ga:2.159146547317505
+qa:0_TGG_1_CCA_2_CAG_3_ATC_4_GCG_5_CAG_6_TTC_7_GCA_8_CCG_9_AGC_10_GCG_11_AGC_12_GCG_13_TTC_14_TTC_15_GGT_16_ATG_17_TCA_18_CGT_19_ATC_
+ga:0_TGG_1_CCG_2_CAG_3_ATC_4_GCG_5_CAG_6_TTC_7_GCG_8_CCG_9_AGC_10_GCG_11_AGC_12_GCG_13_TTC_14_TTC_15_GGC_16_ATG_17_TCG_18_CGC_19_ATC_
+Differences found:
+Index 1: P - qa_codon: CCA, ga_codon: CCG
+Index 7: A - qa_codon: GCA, ga_codon: GCG
+Index 15: G - qa_codon: GGT, ga_codon: GGC
+Index 17: S - qa_codon: TCA, ga_codon: TCG
+Index 18: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: GMEVTPSGTWLTYTGAIKLD
+qa:[-94.39625712] >= ga:[-94.86008815]
+qa:17.694168090820312 >= ga:2.453160285949707
+qa:0_GGC_1_ATG_2_GAA_3_GTG_4_ACA_5_CCG_6_AGC_7_GGT_8_ACG_9_TGG_10_CTC_11_ACG_12_TAT_13_ACA_14_GGC_15_GCG_16_ATC_17_AAG_18_CTA_19_GAT_
+ga:0_GGC_1_ATG_2_GAA_3_GTG_4_ACG_5_CCG_6_AGC_7_GGC_8_ACC_9_TGG_10_CTG_11_ACG_12_TAT_13_ACT_14_GGC_15_GCG_16_ATC_17_AAG_18_CTC_19_GAT_
+Differences found:
+Index 4: T - qa_codon: ACA, ga_codon: ACG
+Index 7: G - qa_codon: GGT, ga_codon: GGC
+Index 8: T - qa_codon: ACG, ga_codon: ACC
+Index 10: L - qa_codon: CTC, ga_codon: CTG
+Index 13: T - qa_codon: ACA, ga_codon: ACT
+Index 18: L - qa_codon: CTA, ga_codon: CTC
+end
+
+start
+Target sequence: DKDPNFKDQVILLNKHIDAY
+qa:[-95.16011891] >= ga:[-95.40407043]
+qa:15.947754144668579 >= ga:2.0763511657714844
+qa:0_GAC_1_AAG_2_GAT_3_CCG_4_AAC_5_TTC_6_AAG_7_GAT_8_CAG_9_GTG_10_ATA_11_CTG_12_CTG_13_AAC_14_AAG_15_CAT_16_ATA_17_GAT_18_GCG_19_TAC_
+ga:0_GAT_1_AAG_2_GAT_3_CCG_4_AAC_5_TTC_6_AAG_7_GAT_8_CAG_9_GTG_10_ATA_11_CTG_12_CTG_13_AAC_14_AAG_15_CAT_16_ATC_17_GAT_18_GCG_19_TAT_
+Differences found:
+Index 0: D - qa_codon: GAC, ga_codon: GAT
+Index 16: I - qa_codon: ATA, ga_codon: ATC
+Index 19: Y - qa_codon: TAC, ga_codon: TAT
+end
+
+start
+Target sequence: KTFPPTEPKKDKKKKADETQ
+qa:[-93.61594673] >= ga:[-93.63671053]
+qa:19.005605459213257 >= ga:1.822728157043457
+qa:0_AAG_1_ACC_2_TTC_3_CCG_4_CCG_5_ACA_6_GAG_7_CCG_8_AAG_9_AAG_10_GAT_11_AAG_12_AAG_13_AAG_14_AAG_15_GCA_16_GAT_17_GAG_18_ACG_19_CAG_
+ga:0_AAG_1_ACC_2_TTC_3_CCG_4_CCG_5_ACT_6_GAG_7_CCG_8_AAG_9_AAG_10_GAT_11_AAG_12_AAG_13_AAG_14_AAG_15_GCA_16_GAT_17_GAG_18_ACG_19_CAG_
+Differences found:
+Index 5: T - qa_codon: ACA, ga_codon: ACT
+end
+
+start
+Target sequence: ALPQRQKKQQTVTLLPAADL
+qa:[-96.18826436] >= ga:[-96.68891178]
+qa:17.175146341323853 >= ga:2.364138126373291
+qa:0_GCA_1_CTG_2_CCA_3_CAG_4_CGT_5_CAG_6_AAG_7_AAG_8_CAG_9_CAG_10_ACT_11_GTG_12_ACT_13_CTG_14_CTA_15_CCG_16_GCA_17_GCA_18_GAT_19_CTG_
+ga:0_GCG_1_CTG_2_CCG_3_CAG_4_CGT_5_CAG_6_AAG_7_AAG_8_CAG_9_CAG_10_ACT_11_GTG_12_ACG_13_CTG_14_CTG_15_CCG_16_GCT_17_GCA_18_GAT_19_CTG_
+Differences found:
+Index 0: A - qa_codon: GCA, ga_codon: GCG
+Index 2: P - qa_codon: CCA, ga_codon: CCG
+Index 12: T - qa_codon: ACT, ga_codon: ACG
+Index 14: L - qa_codon: CTA, ga_codon: CTG
+Index 16: A - qa_codon: GCA, ga_codon: GCT
+end
+
+start
+Target sequence: MDLFMRIFTIGTVTLKQGEI
+qa:[-94.90549671] >= ga:[-95.43943951]
+qa:16.026464700698853 >= ga:2.273710012435913
+qa:0_ATG_1_GAT_2_CTA_3_TTC_4_ATG_5_CGC_6_ATC_7_TTC_8_ACT_9_ATC_10_GGC_11_ACT_12_GTG_13_ACG_14_CTG_15_AAG_16_CAA_17_GGC_18_GAG_19_ATA_
+ga:0_ATG_1_GAT_2_CTG_3_TTC_4_ATG_5_CGC_6_ATC_7_TTC_8_ACG_9_ATC_10_GGC_11_ACT_12_GTG_13_ACG_14_CTG_15_AAG_16_CAA_17_GGC_18_GAG_19_ATC_
+Differences found:
+Index 2: L - qa_codon: CTA, ga_codon: CTG
+Index 8: T - qa_codon: ACT, ga_codon: ACG
+Index 19: I - qa_codon: ATA, ga_codon: ATC
+end
+
+start
+Target sequence: KDATPSDFVRATATIPIQAS
+qa:[-95.2677784] >= ga:[-95.87487581]
+qa:17.35209012031555 >= ga:2.2726736068725586
+qa:0_AAG_1_GAT_2_GCG_3_ACT_4_CCG_5_AGT_6_GAC_7_TTC_8_GTA_9_CGT_10_GCG_11_ACT_12_GCT_13_ACT_14_ATT_15_CCG_16_ATA_17_CAG_18_GCG_19_TCG_
+ga:0_AAG_1_GAT_2_GCG_3_ACG_4_CCG_5_AGC_6_GAC_7_TTC_8_GTG_9_CGC_10_GCG_11_ACT_12_GCG_13_ACG_14_ATA_15_CCG_16_ATA_17_CAG_18_GCG_19_AGC_
+Differences found:
+Index 3: T - qa_codon: ACT, ga_codon: ACG
+Index 5: S - qa_codon: AGT, ga_codon: AGC
+Index 8: V - qa_codon: GTA, ga_codon: GTG
+Index 9: R - qa_codon: CGT, ga_codon: CGC
+Index 12: A - qa_codon: GCT, ga_codon: GCG
+Index 13: T - qa_codon: ACT, ga_codon: ACG
+Index 14: I - qa_codon: ATT, ga_codon: ATA
+Index 19: S - qa_codon: TCG, ga_codon: AGC
+end
+
+start
+Target sequence: LPFGWLIVGVALLAVFQSAS
+qa:[-95.25670304] >= ga:[-95.88855408]
+qa:16.878706455230713 >= ga:2.631565809249878
+qa:0_TTG_1_CCG_2_TTC_3_GGC_4_TGG_5_TTG_6_ATC_7_GTC_8_GGT_9_GTC_10_GCG_11_CTG_12_CTA_13_GCA_14_GTG_15_TTC_16_CAG_17_AGC_18_GCG_19_AGC_
+ga:0_CTG_1_CCG_2_TTC_3_GGC_4_TGG_5_CTG_6_ATC_7_GTC_8_GGT_9_GTC_10_GCG_11_CTG_12_CTC_13_GCA_14_GTG_15_TTC_16_CAG_17_AGT_18_GCG_19_AGC_
+Differences found:
+Index 0: L - qa_codon: TTG, ga_codon: CTG
+Index 5: L - qa_codon: TTG, ga_codon: CTG
+Index 12: L - qa_codon: CTA, ga_codon: CTC
+Index 17: S - qa_codon: AGC, ga_codon: AGT
+end
+
+start
+Target sequence: KIITLKKRWQLALSKGVHFV
+qa:[-94.42504625] >= ga:[-94.73396503]
+qa:17.969188690185547 >= ga:2.3085098266601562
+qa:0_AAG_1_ATC_2_ATC_3_ACT_4_CTC_5_AAG_6_AAG_7_CGC_8_TGG_9_CAG_10_CTC_11_GCG_12_CTG_13_TCT_14_AAG_15_GGC_16_GTG_17_CAC_18_TTC_19_GTG_
+ga:0_AAG_1_ATC_2_ATC_3_ACG_4_CTG_5_AAG_6_AAG_7_CGC_8_TGG_9_CAG_10_CTC_11_GCG_12_CTG_13_AGC_14_AAG_15_GGC_16_GTG_17_CAC_18_TTC_19_GTG_
+Differences found:
+Index 3: T - qa_codon: ACT, ga_codon: ACG
+Index 4: L - qa_codon: CTC, ga_codon: CTG
+Index 13: S - qa_codon: TCT, ga_codon: AGC
+end
+
+start
+Target sequence: CNLLLLFVTVYSHLLLVAAG
+qa:[-95.96605172] >= ga:[-96.93367831]
+qa:19.033372402191162 >= ga:1.0892927646636963
+qa:0_TGC_1_AAC_2_CTG_3_CTC_4_CTG_5_CTG_6_TTC_7_GTG_8_ACT_9_GTG_10_TAC_11_TCA_12_CAT_13_CTG_14_CTG_15_CTC_16_GTA_17_GCA_18_GCG_19_GGT_
+ga:0_TGC_1_AAC_2_CTG_3_CTG_4_CTG_5_CTG_6_TTC_7_GTC_8_ACT_9_GTG_10_TAC_11_TCG_12_CAT_13_CTG_14_CTG_15_CTC_16_GTC_17_GCA_18_GCA_19_GGC_
+Differences found:
+Index 3: L - qa_codon: CTC, ga_codon: CTG
+Index 7: V - qa_codon: GTG, ga_codon: GTC
+Index 11: S - qa_codon: TCA, ga_codon: TCG
+Index 16: V - qa_codon: GTA, ga_codon: GTC
+Index 18: A - qa_codon: GCG, ga_codon: GCA
+Index 19: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: LEAPFLYLYALVYFLQSINF
+qa:[-96.07994768] < ga:[-96.06856371]
+qa:16.879568576812744 >= ga:2.531989097595215
+qa:0_CTC_1_GAG_2_GCA_3_CCG_4_TTC_5_CTG_6_TAT_7_CTG_8_TAT_9_GCG_10_CTC_11_GTG_12_TAC_13_TTC_14_CTG_15_CAG_16_TCT_17_ATC_18_AAC_19_TTC_
+ga:0_CTC_1_GAG_2_GCG_3_CCG_4_TTC_5_CTG_6_TAT_7_CTC_8_TAT_9_GCG_10_CTC_11_GTG_12_TAC_13_TTC_14_CTG_15_CAG_16_AGC_17_ATC_18_AAC_19_TTC_
+Differences found:
+Index 2: A - qa_codon: GCA, ga_codon: GCG
+Index 7: L - qa_codon: CTG, ga_codon: CTC
+Index 16: S - qa_codon: TCT, ga_codon: AGC
+end
+
+start
+Target sequence: VRIIMRLWLCWKCRSKNPLL
+qa:[-95.58015743] >= ga:[-96.29373303]
+qa:17.24087905883789 >= ga:2.144850254058838
+qa:0_GTA_1_CGT_2_ATC_3_ATC_4_ATG_5_AGA_6_CTG_7_TGG_8_CTG_9_TGC_10_TGG_11_AAG_12_TGT_13_CGC_14_AGC_15_AAG_16_AAT_17_CCT_18_CTG_19_CTA_
+ga:0_GTG_1_CGC_2_ATC_3_ATC_4_ATG_5_CGT_6_CTG_7_TGG_8_CTG_9_TGC_10_TGG_11_AAG_12_TGT_13_CGC_14_TCG_15_AAG_16_AAT_17_CCG_18_CTG_19_CTG_
+Differences found:
+Index 0: V - qa_codon: GTA, ga_codon: GTG
+Index 1: R - qa_codon: CGT, ga_codon: CGC
+Index 5: R - qa_codon: AGA, ga_codon: CGT
+Index 14: S - qa_codon: AGC, ga_codon: TCG
+Index 17: P - qa_codon: CCT, ga_codon: CCG
+Index 19: L - qa_codon: CTA, ga_codon: CTG
+end
+
+start
+Target sequence: YDANYFLCWHTNCYDYCIPY
+qa:[-95.90049173] >= ga:[-95.90049173]
+qa:15.052050352096558 >= ga:0.8515207767486572
+qa:0_TAT_1_GAT_2_GCG_3_AAC_4_TAC_5_TTC_6_CTG_7_TGC_8_TGG_9_CAT_10_ACG_11_AAC_12_TGC_13_TAT_14_GAC_15_TAC_16_TGC_17_ATA_18_CCG_19_TAT_
+ga:0_TAT_1_GAT_2_GCG_3_AAC_4_TAC_5_TTC_6_CTG_7_TGC_8_TGG_9_CAT_10_ACG_11_AAC_12_TGC_13_TAT_14_GAC_15_TAC_16_TGC_17_ATA_18_CCG_19_TAT_
+identical.
+end
+
+start
+Target sequence: NSVTSSIVITSGDGTTSPIS
+qa:[-95.7975653] >= ga:[-96.30657413]
+qa:17.108861207962036 >= ga:1.6734585762023926
+qa:0_AAC_1_TCT_2_GTG_3_ACG_4_TCG_5_TCT_6_ATC_7_GTC_8_ATC_9_ACG_10_TCT_11_GGC_12_GAC_13_GGT_14_ACT_15_ACT_16_AGT_17_CCG_18_ATC_19_AGC_
+ga:0_AAC_1_AGC_2_GTG_3_ACG_4_AGC_5_AGC_6_ATC_7_GTG_8_ATC_9_ACT_10_AGC_11_GGC_12_GAT_13_GGC_14_ACG_15_ACG_16_TCG_17_CCG_18_ATC_19_AGC_
+Differences found:
+Index 1: S - qa_codon: TCT, ga_codon: AGC
+Index 4: S - qa_codon: TCG, ga_codon: AGC
+Index 5: S - qa_codon: TCT, ga_codon: AGC
+Index 7: V - qa_codon: GTC, ga_codon: GTG
+Index 9: T - qa_codon: ACG, ga_codon: ACT
+Index 10: S - qa_codon: TCT, ga_codon: AGC
+Index 12: D - qa_codon: GAC, ga_codon: GAT
+Index 13: G - qa_codon: GGT, ga_codon: GGC
+Index 14: T - qa_codon: ACT, ga_codon: ACG
+Index 15: T - qa_codon: ACT, ga_codon: ACG
+Index 16: S - qa_codon: AGT, ga_codon: TCG
+end
+
+start
+Target sequence: EHDYQIGGYTEKWESGVKDC
+qa:[-95.17557175] >= ga:[-95.19633554]
+qa:16.848923921585083 >= ga:0.8530118465423584
+qa:0_GAG_1_CAT_2_GAC_3_TAT_4_CAG_5_ATC_6_GGC_7_GGC_8_TAT_9_ACA_10_GAG_11_AAG_12_TGG_13_GAG_14_AGC_15_GGC_16_GTG_17_AAG_18_GAC_19_TGC_
+ga:0_GAG_1_CAT_2_GAC_3_TAT_4_CAG_5_ATC_6_GGC_7_GGC_8_TAT_9_ACT_10_GAG_11_AAG_12_TGG_13_GAG_14_AGC_15_GGC_16_GTG_17_AAG_18_GAC_19_TGC_
+Differences found:
+Index 9: T - qa_codon: ACA, ga_codon: ACT
+end
+
+start
+Target sequence: VVLHSYFTSDYYQLYSTQLS
+qa:[-97.6717708] >= ga:[-98.09538392]
+qa:15.638399600982666 >= ga:1.3986663818359375
+qa:0_GTC_1_GTA_2_CTG_3_CAC_4_TCG_5_TAC_6_TTC_7_ACG_8_AGC_9_GAC_10_TAC_11_TAT_12_CAG_13_CTG_14_TAC_15_TCG_16_ACA_17_CAG_18_CTG_19_AGT_
+ga:0_GTC_1_GTG_2_CTG_3_CAT_4_AGC_5_TAC_6_TTC_7_ACG_8_AGC_9_GAC_10_TAC_11_TAT_12_CAG_13_CTG_14_TAT_15_AGC_16_ACG_17_CAG_18_CTG_19_AGC_
+Differences found:
+Index 1: V - qa_codon: GTA, ga_codon: GTG
+Index 3: H - qa_codon: CAC, ga_codon: CAT
+Index 4: S - qa_codon: TCG, ga_codon: AGC
+Index 14: Y - qa_codon: TAC, ga_codon: TAT
+Index 15: S - qa_codon: TCG, ga_codon: AGC
+Index 16: T - qa_codon: ACA, ga_codon: ACG
+Index 19: S - qa_codon: AGT, ga_codon: AGC
+end
+
+start
+Target sequence: TDTGVEHVTFFIYNKIVDEP
+qa:[-95.70502283] >= ga:[-95.74655042]
+qa:17.48496675491333 >= ga:0.6383419036865234
+qa:0_ACA_1_GAT_2_ACA_3_GGC_4_GTC_5_GAG_6_CAT_7_GTG_8_ACG_9_TTC_10_TTC_11_ATC_12_TAT_13_AAC_14_AAG_15_ATC_16_GTC_17_GAT_18_GAG_19_CCG_
+ga:0_ACT_1_GAT_2_ACT_3_GGC_4_GTC_5_GAG_6_CAT_7_GTG_8_ACG_9_TTC_10_TTC_11_ATC_12_TAT_13_AAC_14_AAG_15_ATC_16_GTC_17_GAT_18_GAG_19_CCG_
+Differences found:
+Index 0: T - qa_codon: ACA, ga_codon: ACT
+Index 2: T - qa_codon: ACA, ga_codon: ACT
+end
+
+start
+Target sequence: EEHVQIHTIDGSSGVVNPVM
+qa:[-95.96807192] >= ga:[-96.28377041]
+qa:16.580857515335083 >= ga:0.8642232418060303
+qa:0_GAG_1_GAG_2_CAT_3_GTG_4_CAG_5_ATA_6_CAT_7_ACG_8_ATC_9_GAT_10_GGT_11_TCG_12_AGC_13_GGT_14_GTC_15_GTG_16_AAT_17_CCA_18_GTG_19_ATG_
+ga:0_GAA_1_GAG_2_CAT_3_GTG_4_CAG_5_ATA_6_CAT_7_ACG_8_ATC_9_GAT_10_GGC_11_AGC_12_AGC_13_GGC_14_GTC_15_GTG_16_AAT_17_CCG_18_GTG_19_ATG_
+Differences found:
+Index 0: E - qa_codon: GAG, ga_codon: GAA
+Index 10: G - qa_codon: GGT, ga_codon: GGC
+Index 11: S - qa_codon: TCG, ga_codon: AGC
+Index 13: G - qa_codon: GGT, ga_codon: GGC
+Index 17: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: MADSNGTITVEELKKLLEQW
+qa:[-95.55182582] >= ga:[-95.78626344]
+qa:16.768775701522827 >= ga:0.5936050415039062
+qa:0_ATG_1_GCT_2_GAC_3_TCT_4_AAT_5_GGC_6_ACG_7_ATC_8_ACT_9_GTA_10_GAG_11_GAG_12_CTG_13_AAG_14_AAG_15_CTG_16_CTC_17_GAG_18_CAG_19_TGG_
+ga:0_ATG_1_GCA_2_GAT_3_AGC_4_AAC_5_GGC_6_ACG_7_ATC_8_ACT_9_GTC_10_GAG_11_GAG_12_CTG_13_AAG_14_AAG_15_CTG_16_CTC_17_GAG_18_CAG_19_TGG_
+Differences found:
+Index 1: A - qa_codon: GCT, ga_codon: GCA
+Index 2: D - qa_codon: GAC, ga_codon: GAT
+Index 3: S - qa_codon: TCT, ga_codon: AGC
+Index 4: N - qa_codon: AAT, ga_codon: AAC
+Index 9: V - qa_codon: GTA, ga_codon: GTC
+end
+
+start
+Target sequence: NLVIGFLFLTWICLLQFAYA
+qa:[-95.44224979] >= ga:[-95.86664007]
+qa:23.841071844100952 >= ga:0.5828678607940674
+qa:0_AAC_1_CTA_2_GTG_3_ATC_4_GGA_5_TTC_6_TTA_7_TTC_8_CTG_9_ACG_10_TGG_11_ATC_12_TGT_13_CTG_14_CTG_15_CAG_16_TTC_17_GCG_18_TAT_19_GCG_
+ga:0_AAC_1_CTC_2_GTG_3_ATC_4_GGC_5_TTC_6_CTG_7_TTC_8_CTG_9_ACG_10_TGG_11_ATC_12_TGT_13_CTG_14_CTG_15_CAG_16_TTC_17_GCG_18_TAT_19_GCG_
+Differences found:
+Index 1: L - qa_codon: CTA, ga_codon: CTC
+Index 4: G - qa_codon: GGA, ga_codon: GGC
+Index 6: L - qa_codon: TTA, ga_codon: CTG
+end
+
+start
+Target sequence: NRNRFLYIIKLIFLWLLWPV
+qa:[-94.41126737] >= ga:[-94.77033945]
+qa:24.116480827331543 >= ga:0.7750649452209473
+qa:0_AAC_1_CGT_2_AAC_3_CGC_4_TTC_5_CTG_6_TAT_7_ATC_8_ATC_9_AAG_10_CTG_11_ATA_12_TTC_13_CTG_14_TGG_15_CTG_16_CTC_17_TGG_18_CCA_19_GTG_
+ga:0_AAC_1_CGC_2_AAC_3_CGG_4_TTC_5_CTG_6_TAT_7_ATC_8_ATC_9_AAG_10_CTG_11_ATC_12_TTC_13_CTG_14_TGG_15_CTG_16_CTG_17_TGG_18_CCG_19_GTG_
+Differences found:
+Index 1: R - qa_codon: CGT, ga_codon: CGC
+Index 3: R - qa_codon: CGC, ga_codon: CGG
+Index 11: I - qa_codon: ATA, ga_codon: ATC
+Index 16: L - qa_codon: CTC, ga_codon: CTG
+Index 18: P - qa_codon: CCA, ga_codon: CCG
+end
+
+start
+Target sequence: TLACFVLAAVYRINWITGGI
+qa:[-95.63113796] >= ga:[-96.02547834]
+qa:15.934021234512329 >= ga:0.7530665397644043
+qa:0_ACG_1_CTG_2_GCA_3_TGC_4_TTC_5_GTG_6_CTC_7_GCA_8_GCA_9_GTA_10_TAT_11_CGT_12_ATC_13_AAC_14_TGG_15_ATC_16_ACA_17_GGC_18_GGT_19_ATT_
+ga:0_ACG_1_CTC_2_GCG_3_TGC_4_TTC_5_GTG_6_CTC_7_GCA_8_GCA_9_GTG_10_TAT_11_CGC_12_ATC_13_AAC_14_TGG_15_ATC_16_ACT_17_GGC_18_GGC_19_ATT_
+Differences found:
+Index 1: L - qa_codon: CTG, ga_codon: CTC
+Index 2: A - qa_codon: GCA, ga_codon: GCG
+Index 9: V - qa_codon: GTA, ga_codon: GTG
+Index 11: R - qa_codon: CGT, ga_codon: CGC
+Index 16: T - qa_codon: ACA, ga_codon: ACT
+Index 18: G - qa_codon: GGT, ga_codon: GGC
+end
+
+start
+Target sequence: AIAMACLVGLMWLSYFIASF
+qa:[-95.63356579] >= ga:[-96.37180312]
+qa:16.134517908096313 >= ga:0.8363761901855469
+qa:0_GCG_1_ATA_2_GCG_3_ATG_4_GCG_5_TGT_6_CTA_7_GTA_8_GGA_9_CTG_10_ATG_11_TGG_12_CTG_13_AGC_14_TAC_15_TTC_16_ATA_17_GCT_18_AGC_19_TTC_
+ga:0_GCG_1_ATC_2_GCG_3_ATG_4_GCG_5_TGT_6_CTC_7_GTC_8_GGC_9_CTG_10_ATG_11_TGG_12_CTG_13_AGC_14_TAC_15_TTC_16_ATC_17_GCG_18_TCG_19_TTC_
+Differences found:
+Index 1: I - qa_codon: ATA, ga_codon: ATC
+Index 6: L - qa_codon: CTA, ga_codon: CTC
+Index 7: V - qa_codon: GTA, ga_codon: GTC
+Index 8: G - qa_codon: GGA, ga_codon: GGC
+Index 16: I - qa_codon: ATA, ga_codon: ATC
+Index 17: A - qa_codon: GCT, ga_codon: GCG
+Index 18: S - qa_codon: AGC, ga_codon: TCG
+end
+
+start
+Target sequence: RLFARTRSMWSFNPETNILL
+qa:[-95.08332624] >= ga:[-95.73755987]
+qa:17.8599693775177 >= ga:0.8250720500946045
+qa:0_CGT_1_CTG_2_TTC_3_GCA_4_CGT_5_ACA_6_CGT_7_AGC_8_ATG_9_TGG_10_AGC_11_TTC_12_AAT_13_CCA_14_GAG_15_ACT_16_AAC_17_ATT_18_CTG_19_CTC_
+ga:0_CGT_1_CTG_2_TTC_3_GCG_4_CGC_5_ACG_6_CGC_7_AGC_8_ATG_9_TGG_10_AGC_11_TTC_12_AAT_13_CCG_14_GAG_15_ACG_16_AAC_17_ATA_18_CTG_19_CTG_
+Differences found:
+Index 3: A - qa_codon: GCA, ga_codon: GCG
+Index 4: R - qa_codon: CGT, ga_codon: CGC
+Index 5: T - qa_codon: ACA, ga_codon: ACG
+Index 6: R - qa_codon: CGT, ga_codon: CGC
+Index 13: P - qa_codon: CCA, ga_codon: CCG
+Index 15: T - qa_codon: ACT, ga_codon: ACG
+Index 17: I - qa_codon: ATT, ga_codon: ATA
+Index 19: L - qa_codon: CTC, ga_codon: CTG
+end
+
+start
+Target sequence: NVPLHGTILTRPLLESELVI
+qa:[-95.14865485] >= ga:[-96.26006137]
+qa:16.29211688041687 >= ga:0.8363144397735596
+qa:0_AAT_1_GTG_2_CCG_3_CTA_4_CAC_5_GGT_6_ACG_7_ATC_8_CTG_9_ACA_10_CGT_11_CCG_12_CTA_13_CTA_14_GAG_15_TCT_16_GAG_17_CTA_18_GTG_19_ATC_
+ga:0_AAC_1_GTG_2_CCG_3_CTG_4_CAT_5_GGC_6_ACG_7_ATA_8_CTG_9_ACG_10_CGT_11_CCG_12_CTG_13_CTC_14_GAG_15_AGC_16_GAG_17_CTC_18_GTG_19_ATC_
+Differences found:
+Index 0: N - qa_codon: AAT, ga_codon: AAC
+Index 3: L - qa_codon: CTA, ga_codon: CTG
+Index 4: H - qa_codon: CAC, ga_codon: CAT
+Index 5: G - qa_codon: GGT, ga_codon: GGC
+Index 7: I - qa_codon: ATC, ga_codon: ATA
+Index 9: T - qa_codon: ACA, ga_codon: ACG
+Index 12: L - qa_codon: CTA, ga_codon: CTG
+Index 13: L - qa_codon: CTA, ga_codon: CTC
+Index 15: S - qa_codon: TCT, ga_codon: AGC
+Index 17: L - qa_codon: CTA, ga_codon: CTC
+end
+
+start
+Target sequence: GAVILRGHLRIAGHHLGRCD
+qa:[-95.51237231] >= ga:[-96.52809611]
+qa:19.64612579345703 >= ga:0.852217435836792
+qa:0_GGC_1_GCT_2_GTG_3_ATA_4_CTA_5_CGT_6_GGA_7_CAT_8_CTG_9_CGT_10_ATC_11_GCT_12_GGC_13_CAT_14_CAC_15_CTC_16_GGA_17_CGC_18_TGT_19_GAT_
+ga:0_GGC_1_GCA_2_GTG_3_ATA_4_CTG_5_CGC_6_GGC_7_CAT_8_CTG_9_CGC_10_ATC_11_GCA_12_GGC_13_CAT_14_CAT_15_CTC_16_GGC_17_CGC_18_TGC_19_GAT_
+Differences found:
+Index 1: A - qa_codon: GCT, ga_codon: GCA
+Index 4: L - qa_codon: CTA, ga_codon: CTG
+Index 5: R - qa_codon: CGT, ga_codon: CGC
+Index 6: G - qa_codon: GGA, ga_codon: GGC
+Index 9: R - qa_codon: CGT, ga_codon: CGC
+Index 11: A - qa_codon: GCT, ga_codon: GCA
+Index 14: H - qa_codon: CAC, ga_codon: CAT
+Index 16: G - qa_codon: GGA, ga_codon: GGC
+Index 18: C - qa_codon: TGT, ga_codon: TGC
+end
+
+start
+Target sequence: IKDLPKEITVATSRTLSYYK
+qa:[-95.98429703] >= ga:[-96.53702098]
+qa:16.33049178123474 >= ga:0.7653493881225586
+qa:0_ATC_1_AAG_2_GAT_3_CTA_4_CCG_5_AAG_6_GAG_7_ATC_8_ACT_9_GTA_10_GCT_11_ACA_12_TCT_13_CGT_14_ACG_15_CTG_16_AGC_17_TAC_18_TAT_19_AAG_
+ga:0_ATT_1_AAG_2_GAT_3_CTG_4_CCG_5_AAG_6_GAG_7_ATC_8_ACT_9_GTC_10_GCG_11_ACG_12_TCG_13_CGC_14_ACG_15_CTG_16_AGC_17_TAC_18_TAT_19_AAG_
+Differences found:
+Index 0: I - qa_codon: ATC, ga_codon: ATT
+Index 3: L - qa_codon: CTA, ga_codon: CTG
+Index 9: V - qa_codon: GTA, ga_codon: GTC
+Index 10: A - qa_codon: GCT, ga_codon: GCG
+Index 11: T - qa_codon: ACA, ga_codon: ACG
+Index 12: S - qa_codon: TCT, ga_codon: TCG
+Index 13: R - qa_codon: CGT, ga_codon: CGC
+end
+
+start
+Target sequence: LGASQRVAGDSGFAAYSRYR
+qa:[-96.07067689] >= ga:[-96.31368099]
+qa:17.954079627990723 >= ga:0.910320520401001
+qa:0_CTC_1_GGT_2_GCA_3_TCG_4_CAG_5_CGC_6_GTA_7_GCA_8_GGT_9_GAT_10_AGC_11_GGC_12_TTC_13_GCA_14_GCA_15_TAC_16_TCT_17_CGC_18_TAT_19_CGC_
+ga:0_TTA_1_GGC_2_GCG_3_AGT_4_CAG_5_CGC_6_GTC_7_GCA_8_GGC_9_GAT_10_AGC_11_GGC_12_TTC_13_GCA_14_GCG_15_TAC_16_AGT_17_CGC_18_TAT_19_CGC_
+Differences found:
+Index 0: L - qa_codon: CTC, ga_codon: TTA
+Index 1: G - qa_codon: GGT, ga_codon: GGC
+Index 2: A - qa_codon: GCA, ga_codon: GCG
+Index 3: S - qa_codon: TCG, ga_codon: AGT
+Index 6: V - qa_codon: GTA, ga_codon: GTC
+Index 8: G - qa_codon: GGT, ga_codon: GGC
+Index 14: A - qa_codon: GCA, ga_codon: GCG
+Index 16: S - qa_codon: TCT, ga_codon: AGT
+end
+
+start
+Target sequence: IGNYKLNTDHSSSSDNIALL
+qa:[-95.6478303] >= ga:[-96.01006291]
+qa:16.815459728240967 >= ga:0.8590443134307861
+qa:0_ATT_1_GGT_2_AAC_3_TAC_4_AAG_5_TTG_6_AAT_7_ACT_8_GAT_9_CAC_10_AGC_11_TCT_12_AGC_13_AGC_14_GAT_15_AAT_16_ATC_17_GCG_18_CTG_19_CTG_
+ga:0_ATT_1_GGC_2_AAC_3_TAT_4_AAG_5_CTG_6_AAC_7_ACT_8_GAT_9_CAT_10_AGC_11_AGC_12_AGC_13_AGC_14_GAT_15_AAC_16_ATC_17_GCG_18_CTG_19_CTG_
+Differences found:
+Index 1: G - qa_codon: GGT, ga_codon: GGC
+Index 3: Y - qa_codon: TAC, ga_codon: TAT
+Index 5: L - qa_codon: TTG, ga_codon: CTG
+Index 6: N - qa_codon: AAT, ga_codon: AAC
+Index 9: H - qa_codon: CAC, ga_codon: CAT
+Index 11: S - qa_codon: TCT, ga_codon: AGC
+Index 15: N - qa_codon: AAT, ga_codon: AAC
+end
+
+start
+Target sequence: MKIILFLALITLATCELYHY
+qa:[-96.57148403] >= ga:[-97.14289316]
+qa:17.598045349121094 >= ga:0.8019697666168213
+qa:0_ATG_1_AAG_2_ATC_3_ATA_4_CTG_5_TTC_6_TTA_7_GCT_8_CTG_9_ATC_10_ACT_11_CTC_12_GCT_13_ACG_14_TGC_15_GAG_16_CTG_17_TAT_18_CAC_19_TAT_
+ga:0_ATG_1_AAG_2_ATC_3_ATA_4_CTG_5_TTC_6_CTC_7_GCG_8_CTG_9_ATC_10_ACG_11_CTC_12_GCG_13_ACG_14_TGC_15_GAG_16_CTG_17_TAT_18_CAC_19_TAT_
+Differences found:
+Index 6: L - qa_codon: TTA, ga_codon: CTC
+Index 7: A - qa_codon: GCT, ga_codon: GCG
+Index 10: T - qa_codon: ACT, ga_codon: ACG
+Index 12: A - qa_codon: GCT, ga_codon: GCG
+end
+
+start
+Target sequence: QECVRGTTVLLKEPCSSGTY
+qa:[-95.48794149] >= ga:[-96.06612472]
+qa:18.908571481704712 >= ga:0.7822163105010986
+qa:0_CAG_1_GAG_2_TGC_3_GTG_4_CGT_5_GGT_6_ACG_7_ACA_8_GTG_9_CTA_10_CTG_11_AAG_12_GAA_13_CCG_14_TGC_15_TCG_16_TCT_17_GGC_18_ACA_19_TAT_
+ga:0_CAG_1_GAG_2_TGC_3_GTG_4_CGC_5_GGC_6_ACG_7_ACT_8_GTG_9_CTG_10_CTG_11_AAG_12_GAA_13_CCG_14_TGC_15_AGC_16_AGC_17_GGC_18_ACG_19_TAT_
+Differences found:
+Index 4: R - qa_codon: CGT, ga_codon: CGC
+Index 5: G - qa_codon: GGT, ga_codon: GGC
+Index 7: T - qa_codon: ACA, ga_codon: ACT
+Index 9: L - qa_codon: CTA, ga_codon: CTG
+Index 15: S - qa_codon: TCG, ga_codon: AGC
+Index 16: S - qa_codon: TCT, ga_codon: AGC
+Index 18: T - qa_codon: ACA, ga_codon: ACG
+end
+
+start
+Target sequence: EGNSPFHPLADNKFALTCFS
+qa:[-94.26713049] >= ga:[-94.44763454]
+qa:15.67023515701294 >= ga:0.733262300491333
+qa:0_GAA_1_GGT_2_AAC_3_TCT_4_CCG_5_TTC_6_CAT_7_CCG_8_CTC_9_GCT_10_GAT_11_AAC_12_AAG_13_TTC_14_GCG_15_CTG_16_ACG_17_TGC_18_TTC_19_TCA_
+ga:0_GAA_1_GGC_2_AAC_3_TCG_4_CCG_5_TTC_6_CAT_7_CCG_8_CTC_9_GCA_10_GAT_11_AAC_12_AAG_13_TTC_14_GCG_15_CTG_16_ACG_17_TGC_18_TTC_19_AGC_
+Differences found:
+Index 1: G - qa_codon: GGT, ga_codon: GGC
+Index 3: S - qa_codon: TCT, ga_codon: TCG
+Index 9: A - qa_codon: GCT, ga_codon: GCA
+Index 19: S - qa_codon: TCA, ga_codon: AGC
+end
+
+start
+Target sequence: TQFAFACPDGVKHVYQLRAR
+qa:[-95.75117269] >= ga:[-95.94731876]
+qa:15.75527834892273 >= ga:0.7298848628997803
+qa:0_ACG_1_CAG_2_TTC_3_GCG_4_TTC_5_GCG_6_TGT_7_CCG_8_GAT_9_GGC_10_GTT_11_AAG_12_CAT_13_GTC_14_TAT_15_CAG_16_CTG_17_CGT_18_GCA_19_CGT_
+ga:0_ACG_1_CAG_2_TTC_3_GCG_4_TTC_5_GCG_6_TGT_7_CCG_8_GAT_9_GGC_10_GTG_11_AAG_12_CAT_13_GTG_14_TAT_15_CAG_16_CTG_17_CGC_18_GCG_19_CGT_
+Differences found:
+Index 10: V - qa_codon: GTT, ga_codon: GTG
+Index 13: V - qa_codon: GTC, ga_codon: GTG
+Index 17: R - qa_codon: CGT, ga_codon: CGC
+Index 18: A - qa_codon: GCA, ga_codon: GCG
+end
+
+start
+Target sequence: SVSPKLFIRQEEVQELYSPI
+qa:[-94.74231519] >= ga:[-95.25906221]
+qa:17.03079843521118 >= ga:0.7611305713653564
+qa:0_TCT_1_GTG_2_TCA_3_CCG_4_AAG_5_CTG_6_TTC_7_ATT_8_CGT_9_CAG_10_GAA_11_GAG_12_GTA_13_CAG_14_GAG_15_CTG_16_TAT_17_AGT_18_CCA_19_ATC_
+ga:0_AGC_1_GTG_2_TCG_3_CCG_4_AAG_5_CTG_6_TTC_7_ATA_8_CGT_9_CAG_10_GAA_11_GAA_12_GTG_13_CAG_14_GAG_15_CTG_16_TAC_17_TCG_18_CCG_19_ATT_
+Differences found:
+Index 0: S - qa_codon: TCT, ga_codon: AGC
+Index 2: S - qa_codon: TCA, ga_codon: TCG
+Index 7: I - qa_codon: ATT, ga_codon: ATA
+Index 11: E - qa_codon: GAG, ga_codon: GAA
+Index 12: V - qa_codon: GTA, ga_codon: GTG
+Index 16: Y - qa_codon: TAT, ga_codon: TAC
+Index 17: S - qa_codon: AGT, ga_codon: TCG
+Index 18: P - qa_codon: CCA, ga_codon: CCG
+Index 19: I - qa_codon: ATC, ga_codon: ATT
+end
+
+start
+Target sequence: FLIVAAIVFITLCFTLKRKT
+qa:[-95.1073236] >= ga:[-95.82922423]
+qa:16.49375820159912 >= ga:0.7733900547027588
+qa:0_TTC_1_CTC_2_ATC_3_GTC_4_GCA_5_GCG_6_ATC_7_GTG_8_TTC_9_ATC_10_ACT_11_CTA_12_TGC_13_TTC_14_ACA_15_CTG_16_AAG_17_CGT_18_AAG_19_ACA_
+ga:0_TTC_1_CTG_2_ATC_3_GTC_4_GCT_5_GCG_6_ATC_7_GTG_8_TTC_9_ATC_10_ACG_11_CTG_12_TGC_13_TTC_14_ACG_15_CTG_16_AAG_17_CGC_18_AAG_19_ACC_
+Differences found:
+Index 1: L - qa_codon: CTC, ga_codon: CTG
+Index 4: A - qa_codon: GCA, ga_codon: GCT
+Index 10: T - qa_codon: ACT, ga_codon: ACG
+Index 11: L - qa_codon: CTA, ga_codon: CTG
+Index 14: T - qa_codon: ACA, ga_codon: ACG
+Index 17: R - qa_codon: CGT, ga_codon: CGC
+Index 19: T - qa_codon: ACA, ga_codon: ACC
+end
+
+Energy Values:
+(array([-96.12557233]), array([-95.74322573]))
+(array([-95.66478218]), array([-95.31409307]))
+(array([-95.61321435]), array([-95.42603728]))
+(array([-94.80528693]), array([-94.4808602]))
+(array([-94.41991829]), array([-94.32844834]))
+(array([-95.92752162]), array([-95.38878173]))
+(array([-94.64162627]), array([-94.47043103]))
+(array([-95.05823284]), array([-94.98449047]))
+(array([-95.99990636]), array([-95.73798122]))
+(array([-93.89958864]), array([-93.86289591]))
+(array([-95.01931715]), array([-94.54270636]))
+(array([-95.52524867]), array([-94.71983558]))
+(array([-96.8050022]), array([-96.20820918]))
+(array([-95.76146319]), array([-95.25513705]))
+(array([-96.60814171]), array([-96.19407693]))
+(array([-94.97344888]), array([-94.72940958]))
+(array([-94.77636214]), array([-94.09686027]))
+(array([-95.51614291]), array([-95.05794159]))
+(array([-96.44218883]), array([-96.24092144]))
+(array([-95.18417813]), array([-94.86681448]))
+(array([-95.75387938]), array([-95.41854092]))
+(array([-94.51402851]), array([-94.3538964]))
+(array([-94.63143384]), array([-94.43442737]))
+(array([-96.00060343]), array([-95.82079178]))
+(array([-94.13190248]), array([-93.94361447]))
+(array([-96.43490763]), array([-96.24883671]))
+(array([-94.509284]), array([-94.37987456]))
+(array([-94.36340616]), array([-94.15756949]))
+(array([-96.79924283]), array([-96.5025517]))
+(array([-96.17515588]), array([-95.68812729]))
+(array([-95.73503221]), array([-95.58740659]))
+(array([-96.52767578]), array([-96.07387428]))
+(array([-95.75217921]), array([-95.38158146]))
+(array([-96.3062922]), array([-96.00570845]))
+(array([-97.9402102]), array([-97.28560493]))
+(array([-95.39893088]), array([-94.89184415]))
+(array([-97.12738005]), array([-96.447415]))
+(array([-96.47413685]), array([-96.08787496]))
+(array([-96.04622759]), array([-95.6311843]))
+(array([-93.95142075]), array([-93.95142075]))
+(array([-94.26116576]), array([-94.04623214]))
+(array([-95.25869639]), array([-95.08790727]))
+(array([-96.57994726]), array([-96.10257505]))
+(array([-97.5387174]), array([-96.95259655]))
+(array([-95.45475232]), array([-95.04413088]))
+(array([-95.78817624]), array([-95.54702162]))
+(array([-95.34290359]), array([-94.81819247]))
+(array([-95.72334767]), array([-95.10423444]))
+(array([-96.17384777]), array([-95.40391693]))
+(array([-96.56835996]), array([-95.95405655]))
+(array([-98.38172772]), array([-98.0456189]))
+(array([-95.98880301]), array([-95.68140663]))
+(array([-94.09641956]), array([-93.73559595]))
+(array([-95.42562549]), array([-95.25516569]))
+(array([-94.16667061]), array([-93.94017513]))
+(array([-95.91047542]), array([-95.69582893]))
+(array([-95.78730244]), array([-95.59560977]))
+(array([-94.84368235]), array([-94.7539683]))
+(array([-95.40719728]), array([-95.02949431]))
+(array([-95.99667302]), array([-95.4238329]))
+(array([-94.8979545]), array([-94.64368853]))
+(array([-98.08750885]), array([-97.17185757]))
+(array([-95.6620853]), array([-95.58348321]))
+(array([-96.10322024]), array([-95.41695234]))
+(array([-95.79511746]), array([-95.62094543]))
+(array([-94.42686121]), array([-94.42686121]))
+(array([-95.10119912]), array([-94.95159342]))
+(array([-95.17697931]), array([-94.90517065]))
+(array([-93.92939189]), array([-93.75009574]))
+(array([-93.7011575]), array([-93.57612305]))
+(array([-95.25173274]), array([-94.7186785]))
+(array([-95.20749685]), array([-94.8538637]))
+(array([-95.98111131]), array([-95.93420515]))
+(array([-95.46868041]), array([-95.28705603]))
+(array([-94.78996456]), array([-94.44357318]))
+(array([-95.4325552]), array([-95.12348364]))
+(array([-95.88745846]), array([-95.71572581]))
+(array([-94.56015834]), array([-94.48813602]))
+(array([-91.50335564]), array([-91.33189122]))
+(array([-95.82753516]), array([-95.64294682]))
+(array([-95.43440922]), array([-95.22752039]))
+(array([-95.22786129]), array([-94.70072827]))
+(array([-96.10631731]), array([-95.76368554]))
+(array([-96.77432939]), array([-96.53625583]))
+(array([-95.4108033]), array([-94.96249196]))
+(array([-94.65037361]), array([-94.17899412]))
+(array([-96.08437822]), array([-95.60890305]))
+(array([-96.46643083]), array([-95.8891305]))
+(array([-97.02070176]), array([-96.75123878]))
+(array([-96.0108115]), array([-95.63717802]))
+(array([-95.74674213]), array([-95.35399196]))
+(array([-94.57411184]), array([-94.41204514]))
+(array([-95.37315987]), array([-95.32117251]))
+(array([-95.03540511]), array([-94.76486753]))
+(array([-96.10298479]), array([-95.80058725]))
+(array([-94.1575555]), array([-93.77290165]))
+(array([-94.70290299]), array([-94.45296805]))
+(array([-95.94622869]), array([-95.44916225]))
+(array([-95.94553173]), array([-95.51612795]))
+(array([-93.8352555]), array([-93.37949225]))
+(array([-94.67976541]), array([-94.2617892]))
+(array([-95.0364979]), array([-94.80234735]))
+(array([-96.34433327]), array([-95.91413095]))
+(array([-96.76899021]), array([-96.56695401]))
+(array([-94.85315132]), array([-94.5908561]))
+(array([-95.13462734]), array([-94.6584629]))
+(array([-93.84985717]), array([-93.46387183]))
+(array([-93.92263419]), array([-93.77912625]))
+(array([-94.77484642]), array([-94.64582797]))
+(array([-95.63735909]), array([-95.07022809]))
+(array([-94.25091192]), array([-93.89331723]))
+(array([-95.44577683]), array([-94.57127479]))
+(array([-96.38295951]), array([-95.95431049]))
+(array([-96.81702434]), array([-96.39084911]))
+(array([-95.56155529]), array([-94.67182803]))
+(array([-94.98773777]), array([-94.46744832]))
+(array([-94.88666045]), array([-94.56462259]))
+(array([-95.12513026]), array([-95.11113719]))
+(array([-93.347669]), array([-93.09782071]))
+(array([-95.13358641]), array([-94.88336009]))
+(array([-95.51454549]), array([-95.30406395]))
+(array([-95.54259781]), array([-95.24834497]))
+(array([-95.84927247]), array([-95.48180328]))
+(array([-95.87302656]), array([-95.40328829]))
+(array([-96.3649829]), array([-95.55446926]))
+(array([-96.04149049]), array([-95.80727867]))
+(array([-94.74051472]), array([-94.6260272]))
+(array([-96.62299758]), array([-96.02285111]))
+(array([-94.91664954]), array([-94.23878238]))
+(array([-95.9108625]), array([-95.46485182]))
+(array([-96.35122289]), array([-95.9629614]))
+(array([-95.46632953]), array([-95.28276756]))
+(array([-95.61165173]), array([-95.03782604]))
+(array([-96.41559463]), array([-96.06063398]))
+(array([-95.65432367]), array([-95.33355487]))
+(array([-94.64402832]), array([-94.17364247]))
+(array([-94.8136844]), array([-94.45501804]))
+(array([-95.94320149]), array([-95.46108103]))
+(array([-95.1783795]), array([-94.57480999]))
+(array([-96.17326175]), array([-95.53244449]))
+(array([-96.4217986]), array([-95.7313742]))
+(array([-94.96095823]), array([-94.63897147]))
+(array([-96.2551674]), array([-95.57603949]))
+(array([-94.66814043]), array([-94.56763219]))
+(array([-96.29681435]), array([-95.63047436]))
+(array([-95.57666566]), array([-94.85161948]))
+(array([-94.35046958]), array([-94.03721984]))
+(array([-94.85600003]), array([-94.65859109]))
+(array([-95.69734157]), array([-95.36881671]))
+(array([-95.29166395]), array([-94.64747934]))
+(array([-96.48036624]), array([-96.33891308]))
+(array([-96.97454709]), array([-96.46052347]))
+(array([-95.06688782]), array([-94.72591834]))
+(array([-97.14031449]), array([-96.11127551]))
+(array([-96.33725087]), array([-95.8261298]))
+(array([-95.10736506]), array([-94.83401388]))
+(array([-94.70335312]), array([-94.58433433]))
+(array([-96.09156752]), array([-95.99385193]))
+(array([-94.98363993]), array([-94.95644671]))
+(array([-94.66252137]), array([-94.58842199]))
+(array([-93.94247935]), array([-93.66140217]))
+(array([-95.63249062]), array([-95.449354]))
+(array([-95.06738703]), array([-94.80476815]))
+(array([-96.27985112]), array([-96.04295994]))
+(array([-97.3556386]), array([-96.95487012]))
+(array([-96.84969086]), array([-96.70025249]))
+(array([-95.91023205]), array([-95.44598298]))
+(array([-96.83167315]), array([-96.33690703]))
+(array([-95.99158353]), array([-95.98035839]))
+(array([-95.34166764]), array([-94.79536471]))
+(array([-94.3411136]), array([-94.20134326]))
+(array([-96.96085829]), array([-96.37445508]))
+(array([-95.85633338]), array([-95.46028001]))
+(array([-97.15230266]), array([-96.96839103]))
+(array([-94.17912285]), array([-94.01658883]))
+(array([-96.01088639]), array([-95.68699833]))
+(array([-96.0702807]), array([-95.81943235]))
+(array([-95.13452958]), array([-94.9475908]))
+(array([-95.6046119]), array([-95.12981681]))
+(array([-94.65357923]), array([-94.59345247]))
+(array([-94.63175037]), array([-94.25377596]))
+(array([-96.08164437]), array([-95.72674332]))
+(array([-95.58115183]), array([-95.3653478]))
+(array([-96.70587405]), array([-96.2104583]))
+(array([-95.73572692]), array([-95.23113255]))
+(array([-96.24183101]), array([-95.80888395]))
+(array([-94.94366335]), array([-94.48795642]))
+(array([-95.42275051]), array([-95.20634994]))
+(array([-95.23561846]), array([-94.98167775]))
+(array([-93.20921487]), array([-92.94297688]))
+(array([-96.59815844]), array([-96.50972263]))
+(array([-94.37317525]), array([-94.10096832]))
+(array([-93.99859624]), array([-93.51804064]))
+(array([-95.45812258]), array([-95.23250807]))
+(array([-93.80590549]), array([-93.58728471]))
+(array([-96.21917207]), array([-95.78180644]))
+(array([-95.56521337]), array([-95.28117203]))
+(array([-95.81051155]), array([-95.03137173]))
+(array([-95.06163013]), array([-94.87817055]))
+(array([-95.09135834]), array([-94.93114275]))
+(array([-94.96590373]), array([-94.6611713]))
+(array([-96.02520215]), array([-95.73949411]))
+(array([-94.86008815]), array([-94.39625712]))
+(array([-95.40407043]), array([-95.16011891]))
+(array([-93.63671053]), array([-93.61594673]))
+(array([-96.68891178]), array([-96.18826436]))
+(array([-95.43943951]), array([-94.90549671]))
+(array([-95.87487581]), array([-95.2677784]))
+(array([-95.88855408]), array([-95.25670304]))
+(array([-94.73396503]), array([-94.42504625]))
+(array([-96.93367831]), array([-95.96605172]))
+(array([-96.06856371]), array([-96.07994768]))
+(array([-96.29373303]), array([-95.58015743]))
+(array([-95.90049173]), array([-95.90049173]))
+(array([-96.30657413]), array([-95.7975653]))
+(array([-95.19633554]), array([-95.17557175]))
+(array([-98.09538392]), array([-97.6717708]))
+(array([-95.74655042]), array([-95.70502283]))
+(array([-96.28377041]), array([-95.96807192]))
+(array([-95.78626344]), array([-95.55182582]))
+(array([-95.86664007]), array([-95.44224979]))
+(array([-94.77033945]), array([-94.41126737]))
+(array([-96.02547834]), array([-95.63113796]))
+(array([-96.37180312]), array([-95.63356579]))
+(array([-95.73755987]), array([-95.08332624]))
+(array([-96.26006137]), array([-95.14865485]))
+(array([-96.52809611]), array([-95.51237231]))
+(array([-96.53702098]), array([-95.98429703]))
+(array([-96.31368099]), array([-96.07067689]))
+(array([-96.01006291]), array([-95.6478303]))
+(array([-97.14289316]), array([-96.57148403]))
+(array([-96.06612472]), array([-95.48794149]))
+(array([-94.44763454]), array([-94.26713049]))
+(array([-95.94731876]), array([-95.75117269]))
+(array([-95.25906221]), array([-94.74231519]))
+(array([-95.82922423]), array([-95.1073236]))
+Total Time taken: 4386.112061500549 seconds
